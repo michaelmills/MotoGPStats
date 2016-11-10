@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Petrucci, primi punti",
+      "news":"Danilo Petrucci in Spagna nel 2012 ha ottenuto i suoi primi punti in MotoGP e nel Motomondiale."
+    },
+    {
+      "event_id":"5",
+      "title":"Marquez, podio da record",
+      "news":"Marc Marquez e' salito sul podio in 31 delle 39 gare sinora corse in MotoGP. Una percentuale del 79,4%."
+    },
+    {
+      "event_id":"4",
+      "title":"Lorenzo, e' qui la festa?",
+      "news":"Jorge Lorenzo compie 28 anni il 4 maggio, giorno seguente alla gara. A Jerez ha debuttato nel Motomondiale nel 2002 in 125. Nelle sue apparizioni in MotoGP, tranne nel 2014, ha sempre ottenuto o la pole position o la vittoria"
+    },
+    {
+      "event_id":"3",
+      "title":"Dovi, mai cosi' bene",
+      "news":"Da quando corre in MotoGP, mai Andrea Dovizioso aveva ottenuto un bottino di 60 punti in tre gare consecutive. Ci e' riuscito in Qatar, Americhe e Argentina 2015"
+    },
+    {
+      "event_id":"2",
+      "title":"Rossi, momento di forma",
+      "news":"Valentino Rossi ha vinto 4 delle ultime 9  gare corse in MotoGP. In precedenza, aveva ottenuto 4 successi negli ultimi 85 gran premi disputati."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi in testa",
+      "news":"Valentino Rossi da 6 anni non conduceva il Mondiale di MotoGP dopo tre gare. Ci e' riuscito nel 2001, 2002, 2003, 2005 e 2009. In tutte queste occasioni ha poi vinto il campionato"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"911",
+  "edition_name":"2004",
+  "event_id":14756,
+  "event_description":"GP Catalunya",
+  "date_start":"11-06-2004",
+  "date_end":"13-06-2004",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":14758,
+      "event_description":"PROVE VENERDI' GP CATALUNYA",
+      "date":"11-06-2004",
+      "date_to_print":"11 Giu 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14758.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":14757,
+      "event_description":"Griglia",
+      "date":"12-06-2004",
+      "date_to_print":"12 Giu 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14757.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":14756,
+      "event_description":"Gara",
+      "date":"13-06-2004",
+      "date_to_print":"13 Giu 2004",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14756.json"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "items":[
+    {
+      "event_id":"130",
+      "round":"27",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Marquez compie un miracolo e supera Lorenzo nelle ultime curve dopo un ultimo giro da cineteca. Lo spagnolo della Yamaha si piazza secondo con alle spalle Iannone che ha resistito fino alla fine dall'attacco di Rossi, che si deve accontentare della quarta posizione. Adesso sono undici i punti di vantaggio del Dottore sul compagno di scuderia."
+    },
+    {
+      "event_id":"125",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro con Lorenzo che sembra ormai lontano per essere recuperato. Tre piloti per due posti sul podio dietro di lui."
+    },
+    {
+      "event_id":"120",
+      "round":"26",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso magistrale di Iannone che approfitta del duello tra Marquez e Rossi per passarli entrambi in curva."
+    },
+    {
+      "event_id":"115",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mezzo secondo di distanza tra Marquez e Lorenzo. Rossi insegue ad una spanna."
+    },
+    {
+      "event_id":"110",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi prova e conclude con successo l'attacco su Iannone, ma la Ducati rimonta sul rettilineo."
+    },
+    {
+      "event_id":"105",
+      "round":"20",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo riesce a recuperare Marquez e torna in testa. Adesso ci sono due piloti tra lui e Rossi."
+    },
+    {
+      "event_id":"100",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Prima prova di sorpasso di Iannone su Lorenzo sul rettilineo d'arrivo. Lo spagnolo riesce a rispondere all'italiano, mantenendo la posizione."
+    },
+    {
+      "event_id":"95",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone continua a spingere forte e si avvicina al duo di testa."
+    },
+    {
+      "event_id":"90",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez completa l'opera e si porta in testa. Rossi, ora quarto dietro Iannone, deve aprire il gas se vuole approfittarne."
+    },
+    {
+      "event_id":"85",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo presto avra' un ospite. Marquez si e' rifatto sotto, portanto a meno di tre decimi il distacco. Rossi segue ad un secondo e mezzo."
+    },
+    {
+      "event_id":"80",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez fa registrare il giro veloce, recuperando circa un decimo per settore a Lorenzo."
+    },
+    {
+      "event_id":"75",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la sfida al cardiopalma tra i tre dietro Lorenzo. Tra Rossi e Marquez e' guerra aperta."
+    },
+    {
+      "event_id":"70",
+      "round":"12",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande manovra di Iannone che in una sola curva riesce a superare Marquez e Rossi."
+    },
+    {
+      "event_id":"65",
+      "round":"10",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Hayden e' costretto ad issare bandiera bianca, portando la sua moto vicino alle barriere di protezione."
+    },
+    {
+      "event_id":"60",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Riprende il duello tra Rossi e Marquez in curva uno. Lo spagnolo riesce a mantenere la seconda posizione."
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi si riporta in terza posizione e riesce a mettere spazio tra lui e Iannone."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sportellate tra Rossi, Marquez e Iannone che favoriscono la fuga di Lorenzo."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Errore di Marquez che favorisce il sorpasso di Rossi. Lo spagnolo rimonta e fa partire uno spettacolare duello che dura per diverse curve."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande sorpasso di Rossi su Iannone. Adesso e' terzo con Marquez nel mirino."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la bagarre tra Iannone e Lorenzo. Rossi intanto si avvicina un po' andando in quarta posizione ai danni di Crutchlow."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone impatta il cupolino della moto con un gabbiano che passava sul circuito. L'italiano riesce a non perdere il controllo della moto. Purtroppo per il pennuto non sembra esserci molto da fare."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi recupera una posizione e si porta in sesta posizione. Lorenzo combatte con Iannone per la prima piazza."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona partenza di Iannone. Lorenzo e Marquez seguono."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Moto ridisposte in griglia e semafori accesi."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Manca poco all'evento piu' atteso della kermesse australiana del Motomondiale. I piloti stanno affrontando il warm up per poi dare voce ai motori in gara."
+    }
+  ]
+}

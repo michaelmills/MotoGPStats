@@ -1,0 +1,59 @@
+{
+  "id":"65",
+  "name":"SACHSENRING CIRCUIT",
+  "city":"SACHSENRING",
+  "country_id":"GER",
+  "country":"Germania",
+  "length":"3671",
+  "bends":"13 (10 a sinistra, 3 a destra)",
+  "foundation_year":"1927",
+  "last_event_name":"GP Germania",
+  "last_event_date":"17-07-2016",
+  "best_winner_name":"Valentino",
+  "best_winner_surname":"Rossi",
+  "best_winner_value":"4",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2015",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:20:336",
+      "average_speed":"164,5",
+      "description":"M. Marquez - Honda - 164,5 km/h - 2015"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2015",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:21:530",
+      "average_speed":"162,000",
+      "description":"M. Marquez - Honda - 162,000 km/h - 2015"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

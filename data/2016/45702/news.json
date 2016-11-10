@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Yamaha dominante",
+      "news":"Nell'era della MotoGP a Misano, su 9 gare disputate, la Yamaha ha vinto per ben 6 volte, equamente divise tra i 3 successi di Jorge Lorenzo e i 3 di Valentino Rossi. Due le vittorie per la Honda, firmate Pedrosa e Marquez, e una per la Ducati, di Stoner."
+    },
+    {
+      "event_id":"7",
+      "title":"Jorge e Marc davanti",
+      "news":"Jorge Lorenzo e Marc Marquez sono i primatisti di vittorie a Misano, con 4 successi ciascuno: per Lorenzo uno in 250 e tre in MotoGP e per Marquez uno in 125, due in Moto2 e uno in MotoGP. Insegue con 3 affermazioni Valentino Rossi, tutte in MotoGP."
+    },
+    {
+      "event_id":"6",
+      "title":"La Suzuki torna a vincerw",
+      "news":"Con la vittoria a Silverstone di Vinales su Suzuki (che non trovava il successo da Le Mans 2007 con Vermuelen) sono 4 le case ad essersi imposte nel 2016. Era appunto dal 2007, quando (come quest'anno) vinsero Ducati, Honda, Suzuki e Yamaha, che quattro moto diverse non conquistavano il successo in un singolo campionato."
+    },
+    {
+      "event_id":"5",
+      "title":"Sette vincitori diversi",
+      "news":"Le ultime 7 gare di MotoGP sono state vinte da 7 piloti diversi: mai era accaduto dall'introduzione di questa classe nel 2002. Nelle ultime 5 gare, inoltre, dopo 62 GP di fila vinti da uno tra Marquez, Lorenzo, Rossi e Pedrosa, per 4 volte ha vinto un pilota diverso dai ''soliti quattro''."
+    },
+    {
+      "event_id":"4",
+      "title":"Pedrosa, ultimo dalla pole",
+      "news":"Dani Pedrosa nel 2010 e' stato l'ultimo pilota a vincere in MotoGP a Misano partendo dalla pole."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo, re di Misano",
+      "news":"Con il ritiro del 2015, Jorge Lorenzo ha interrotto una serie di 8 gare a Misano sempre chiuse in 1o o 2o posizione. Nelle sue nove apparizioni su questo circuito, e' sempre partito in prima fila."
+    },
+    {
+      "event_id":"2",
+      "title":"Fine della striscia",
+      "news":"Vincendo a Misano nel 2014, Valentino Rossi ha interrotto una striscia di 23 successi consecutivi di piloti spagnoli in MotoGP."
+    },
+    {
+      "event_id":"1",
+      "title":"Marc vicino a Doohan",
+      "news":"Marc Marquez e' attualmente a quota 53 successi nel Motomondiale, ha cosi' superato Phil Read, che si trova a 52. Marquez ora vede da vicino Mick Doohan, fermo a 54. Nella storia, hanno fatto meglio solo Agostini, Rossi, Nieto, Hailwood e Lorenzo."
+    }
+  ]
+}

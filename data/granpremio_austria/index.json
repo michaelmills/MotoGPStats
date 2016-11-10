@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_austria",
+  "event_description":"GP Austria",
+  "seasons":[
+    {"season":"2002","played":"no","event_id":"0"},
+    {"season":"2003","played":"no","event_id":"0"},
+    {"season":"2004","played":"no","event_id":"0"},
+    {"season":"2005","played":"no","event_id":"0"},
+    {"season":"2006","played":"no","event_id":"0"},
+    {"season":"2007","played":"no","event_id":"0"},
+    {"season":"2008","played":"no","event_id":"0"},
+    {"season":"2009","played":"no","event_id":"0"},
+    {"season":"2010","played":"no","event_id":"0"},
+    {"season":"2011","played":"no","event_id":"0"},
+    {"season":"2012","played":"no","event_id":"0"},
+    {"season":"2013","played":"no","event_id":"0"},
+    {"season":"2014","played":"no","event_id":"0"},
+    {"season":"2015","played":"no","event_id":"0"},
+    {"season":"2016","played":"yes","event_id":"45654"}
+  ]
+}

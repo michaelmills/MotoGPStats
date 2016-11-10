@@ -1,0 +1,59 @@
+{
+  "id":"82",
+  "name":"CIRCUITO RICARDO TORMO",
+  "city":"VALENCIA",
+  "country_id":"ESP",
+  "country":"Spagna",
+  "length":"4005",
+  "bends":"14 (9 a sinistra, 5 a destra)",
+  "foundation_year":"1999",
+  "last_event_name":"GP Comunita' Valenciana",
+  "last_event_date":"08-11-2015",
+  "best_winner_name":"Daniel",
+  "best_winner_surname":"Pedrosa",
+  "best_winner_value":"3",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2015",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:30:011",
+      "average_speed":"160,100",
+      "description":"J. Lorenzo - Yamaha - 160,100 km/h - 2015"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2015",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:31:367",
+      "average_speed":"157,800",
+      "description":"J. Lorenzo - Yamaha - 157,800 km/h - 2015"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "items":[
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi: Smith ed Espargaro si guadagnano la Q2."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra anche Miller."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi secondi di turno: tutti cercano di guadagnare la Q2."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Smith fa segnare il miglior tempo scavalcando Espargaro."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Problemi meccanici anche per Hernandez che e' costretto a fermarsi."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra Miller: turno finito per lui."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento e' Pol Espargaro a guidare la classifica davanti a Miller."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia il turno di Q1."
+    }
+  ]
+}

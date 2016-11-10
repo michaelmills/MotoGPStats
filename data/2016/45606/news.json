@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"La Yamaha fa 100",
+      "news":"La vittoria di Jorge Lorenzo al Mugello e' stata la numero 100 per la Yamaha dall'introduzione, nel 2002, della MotoGP. Meglio ha fatto solo la Honda con 116. Sono 31 invece i successi della Ducati e 1 per la Suzuki. Solo queste quattro case hanno vinto in MotoGP."
+    },
+    {
+      "event_id":"7",
+      "title":"Marc sempre sul podio",
+      "news":"Nei 60 GP corsi in MotoGP, Marc Marquez e' salito sul podio per 44 volte. E' 15esimo nella classifica all time della Top Class e ha gia' scavalcato piloti come Capirossi (42), Sheene (40) e Kenny Roberts (39). Ora ha nel mirino i 48 podi di Hailwood."
+    },
+    {
+      "event_id":"6",
+      "title":"Il Dottore in pole",
+      "news":"Valentino Rossi, al Mugello, ha ottenuto la sua pole numero 63 nel Motomondiale, eguagliando cosi' il record di Jorge Lorenzo. Nella Top Class, e' salito a 53, a -5 dal record di 58 stabilito da Doohan. Era addirittura dal 2009, inoltre, che non otteneva almeno due pole position in una stagione."
+    },
+    {
+      "event_id":"5",
+      "title":"Rossi, il piu' vincente",
+      "news":"Il pilota piu' vincente nel GP di Catalogna e' Valentino Rossi, con 9 successi: uno in 125, due in 250, uno in 500 e cinque in MotoGP."
+    },
+    {
+      "event_id":"4",
+      "title":"Yamaha al top",
+      "news":"Nell'era della MotoGP in Catalogna sono 8 i successi della Yamaha, seguono a 4 la Honda e a 2 la Ducati."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo fa poker",
+      "news":"Bel ricordo per Jorge Lorenzo in Catalogna: nel 2015 ha vinto qui la sua quarta gara consecutiva in stagione. Mai in carriera aveva ottenuto quattro successi di fila."
+    },
+    {
+      "event_id":"2",
+      "title":"Aleix va forte",
+      "news":"Nel GP di Catalogna del 2011 in Moto2, Aleix Espargaro e' stato 3o, ottenendo il suo primo podio nel Mondiale. Nel 2015 e' partito in pole position (la sua seconda assoluta), riportando la Suzuki davanti a tutti in griglia dopo Assen 2007 con Vermeulen."
+    },
+    {
+      "event_id":"1",
+      "title":"I fantastici 4",
+      "news":"Le ultime 61 gare di MotoGP sono sempre state vinte da uno tra Lorenzo, Marquez, Pedrosa o Rossi: ultimo ''esterno'' Stoner in Australia 2012. Le ultime 98 gare di MotoGP sono sempre state vinte da Honda o Yamaha. Ultima vittoria di un'altra moto: Stoner, su Ducati, in Australia 2010."
+    }
+  ]
+}

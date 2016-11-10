@@ -1,0 +1,95 @@
+{
+  "items":[
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qui la sessione, con il miglior tempo di Rossi, davanti a Pedrosa e Marquez. Tra pochissimo scattano le qualifiche!"
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Altro buon giro di Rossi, proprio mentre sventola la bandiera a scacchi!"
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Passa al comando Valentino Rossi! Buona iniezione di fiducia per il Dottore."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rischio per lo stesso Marquez, che perde per un attimo il controllo della sua Honda nel tentativo di passare Laverty."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nessuno per ora insidia la leadership di Marquez, che pare avere un buon passo gara, oltre a essere come sempre veloce sul giro secco."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Subito dietro a Marquez e Lorenzo troviamo ora Cal Crutchlow, desiderioso di confermare qui a Misano il suo ottimo momento di forma."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cambio della guardia in vetta, con Marquez che guadagna la prima posizione."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo passa al comando, davanti al pilota della Ducati, nato a pochi km dal circuito."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo provvisorio di Dovizioso."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti escono sul circuito, sotto un cielo sereno."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nella terza sessione del mattino, miglior tempo di un ottimo Marquez."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ricordiamo la mancata partecipazione di Iannone, dichiarato non idoneo dai medici."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno a tutti da Misano, dove stanno iniziando le Libere 4 di MotoGP."
+    }
+  ]
+}

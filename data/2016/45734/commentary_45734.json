@@ -1,0 +1,179 @@
+{
+  "items":[
+    {
+      "event_id":"125",
+      "round":"24",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Sventola la bandiera a scacchi! Marquez vince il Gp del Giappone ma, cosa ancora piu' importante, vince matematicamente il suo quinto titolo mondiale, il terzo nella classe MotoGp. Secondo un grandissimo Andrea Dovizioso, chiude il podio Vinales. Disastro Yamaha con Rossi e Lorenzo ritirati.  "
+    },
+    {
+      "event_id":"120",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia adesso l'ultimo giro. Le posizioni sembrano ormai cristallizzate. Marquez si avvia verso il traguardo. "
+    },
+    {
+      "event_id":"115",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez viene avvertito dai box della caduta di Lorenzo e decide cosi' di non forzare piu' di tanto per non rischiare piu' niente. "
+    },
+    {
+      "event_id":"110",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Disastro Yamaha quest'oggi. Nessuno alla vigilia avrebbe mai immaginato un simile scenario con Marquez che gia' stamattina in Giappone potrebbe festeggiare la vittoria del Motomondiale. "
+    },
+    {
+      "event_id":"105",
+      "round":"19",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Colpo di scena a Motegi! Cade anche Lorenzo, arrivato troppo forte in curva poco prima della staccata. A questo punto se finisse cosi' Marquez sarebbe matematicamente Campione del Motomondiale. "
+    },
+    {
+      "event_id":"100",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cinque giri al termine della gara: Marquez ormai veleggia senza problemi verso la vittoria. "
+    },
+    {
+      "event_id":"95",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ce la fa alla fine Vinales. Espargaro non puo' replicare al sorpasso questa volta e scala in quinta posizione.  "
+    },
+    {
+      "event_id":"90",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Vinales velocissimo riesce a raggiungere e superare A.Espargaro ma poi va largo in curva permettendo al pilota della Suzuki di passarlo nuovamente all'interno. "
+    },
+    {
+      "event_id":"85",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso ad elastico avvicina di molto Lorenzo in un settore per poi perderlo nuovamente nel settore successivo. Non molla pero' il centauro della Ducati che vuole a tutti i costi il secondo posto e sembra averne di piu' di Lorenzo. "
+    },
+    {
+      "event_id":"80",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez, come prevedibile alla vigilia, una volta conquistata la testa della gara sta facendo il vuoto dietro di se'. Davvero un peccato per il ritiro di Valentino Rossi, uno dei pochi che sembrava poter impensierire il pilota spagnolo. "
+    },
+    {
+      "event_id":"75",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso accorcia nettamente il suo ritardo nei confronti di Lorenzo. Grande gara finora quella del pilota italiano della Ducati, terzo finora ma gia' presente negli specchietti di Lorenzo, in chiaro affanno."
+    },
+    {
+      "event_id":"70",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sta prendendo il largo a quattordici giri dal termine. Lorenzo dietro di lui, complice anche la caduta di ieri, non sembra avere le energie sufficienti per tentare un attacco al leader del Mondiale."
+    },
+    {
+      "event_id":"65",
+      "round":"9",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Barbera finisce fuori pista ma riesce a rientrare momentaneamente in ultima posizione. "
+    },
+    {
+      "event_id":"60",
+      "round":"8",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Non ce la fa Rossi, costretto a rientrare ai box. "
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamoroso a Motegi! Cade Valentino Rossi che si rimette in pista ma dice addio alle sue speranze di vittoria nel Gp del Giappone e al Mondiale. "
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Chirurgico il Dottore nel sorpasso pulito e preciso nei confronti di Lorenzo. Marquez nel frattempo inizia a guadagnare terreno. "
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Laverty costretto a ritirarsi dopo il fuoripista di poco fa. "
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Velocissimo Marquez! Lo spagnolo riesce a raggiungere e superare Lorenzo, ora secondo davanti a Valentino Rossi. "
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Laverty esce fuori pista ma per il momento riesce a rientrare in corsa. "
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Serie fantastica di sorpassi e controsorpassi tra Rossi e Marquez. Il leader del mondiale riesce a difendere il secondo posto. Ne approfitta Lorenzo che inizia ad allungare. "
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez da subito tenta di aggredire Lorenzo prima che prenda il largo li' davanti. Rossi pero' e' proprio in scia dello spagnolo e tenta il sorpasso. "
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande partenza di Lorenzo che prende la testa della gara. Seguono Marquez e Rossi. "
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si accende il semaforo verde! Inizia il Gp del Giappone. "
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia adesso il giro di ricognizione. "
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Motegi! Benvenuti al Gp del Giappone: davanti a tutti partira' Valentino Rossi ma attenzione alla partenza di Marquez che potrebbe avere un passo gara migliore del Dottore. Lorenzo dalla prima fila l'altra insidia gia' dal primo giro. "
+    }
+  ]
+}

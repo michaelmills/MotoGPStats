@@ -1,0 +1,270 @@
+{
+  "items":[
+    {
+      "event_id":"190",
+      "round":"23",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Iannone riesce a controllare il ritorno di Rossi. Secondo posto per la Ducati! Pedrosa e' quarto."
+    },
+    {
+      "event_id":"185",
+      "round":"23",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Lorenzo sul velluto! Vittoria meritata e mai in discussione."
+    },
+    {
+      "event_id":"180",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia l'ultimo giro."
+    },
+    {
+      "event_id":"175",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bravissimo Iannone: non ha subito la pressione di Rossi e sta gestendo alla grande il finale."
+    },
+    {
+      "event_id":"170",
+      "round":"21",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Spaventoso incidente per Crutchlow. Fortunamente, il pilota non sembra avere grosse conseguenze."
+    },
+    {
+      "event_id":"165",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Davanti, Lorenzo non ha alcun problema. Sta per arrivare il terzo successo consecutivo."
+    },
+    {
+      "event_id":"160",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quattro giri al termine, Rossi prova a ricucire su Iannone, ma la Ducati e' molto veloce."
+    },
+    {
+      "event_id":"155",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone ha avuto un vantaggio dalla bagarre scataneta nell'ultimo giro: il pilota italiano ha un buon margine su Rossi."
+    },
+    {
+      "event_id":"150",
+      "round":"18",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi infila Pedrosa e si porta al terzo posto! Incredibile per come si era messa la gara dopo qualche giro."
+    },
+    {
+      "event_id":"145",
+      "round":"18",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Cade Marquez! Incredibile colpo di scena al Mugello!"
+    },
+    {
+      "event_id":"140",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Se le stanno suonando Iannone e Marquez. Figurone dell'italiano, che sta dando del filo da torcere al fortissimo spagnolo."
+    },
+    {
+      "event_id":"135",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pirro e Petrucci sono a meta' gruppo. Invece, male Melandri, penultimo."
+    },
+    {
+      "event_id":"130",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' rientrato! Iannone, Marquez, Pedrosa e Rossi si giocheranno il secondo posto fino alla fine."
+    },
+    {
+      "event_id":"125",
+      "round":"15",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Dovizioso si ferma ai box. Che sfortuna per il pilota Ducati."
+    },
+    {
+      "event_id":"120",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo non vinceva tre gare di fila dal 2013."
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Oltre 6 secondi di vantaggio per Lorenzo."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi approfitta di un rallentamento di Dovizioso e lo passa. Ora restano altri tre piloti a dividerlo da Lorenzo."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone passa Marquez!"
+    },
+    {
+      "event_id":"100",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua a macinare buoni tempi Rossi. Il dottore vede da vicino la coda di Pedrosa."
+    },
+    {
+      "event_id":"95",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' velocissimo! Il margine e' ancora superiore al secondo e mezzo, ma la speranza che il pilota pesarese possa lottare per il podio resta viva."
+    },
+    {
+      "event_id":"90",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' sesto, ma dovra' darsi molto da fare per avere speranze di rientrare con i fuggitivi. Intanto, Lorenzo sta facendo gara a parte."
+    },
+    {
+      "event_id":"85",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Meravigliosa la lotta a quattro per il secondo posto. Marquez infila tutti e si porta al comando del gruppetto."
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande lotta per il secondo posto. Marquez e' come al solito molto frizzante."
+    },
+    {
+      "event_id":"75",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa sta approfittando del caos tra i tre per rientrare. Ci sara' anche l'esperto pilota Honda per la lotta al podio."
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone passa Marquez per un attimo, ma il campione del mondo e' abile a rispondere."
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino non riesce ad emergere."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Due secondo il vantaggio dello spagnolo sul trio Dovizioso-Marquez-Iannone."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo si sta allontanando."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez viene infilato da Dovizioso, bravissimo l'italiano!"
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il quartetto dei primi si stacca dalla comitiva."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Indemoniato Marquez, secondo!"
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Cade Espargaro!"
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Molto bene Marquez, gia' terzo dopo aver recuperato 10 posizioni rispetto alla griglia."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo passa dopo poche curve! Primo lo spagnolo."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Parte bene Iannone, forse anche anticipando lo start."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tanti fans italiani sulle gradinate."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto pronto per l'inizio della gara."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "items":[
+    {
+      "event_id":"155",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Appuntamento a piu' tardi per la seconda sessione di prove libere. Saluti da Austin."
+    },
+    {
+      "event_id":"150",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Stacca tutti dunque Marquez nella prima sessione di libere, davanti a Lorenzo e Iannone."
+    },
+    {
+      "event_id":"145",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo personale in chiusura per Rossi, ad un secondo e tre decimi da Marquez."
+    },
+    {
+      "event_id":"140",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Cronometro a zero, si attende l'arrivo degli ultimi piloti lanciati sul giro."
+    },
+    {
+      "event_id":"135",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Velocissimo il tempo di Lorenzo, a soli due decimi da Marquez."
+    },
+    {
+      "event_id":"130",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Barbera sale al quinto posto nella classifica dei migliori tempi della corrente sessione di prove libere."
+    },
+    {
+      "event_id":"125",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tredicesimo tempo di Bradl con l'Aprilia."
+    },
+    {
+      "event_id":"120",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta girando anche Jorge Lorenzo."
+    },
+    {
+      "event_id":"115",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista anche Pedrosa, ma da un po' nessuno riesce a migliorare il proprio tempo sul giro."
+    },
+    {
+      "event_id":"110",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Solo Rossi e Pol Espargaro in pista in questo momento."
+    },
+    {
+      "event_id":"105",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Attenzione, fiamme dalla moto di Iannone gia' ai box, intervengono prontamente i meccanici a spegnere."
+    },
+    {
+      "event_id":"100",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nulla di grave, apparentemente, per il pilota appena caduto."
+    },
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta di Jack Milner."
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sotto il muro del due e zero cinque Marquez, Iannone stampa il secondo tempo a poco piu' di sei decimi."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso secondo, Lorenzo terzo."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di venti minuti alla fine della prima sessione di prove libere."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista di nuovo anche Valentino Rossi."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora in pista Marquez, Dovizioso e Redding."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pochissimi i piloti in pista in questo momento."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco meno di un secondo il ritardo di Valentino Rossi rispetto al tempo fatto segnare da Marquez."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora e' Valentino a salire il secondo posto."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande Iannone, che stampa il secondo tempo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sale Lorenzo al secondo posto momentaneo."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Trentadue minuti al termine della sessione di prove.  "
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sesto tempo al momento per Valentino Rossi"
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Torna davanti Marquez, con un tempo di pochissimo sopra i due minuti e sette secondi."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo adesso davanti a Marquez."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez fa subito registrare il miglior crono di giornata."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cielo terso e temperatura gradevole qui in Texas."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti subito in pista a caccia del primo giro cronometrato."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Austin. Libere 1 in corso da qualche secondo."
+    }
+  ]
+}

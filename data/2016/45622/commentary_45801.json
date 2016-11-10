@@ -1,0 +1,60 @@
+{
+  "items":[
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa alza bandiera bianca e interrompe il suo ultimo tentativo; Pol Espargaro ed Hernandez accedono alla Q2."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi! I piloti stanno ultimando il loro ultimo giro cronometrato."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento Hernandez e Barbera sono i qualificati per la Q2."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi cinque minuti di Q1."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa al momento e' quinto e non sembra in condizioni di poter fare il tempo."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo per Hernandez seguito subito da Barbera."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La pista e' umida ma almeno ha smesso di piovere."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia la Q1!"
+    }
+  ]
+}

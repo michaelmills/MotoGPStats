@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_catalunya",
+  "event_description":"GP Catalunya",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12466"},
+    {"season":"2003","played":"yes","event_id":"13473"},
+    {"season":"2004","played":"yes","event_id":"14756"},
+    {"season":"2005","played":"yes","event_id":"15604"},
+    {"season":"2006","played":"yes","event_id":"17179"},
+    {"season":"2007","played":"yes","event_id":"18579"},
+    {"season":"2008","played":"yes","event_id":"19852"},
+    {"season":"2009","played":"yes","event_id":"21728"},
+    {"season":"2010","played":"yes","event_id":"25492"},
+    {"season":"2011","played":"yes","event_id":"28166"},
+    {"season":"2012","played":"yes","event_id":"34457"},
+    {"season":"2013","played":"yes","event_id":"36031"},
+    {"season":"2014","played":"yes","event_id":"39704"},
+    {"season":"2015","played":"yes","event_id":"41611"},
+    {"season":"2016","played":"yes","event_id":"45606"}
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "items":[
+    {
+      "event_id":"100",
+      "round":"30",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez vince il GP di Germania senza grossi patemi. Gia' dai giri iniziali e' riuscito a staccarsi dal gruppo e a farsi la sua gara in solitaria. Bravi Pedrosa e Rossi. Lorenzo chiude quarto e non approfitta dell'ottima partenza!"
+    },
+    {
+      "event_id":"95",
+      "round":"30",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi: Marquez vince il GP di Germania! Pedrosa secondo e Rossi terzo."
+    },
+    {
+      "event_id":"90",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A due giri dalla fine sembra difficile un recupero di Rossi su Pedrosa, il quale sta allungando il distacco dal capolista del Mondiale. "
+    },
+    {
+      "event_id":"85",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi non sembra avere il passo giusto per tentare il sorpasso vincente."
+    },
+    {
+      "event_id":"80",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora otto giri alla fine della gara. Se il primo posto sembra ormai deciso, la battaglia per il secondo posto e' ancora aperta con Rossi che si riavvicina a Pedrosa."
+    },
+    {
+      "event_id":"75",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa cerca di allontanarsi da Rossi sperando di consolidare il secondo posto."
+    },
+    {
+      "event_id":"70",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa riesce a sorpassare Rossi. Vediamo se ora l'italiano riesce a riprendersi il secondo posto."
+    },
+    {
+      "event_id":"65",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez ormai viaggia da solo verso la vittoria. Intanto Dovizioso cade ed e' costretto a ritirarsi."
+    },
+    {
+      "event_id":"60",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa si porta subito vicino a Rossi. La lotta per il secondo posto e' iniziata."
+    },
+    {
+      "event_id":"55",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo sembra in difficolta', anche Pedrosa riesce a superarlo."
+    },
+    {
+      "event_id":"50",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce a superare il diretto contendente al titolo e si porta in seconda posizione."
+    },
+    {
+      "event_id":"45",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continui sorpassi tra Lorenzo e Rossi, con lo spagno che mantiene il secondo posto. Intanto Marquez cerca di staccarsi."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi supera Pedrosa in staccata e guadagna il terzo posto. Nello stesso momento Marquez riesce a passare Lorenzo e ora prova ad allungare."
+    },
+    {
+      "event_id":"35",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez prova a superare Lorenzo, ma quest'ultimo tiene bene e riesce a rimanere in testa."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Imbarcata di Rossi che rischia di cadere; fortunatamente riesce a tenere in piedi la moto e a continuare l'inseguimento."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi fa il giro veloce e cerca di portarsi vicino a Pedrosa."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi si porta subito vicino ai primi superando Iannone e portandosi in quarta posizione. Intanto Redding cade."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo guadagna subito la prima posizione, superando Marquez e Pedrosa."
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Manca poco alla partenza del Gran Premio di Germania. Marquez parte in pole, seguito da Pedrosa e Lorenzo. Rossi parte in sesta posizione. L'italiano deve cercare di guadagnare posizioni per difendersi dal trio spagnolo."
+    }
+  ]
+}

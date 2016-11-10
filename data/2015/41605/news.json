@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Marquez non si ferma",
+      "news":"Nelle sue ultime 5 partecipazioni al GP di Germania, Marc Marquez ha sempre ottenuto pole position e vittoria. Tre volte di queste (2010, 2013 e 2014) anche con il giro veloce."
+    },
+    {
+      "event_id":"5",
+      "title":"Pedrosa Uber Alles",
+      "news":"Il Sachsenring e' il circuito del Motomondiale dove Dani Pedrosa ha ottenuto piu' successi: sono 6 in tutto, di cui 2 in 250 e 4 in MotoGP."
+    },
+    {
+      "event_id":"4",
+      "title":"Lorenzo, mai vincente",
+      "news":"Tra i circuiti di ''lungo corso'' inseriti nel calendario 2015, quello del Sachsenring e' l'unico dove Jorge Lorenzo dove non ha mai vinto. Non si considerano i circuiti di Austin (si corre dal 2013) e Termas de Rio Hondo (si corre dal 2014)."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo dice 90",
+      "news":"Jorge Lorenzo ad Assen ha ottenuto il suo podio numero 90 in MotoGP. E' il quarto pilota nella storia a tagliare questo traguardo nella classe regina, insieme a Rossi, Doohan e Pedrosa."
+    },
+    {
+      "event_id":"2",
+      "title":"Super Yamaha",
+      "news":"La Yamaha ha vinto le ultime 6 gare in MotoGP: e' il record assoluto nella classe regina per la casa giapponese. La striscia piu' lunga e' quella di 22 vittorie di fila della Honda tra 1997 e 1998."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi, l'ultimo record",
+      "news":"Con la pole position di Assen, Valentino Rossi si e' portato a quota 51 nella classe regina. E' a -7 dalle 58 di Doohan, unico record che gli manca riguardo la classe piu' importante. E' infatti il pilota con piu' vittorie (85), podi (168) e giri veloci (72)."
+    }
+  ]
+}

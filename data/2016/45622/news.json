@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Vale fa 10",
+      "news":"Vincendo in Catalogna, Valentino Rossi ha toccato per la prima volta quota 10 successi su un singolo circuito, appunto quello del Montmelo'. In caso di vittoria, potrebbe fare lo stesso ad Assen, dove si e' imposto per ora 9 volte. Nove successi li ha ottenuti anche sui circuiti di Jerez e del Mugello."
+    },
+    {
+      "event_id":"7",
+      "title":"Il bis di Rossi?",
+      "news":"Vincente a Barcellona, Valentino Rossi ad Assen potra' cercare un bis di successi in due gare consecutive: non ci riesce proprio dai GP di Catalogna e Olanda, ma del 2009."
+    },
+    {
+      "event_id":"6",
+      "title":"Marquez di casa sul podio",
+      "news":"Nei 61 GP corsi in MotoGP, Marc Marquez e' salito sul podio per 45 volte. E' 15esimo nella classifica all time della Top Class e ha gia' scavalcato piloti come Capirossi (42), Sheene (40) e Kenny Roberts (39). Ora ha nel mirino i 48 podi di Hailwood."
+    },
+    {
+      "event_id":"5",
+      "title":"La Yamaha va forte",
+      "news":"Nell'era della MotoGP ad Assen, sono 8 i successi della Yamaha, contro 5 della Honda e 1 della Ducati. La Suzuki come miglior risultato vanta i 5o posti di Hopkins (2007) e Vermuelen (2009)."
+    },
+    {
+      "event_id":"4",
+      "title":"Italiani vincenti",
+      "news":"Nella classe regina l'Italia ha vinto ad Assen con i seguenti piloti: Nello Pagani (1949), Umberto Masetti (1950 e 1952), Remo Venturi (1960), Giacomo Agostini (dal 1968 al 1972 e poi nel 1974), Virginio Ferrari (1979), Marco Lucchinelli (1981), Franco Uncini (1982), Max Biaggi (2001), Valentino Rossi (2002, 2004, 2005, 2007, 2009, 2013 e 2015)."
+    },
+    {
+      "event_id":"3",
+      "title":"Che traguardo per Rossi",
+      "news":"Nel 2009 quello ottenuto in MotoGP da Valentino Rossi e' il suo successo numero 100 nel Motomondiale. E' il secondo pilota, dopo Giacomo Agostini, ad arrivare in tripla cifra."
+    },
+    {
+      "event_id":"2",
+      "title":"Dani, solo una volta",
+      "news":"Daniel Pedrosa, nel 2002 in 125 ad Assen, ha ottenuto il suo primo successo nel Motomondiale. In seguito pero' non e' piu' riuscito a ripetersi sul circuito olandese."
+    },
+    {
+      "event_id":"1",
+      "title":"Dovizioso fa 150",
+      "news":"Andrea Dovizioso correra' la sua gara numero 150 in MotoGP. Nelle precedenti 149 ha ottenuto 1 vittoria, 2 giri veloci, 3 pole position e 30 podi."
+    }
+  ]
+}

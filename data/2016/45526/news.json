@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Lorenzo al top",
+      "news":"Jorge Lorenzo, nel weekend di Losail, e' salito a 62 pole e 62 vittorie nel Motomondiale. Riguardo alla pole, e' leader all time nel Motomondiale, meglio delle 61 di Rossi, delle 58 di Marquez e Doohan e delle 56 di Biaggi. Riguardo alle vittorie, e' invece il quinto di sempre dietro Agostini (122), Rossi (112), Nieto (90) e Hailwood (76)."
+    },
+    {
+      "event_id":"7",
+      "title":"Lorenzo fa tripletta",
+      "news":"Considerando l'ultima gara del 2015 corsa a Valencia e la prima del 2016 tenutasi in Qatar, per la prima volta da quando corre nel Motomondiale Jorge Lorenzo ha ottenuto due consecutivi hat-trick (pole, vittoria e giro veloce)."
+    },
+    {
+      "event_id":"6",
+      "title":"Rossi di casa in Argentina",
+      "news":"Tra i piloti che prenderanno parte alla gara, Valentino Rossi e' l'unico ad aver corso nel GP di Argentina nel ''vecchio'' Oscar Galvez, dove ha gareggiato nel 1998 e 1999 in 250. Rossi e' inoltre l'unico pilota di sempre ad aver vinto su entrambi i circuiti argentini: nel 1998 in 250 e nel 2015 in MotoGP."
+    },
+    {
+      "event_id":"5",
+      "title":"Non sempre la prima e' fortunata",
+      "news":"Nelle precedenti 14 stagioni di MotoGP, per 8 volte chi ha vinto la gara inaugurale si e' poi laureato campione a fine anno. Negli ultimi otto anni, pero', il vincitore del primo GP solo in tre casi ha poi conquistato il titolo."
+    },
+    {
+      "event_id":"4",
+      "title":"Honda e Yamaha vincenti",
+      "news":"Nelle due edizioni del Gran Premio corse in MotoGP a Termas de Rio Hondo, Honda e Yamaha hanno ottenuto un successo ciascuno: Marquez 2014 e Rossi 2015. In tutto la Honda ha conquistato 3 podi, contro 2 della Yamaha e 1 della Ducati."
+    },
+    {
+      "event_id":"3",
+      "title":"Marquez di casa sul podio",
+      "news":"Marc Marquez in Qatar e' salito sul podio per la 40esima volta su 55 gare corse in MotoGP: ha chiuso tra i primi tre il 72% delle gare cui ha preso parte nella classe regina."
+    },
+    {
+      "event_id":"2",
+      "title":"Smith, la regolarita'",
+      "news":"In Qatar, Bradley Smith e' andato a punti per la 25esima gara consecutiva in MotoGP. Nella classe regina ha corso 55 gare, le stesse di Marquez, andando a punti piu' volte dello spagnolo (48 contro 46). La striscia di Smith non e' lontana dalle migliori di sempre nella top class. La miglior serie di gare a punti e' quella di Doohan (37 tra Italia 1995 e Indonesia 1997). "
+    },
+    {
+      "event_id":"1",
+      "title":"Il Dovi dice 30",
+      "news":"Andrea Dovizioso in Qatar, pochi giorni prima di compiere 30 anni (che ha festeggiato lo scorso 23 marzo) ha conquistato il suo podio numero 30 in MotoGP."
+    }
+  ]
+}

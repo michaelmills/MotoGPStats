@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12457,
+  "event_description":"GP Olanda",
+  "date_start":"27-06-2002",
+  "date_end":"29-06-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12392,
+      "event_description":"PROVE VENERDI' GP OLANDA",
+      "date":"27-06-2002",
+      "date_to_print":"27 Giu 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12392.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12490,
+      "event_description":"Griglia",
+      "date":"28-06-2002",
+      "date_to_print":"28 Giu 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12490.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12457,
+      "event_description":"Gara",
+      "date":"29-06-2002",
+      "date_to_print":"29 Giu 2002",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12457.json"
+    }
+  ]
+}

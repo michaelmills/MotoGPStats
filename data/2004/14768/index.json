@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"911",
+  "edition_name":"2004",
+  "event_id":14768,
+  "event_description":"GP Sudafrica",
+  "date_start":"16-04-2004",
+  "date_end":"18-04-2004",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":14770,
+      "event_description":"PROVE VENERDI' GP SUDAFRICA",
+      "date":"16-04-2004",
+      "date_to_print":"16 Apr 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14770.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":14769,
+      "event_description":"Griglia",
+      "date":"17-04-2004",
+      "date_to_print":"17 Apr 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14769.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":14768,
+      "event_description":"Gara",
+      "date":"18-04-2004",
+      "date_to_print":"18 Apr 2004",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14768.json"
+    }
+  ]
+}

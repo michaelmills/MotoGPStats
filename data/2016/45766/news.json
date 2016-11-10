@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Nessuno sempre a punti",
+      "news":"Con lo ''zero'' di Marc Marquez in Australia, nessun pilota di MotoGP (e nessuno tra le tre classi) ha ottenuto punti in tutte le gare del Motomondiale: lo scorso anno in MotoGP due piloti andarono a punti in tutte le 18 gare: Valentino Rossi e Bradley Smith."
+    },
+    {
+      "event_id":"7",
+      "title":"Cal fa il bis",
+      "news":"Cal Crutchlow ha vinto a Phillip Island la sua seconda gara in MotoGP (dopo Brno 2016). Era dal 1979, con 3 successi di Barry Sheene, che un pilota britannico non vinceva almeno due gare nella top class. "
+    },
+    {
+      "event_id":"6",
+      "title":"Rossi di casa in Malesia",
+      "news":"Valentino Rossi e' l'unico pilota tra quelli ancora attivi nel Mondiale ad aver corso il GP di Malesia su circuiti diversi da Sepang: ha gareggiato due volte a Shah Alam in 125 (vincendo nel 1997) e una a Johor in 250."
+    },
+    {
+      "event_id":"5",
+      "title":"Marc, 50 su 70",
+      "news":"Nei 70 GP corsi in MotoGP, Marc Marquez ha ottenuto 50 podi. Potrebbe, in Malesia, eguagliare i 51 conquistati nell'allora 500 da Alex Criville' e Kevin Schwantz."
+    },
+    {
+      "event_id":"4",
+      "title":"Rossi recordman",
+      "news":"Recordman di vittorie in Malesia e' Valentino Rossi con 7: si e' imposto nel 1997 in 125 a Shah Alam (sua seconda vittoria in carriera) e sei volte a Sepang in 500/MotoGP: 2001, 2003, 2004, 2006, 2008 e 2010."
+    },
+    {
+      "event_id":"3",
+      "title":"Solo 4 nazioni vincenti",
+      "news":"In Malesia, nella top class, si sono imposti soltanto i piloti di quattro nazioni: USA (Kocinski, Rainey, Roberts Jr), Australia (Doohan, Stoner), Italia (Cadalora, Rossi, Biaggi, Capirossi). A queste negli ultimi 4 anni si e' aggiunta la Spagna, con tre affermazioni di Pedrosa e il successo del 2014 di Marquez."
+    },
+    {
+      "event_id":"2",
+      "title":"Lorenzo mai vincente",
+      "news":"Jorge Lorenzo non ha mai vinto il GP di Malesia in MotoGP: va pero' sul podio consecutivamente da 5 edizioni."
+    },
+    {
+      "event_id":"1",
+      "title":"Honda e Yamaha pari",
+      "news":"Nell'era della MotoGP a Sepang, Honda e Yamaha sono appaiate a quota 5 vittorie, contro le 3 della Ducati. La Honda ha pero' vinto le ultime quattro edizioni consecutive."
+    }
+  ]
+}

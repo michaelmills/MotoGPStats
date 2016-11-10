@@ -1,0 +1,54 @@
+{
+  "id":"17",
+  "name":"SUZUKA INTERNATIONAL RACING COURSE",
+  "city":"SUZUKA",
+  "country_id":"JPN",
+  "country":"Giappone",
+  "length":"5807",
+  "bends":"18 (8 a sinistra, 10 a destra)",
+  "foundation_year":"1962",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2003",
+      "id":"511282",
+      "label":"Rossi V.",
+      "name":"Valentino",
+      "surname":"Rossi",
+      "team":"Honda",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"2:06:838",
+      "average_speed":"165,300",
+      "description":"V. Rossi - Honda - 165.300 km/h - 2003"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2003",
+      "id":"511282",
+      "label":"Rossi V.",
+      "name":"Valentino",
+      "surname":"Rossi",
+      "team":"Honda",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"2:04:970",
+      "average_speed":"167,771",
+      "description":"V. Rossi - Honda - 167.771 km/h - 2003"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Rossi il piu' vincente",
+      "news":"Il primatista assoluto di vittorie nel GP di Gran Bretagna e' Valentino Rossi con 8 successi. Si e' imposto a Donington nel 1997 in 125, nel 1999 in 250, nel 2000 e 2001 in 500, nel 2002, 2004 e 2005 in MotoGP. A Silverstone ha invece vinto in MotoGP nel 2015."
+    },
+    {
+      "event_id":"7",
+      "title":"Lorenzo super a Silverstone",
+      "news":"Negli ultimi sei anni in cui si e' corso a Silverstone, invece, il pilota piu' vincente e' Jorge Lorenzo, con 3 affermazioni in MotoGP (2010, 2012 e 2013). Segue a 2 Marc Marquez, vincente nel 2010 in 125 e nel 2014 in MotoGP. "
+    },
+    {
+      "event_id":"6",
+      "title":"Yamaha e Honda pari",
+      "news":"Nell'era della MotoGP, nel GP di Gran Bretagna, Yamaha e Honda sono appaiate con 6 successi ciascuna, contro i 2 della Ducati. Da quando nel 2010 si e' tornati a correre a Silverstone, pero', guida la Yamaha con 4 successi, contro i 2 della Honda."
+    },
+    {
+      "event_id":"5",
+      "title":"La prima di Vale in top class",
+      "news":"Quello ottenuto a Donington nella classe 500 nel 2000 e' stato il primo successo assoluto di Valentino Rossi nella top class"
+    },
+    {
+      "event_id":"4",
+      "title":"Cal dopo Barry",
+      "news":"Cal Crutchlow non solo ha riportato in Rep. Ceca la Gran Bretagna a vincere nella Top Class, cosa che mancava da Svezia 1981 con Barry Sheene. Ha permesso al suo paese di diventare il settimo nella storia a vincere una gara in MotoGP: Spagna, Italia, Australia, USA, Giappone e Brasile gli altri sei."
+    },
+    {
+      "event_id":"3",
+      "title":"L'unico urra' del Dovi",
+      "news":"Andrea Dovizioso nel 2009 in Gran Bretagna (Donington) ha ottenuto quella che ancora oggi rimane la sua unica vittoria in MotoGP."
+    },
+    {
+      "event_id":"2",
+      "title":"Redding il piu' giovane",
+      "news":"Nel 2008 il GP di Gran Bretagna nella classe 125 viene vinto da Scott redding. Il pilota di casa diventa cosi', ancora oggi, il piu' giovane vincitore di un GP nel Motomondiale con 15 anni e 169 giorni."
+    },
+    {
+      "event_id":"1",
+      "title":"Marc quasi come Doohan",
+      "news":"Marc Marquez e' attualmente a quota 53 successi nel Motomondiale, ha cosi' superato Phil Read, che si trova a 52. Marquez ora vede da vicino Mick Doohan, fermo a 54. Nella storia, hanno fatto meglio solo Agostini, Rossi, Nieto, Hailwood e Lorenzo."
+    }
+  ]
+}

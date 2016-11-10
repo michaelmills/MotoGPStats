@@ -1,0 +1,130 @@
+{
+  "items":[
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Non succede piu' nulla!  Prima posizione per Pedrosa con alle sue spalle Marquez.  Quarta e quinta posizione rispettivamente per Lorenzo e Rossi."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi! I piloti completeranno il giro."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo minuto prima delle qualifiche!"
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Migliora Marquez che consolida la sua seconda posizione."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo dopo la caduta e' subito pronto a ritornare in pista per questi ultimi minuti."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cinque minuti al termine di queste libere."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti in pista stanno testando il ritmo gara.  Nessun giro veloce in questi ultimi minuti."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta proprio per Lorenzo!  Il pilota spagnolo si rialza subito fortunatamente senza conseguenze."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Stanno rientrando ai box anche gli altri piloti per un piccolo break.  Rientra invece Lorenzo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientra ai box il momentaneo leader Pedrosa."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Migliora leggermente il suo tempo Rossi. Il pilota Yamaha non riesce tuttavia a smuovere la sua posizione."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Che rischio per Iannone che in curva perde il controllo della moto!   E' bravo e reattivo pero' il pilota della Ducati a riprendere il controllo e proseguire la corsa."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientra dopo 10 minuti ai box Lorenzo, forse per un cambio gomme."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Davvero in grande forma Pedrosa che al termine di un ottimo giro si porta in prima posizione."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tempi ancora lontani da quello che abbiamo visto nelle scorse libere.  I piloti si stanno probabilmente trattenendo in attesa delle qualifiche."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il primo a segnare il tempo e' Marquez."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il tempo e' nuvoloso qui a Sepang ma la pista e' in buone condizioni."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iniziano ora i 30 minuti di libere 4!"
+    }
+  ]
+}

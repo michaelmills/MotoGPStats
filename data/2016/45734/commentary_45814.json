@@ -1,0 +1,116 @@
+{
+  "items":[
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qui!  Con un giro straordinario, Valentino Rossi porta a casa una grande pole position.  Secondo posto per Marquez e terzo per Lorenzo."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!  Ultimo giro per i piloti e ultimo tentativo di Marquez per dare l'assalto a Rossi."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Superbo giro di Valentino Rossi che abbatte il muro dell'1.44.00 e ci porta in prima posizione!"
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande giro di Dovizioso e momentanea seconda posizione!"
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tre minuti alla fine. Vedremo se qualche pilota riuscira' ad impensierire Marquez."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A distanza di un minuto, anche tutti gli altri piloti sono rientrati ai box per il cambio della moto."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientro ai box per Marquez e Lorenzo. Ad attenderli il cambio moto."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si migliorano molto bene anche Crutchlow ed Espargaro A., facendo scivolare Rossi in quinta posizione."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon giro anche di Rossi che guadagna momentaneamente la terza posizione alle spalle di Marquez e Lorenzo."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si migliora ulteriormente Marquez, lasciando gli inseguitori a quasi un secondo di distanza."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il primo pilota far registrare il proprio tempo e' Marquez, subito bravissimo a chiudere sotto l'1.45.00."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta per Bautista durante il primo giro. Il pilota fa rientro ai box senza conseguenze."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti i piloti in pista hanno montato la stessa tipologia di gomma: media anteriore e soft posteriore."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti i piloti sono gia' scesi in pista."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Inizia la Q2."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Qualche minuto e iniziera' la sifa alla Pole Position con la Q2."
+    }
+  ]
+}

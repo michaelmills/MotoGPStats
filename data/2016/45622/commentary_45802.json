@@ -1,0 +1,88 @@
+{
+  "items":[
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pole per Dovizioso, seguito da Rossi e da Redding. Marquez nonostante la caduta chiude al quarto posto."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi! I piloti stanno ultimando il loro giro lanciato."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tempo startosferico per Pol Espargaro, la pista sta migliorando secondo dopo secondo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez e' riuscito a rientrare in pista."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Torna in pista Rossi."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi cinque minuti di Q2."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimi intertempi per Dovizioso che punta forte la pole."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A terra Marquez che abbandona la sua moto nella via di fuga e prende in prestito il motorino di un commissario per tornare ai box."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Secondo tempo per Rossi, poi Aleix Espargaro."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo per Lorenzo ma dietro stanno arrivando tutti gli altri."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A terra Vinales nel giro di riscaldamento."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia la lotta per la pole!"
+    }
+  ]
+}

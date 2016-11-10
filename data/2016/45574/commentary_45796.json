@@ -1,0 +1,81 @@
+{
+  "items":[
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qui il Q2 valevole per il GP di Francia. Grande prova di Lorenzo che partira' davanti a tutti. Chiudono la prima fila Marquez e Iannone. Settimo posto per Rossi."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran giro di Lorenzo che conquista la pole facendo segnare il record della pista."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"P. Espargaro porta via l'ultimo posto in prima fila a Rossi. Neanche il tempo di festeggiare e Dovizioso se lo porta via."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Scivolata di Iannone. Il pilota si rialza e corre verso il box per provare a recuperare la seconda moto per tentare un nuovo giro."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti ritornano in pista dopo essere rientrati nei box per favorire il recupero della moto di Pedrosa."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Scivolata di Pedrosa che rischia di far cadere diversi piloti. Per fortuna tutti quanti riescono ad evitare la sua Honda."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo ritocca il suo tempo di due decimi. Intanto Rossi fa registrare il terzo tempo."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dietro allo spagnolo di piazzano al momento Iannone e Dovizioso."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo vuole mettere subito le cose in chiaro e abbatte il tempo di Espargaro di un secondo."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pole provvisoria di A. Espargaro."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"SI parte con il Q2 con tutti i piloti che scendono in pista in sella alle loro moto."
+    }
+  ]
+}

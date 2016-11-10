@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Pedrosa fa 250, Espargaro 100.",
+      "news":"Daniel Pedrosa correra' la sua gara numero 250 nel Motomondiale, mentre Aleix Espargaro correra' la sua gara numero 100 in MotoGP. "
+    },
+    {
+      "event_id":"7",
+      "title":"Ritiri Dovizioso",
+      "news":"Andrea Dovizioso viene da tre ritiri consecutivi. Solo una volta gli era gia' capitato da quando corre nel Mondiale, nei GP di Olanda, Stati Uniti e Germania 2009. Alla gara successiva, pero', il GP di Gran Bretagna, ottenne la sua tuttora unica vittoria in MotoGP. "
+    },
+    {
+      "event_id":"6",
+      "title":"Prima vittoria Marquez",
+      "news":"Marc Marquez nel GP di Italia 2010 in 125 ha ottenuto la sua prima vittoria in carriera. Nel 2013 al Mugello si e' ritirato per la prima volta in MotoGP, mentre nel 2015, per la prima e unica volta nella Top Class, non si e' qualificato per il Q2 delle prove ufficiali. "
+    },
+    {
+      "event_id":"5",
+      "title":"Pole uguale vittoria",
+      "news":"Le ultime otto gare di MotoGP (Australia, Malesia e Valencia 2015, Qatar, Argentina, Americhe, Spagna e Francia 2016) sono tutte state vinte dal pilota partito in pole position. L'ultimo vincitore non scattato davanti a tutti e' Dani Pedrosa, 1o nel 2015 in Giappone con la pole position che fu di Jorge Lorenzo. "
+    },
+    {
+      "event_id":"4",
+      "title":"Primo podio Vinales",
+      "news":"Nel GP di Francia, chiudendo 3o, Maverick Vinales ha riportato sul podio la Suzuki. La casa giapponese non ci riusciva dal 3o posto di Loris Capirossi a Brno 2008. "
+    },
+    {
+      "event_id":"3",
+      "title":"Valentino Rossi al Mugello",
+      "news":"Tra i piloti, il piu' vincente al Mugello e' invece Valentino Rossi con 9 successi: uno in 125, uno in 250, e sette consecutivi in MotoGP dal 2002 al 2008. "
+    },
+    {
+      "event_id":"2",
+      "title":"Yamaha al Mugello",
+      "news":"Nell'era della MotoGP al Mugello, la scuderia piu' vincente al Mugello e' la Yamaha, con 9 successi, seguono a 4 la Honda e a 1 (Stoner nel 2009) la Ducati."
+    },
+    {
+      "event_id":"1",
+      "title":"Anniversario moto giapponesi",
+      "news":"Il giorno del GP di Italia, 22 maggio 2016, saranno passati esattamente 50 anni dal 22 maggio 1966: in quella data si disputo' il GP di Germania a Hockenheim. Nella classe 500 Jim Redman (Honda) ottenne la prima vittoria di una casa giapponese nella Top Class. "
+    }
+  ]
+}

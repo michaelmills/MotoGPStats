@@ -1,0 +1,95 @@
+{
+  "items":[
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qui la Q1.  A qualificarsi Bautista e Redding, bravo a guadagnarsi il posto nell'ultimo giro."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi.  Occhi puntati su Redding, l'unico in grado di poter impensierire le due Aprilia di Bautista e Bradl."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Stava per fare un giro splendido Bradl ma sul piu' bello il pilota dell'Aprilia e' caduto.  Nulla di grave per lui ma giro ovviamente compromesso."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo minuto di Q1. Solo Smith e' rimasto all'interno del proprio box senza scendere in pista."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il secondo giro del pilota dell'Aprilia e' quello buono. Bautista momentaneamente primo!"
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Discreto giro di Bautista che pero' non riesce a spuntarla su Redding."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo il piccolo break per il cambio gomme, i piloti sono pronti a rientrare in pista per gli ultimi 5 minuti. Tutti alla caccia della qualificazione alla Q2."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientro ai box per Bradl. A ruota anche tutti gli altri piloti."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continuano a modificarsi la prima e la seconda posizione che varrebbe la qualifica alla Q2.  Al momento i qualificati sarebbero Bradl e Bautista."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bautista momentaneamente in testa."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il primo pilota a far registrare il proprio tempo e' Redding."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Partiti!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto pronto per la Q1. Tra qualche minuto si comincia."
+    }
+  ]
+}

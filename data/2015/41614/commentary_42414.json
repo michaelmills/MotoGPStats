@@ -1,0 +1,158 @@
+{
+  "items":[
+    {
+      "event_id":"110",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La grande notizia e' l'undicesima posizione di Marquez, che dovra' quindi andare in Q1"
+    },
+    {
+      "event_id":"105",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!  Lorenzo strappa la prima posizione a Iannone e Dovizioso!  "
+    },
+    {
+      "event_id":"100",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora super Lorenzo si guadagna la prima posizione!  Attualmente Marquez sarebbe incredibilmente undicesimo!"
+    },
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro incredibile di Iannone e Lorenzo che si guadagnano rispettivamente la prima e la seconda posizione!"
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi 3 minuti di bagarre! Rischia moltissimo Lorenzo, scivolato in decima posizione!"
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Jack Miller arriva lungo in curva e cade rovinosamente! Anche per lui nessuna conseguenza grave."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi cinque minuti di Libere 3!"
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grandissimo giro di Rossi che passa dalla decima alla seconda posizione!"
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Altro break dei piloti prima del cambio gomme per gli ultimi dieci minuti."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo giro di Vinales che scavalca un po di piloti piazzandosi in quinta posizione."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta tenendo un'ottima media Marquez che si candida come favorito alla pole position."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo giro di Pedrosa che si guadagna la quinta posizione!"
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ad esclusione di Marquez, tutti i piloti sono rientrati in pista a pieno regime quando mancano poco piu' di 20 minuti alla fine."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Incidente per Petrucci! Il pilota della Ducati e' andato lungo in curva perdendo il controllo della moto.  Per fortuna nessuna conseguenza per il pilota italiano."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento ci sarebbe una grande esclusione dai qualificati per la Q2: Dani Pedrosa."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento Dovizioso davanti a tutti, tallonato dal solito Marquez e da Cruthlow."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo break ai box per i piloti.  I soli Rossi, Lorenzo e Iannone ancora in pista."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Migliora leggermente Rossi, ancora molto staccato dal gruppo di testa."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento e' Dovizioso ad avere il miglior tempo."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Subito tutti in pista per saggiare l'asfalto del Mugello."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde, si comincia!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto e' pronto per l'inizio della terza sessione di prove libere."
+    }
+  ]
+}

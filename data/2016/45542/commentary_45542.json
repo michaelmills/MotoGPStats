@@ -1,0 +1,228 @@
+{
+  "items":[
+    {
+      "event_id":"160",
+      "round":"21",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Marquez taglia il traguardo per primo!  Alle spalle dello spagnolo, al secondo successo consecutivo, Lorenzo e Iannone. Gara segnata dalle numerose scivolate tra cui quelle di Valentino Rossi e Pedrosa, che purtroppo ha coinvolto anche Dovizioso."
+    },
+    {
+      "event_id":"155",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia l'ultimo giro."
+    },
+    {
+      "event_id":"150",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sono sei i piloti spagnoli nelle prime dieci posizioni."
+    },
+    {
+      "event_id":"145",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Marquez sembra aver alzato il piede dall'acceleratore per evitare rischi inutili."
+    },
+    {
+      "event_id":"140",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quattro giri al termine e, salvo sorprese, le posizioni del podio sembrano essere gia' certe."
+    },
+    {
+      "event_id":"135",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Anche Michele Pirro ha approfittato delle numerose cadute ed e' al momento in ottava posizione."
+    },
+    {
+      "event_id":"130",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Anche Iannone sembra ormai sicuro della sua terza piazza."
+    },
+    {
+      "event_id":"125",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez e Lorenzo continuano la loro gara in solitaria distaccati di circa sei secondi."
+    },
+    {
+      "event_id":"120",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bel gesto del pilota spagnolo della Honda che va al box Ducati per sincerarsi delle condizioni di Dovizioso."
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Pedrosa e' costretto al ritiro."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"L'unico duello che si profila all'orizzonte in questi ultimi giri e' quello tra le le Suzuki. Le altre posizioni di rilievo sono ormai cristallizzate."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa e' costretto a tornare ai box in seguito ai problemi conseguenti alla caduta precedente."
+    },
+    {
+      "event_id":"100",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ormai sembra improbabile che Marquez non vinca questa gara."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duello fratricida tra le due Suzuki con Vinales che al momento ha la meglio su Aleix Espargaro."
+    },
+    {
+      "event_id":"90",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gara funestata fino a qui dalle numerose scivolate."
+    },
+    {
+      "event_id":"85",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Fortunatamente Dovizioso non sembra avere avuto conseguenze fisiche."
+    },
+    {
+      "event_id":"80",
+      "round":"8",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finiscono a terra anche Smith e Crutchlow."
+    },
+    {
+      "event_id":"75",
+      "round":"7",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Pedrosa riesce a ripartire, mentre Dovizioso che, per la seconda gara consecutiva viene abbattuto da un altro pilota, e' costretto al ritiro."
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Pedrosa entra forte in curva e scivola colpendo anche Dovizioso."
+    },
+    {
+      "event_id":"65",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Anche Pedrosa si sta avvicinando a Dovizioso che, dopo l'ottimo avvio, non sembra avere il passo dei primi."
+    },
+    {
+      "event_id":"60",
+      "round":"5",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez ormai e' solo al comando, mentre Dovizioso viene sorpassato da Lorenzo che sale in seconda piazza."
+    },
+    {
+      "event_id":"55",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sta cercando di fare il vuoto davanti; Dovizioso non sembra poter reggere il suo passo."
+    },
+    {
+      "event_id":"50",
+      "round":"3",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Purtroppo la moto di Rossi si spegne e il pilota di Tavullia e' costretto al ritiro."
+    },
+    {
+      "event_id":"45",
+      "round":"3",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra Valentino Rossi."
+    },
+    {
+      "event_id":"40",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Scambio di sorpassi tra Rossi e Pedrosa. Problemi in questo avvio per il pilota pesarese."
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivola Baz che pero' poi riesce a ripartire."
+    },
+    {
+      "event_id":"30",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran partenza di Dovizioso che e' secondo al momento."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Errore per Rossi che termina largo e perde tre posizioni."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez mantiene la testa della classifica davanti a Lorenzo e Rossi"
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"L'attesa e' finita: si comincia!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro di ricognizione in corso."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon pomeriggio da Austin! Mancano pochi minuti al via della gara di MotoGp."
+    }
+  ]
+}

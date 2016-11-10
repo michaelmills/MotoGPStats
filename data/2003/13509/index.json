@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"865",
+  "edition_name":"2003",
+  "event_id":13509,
+  "event_description":"GP Brasile",
+  "date_start":"18-09-2003",
+  "date_end":"20-09-2003",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":13511,
+      "event_description":"PROVE VENERDI' GP BRASILE",
+      "date":"18-09-2003",
+      "date_to_print":"18 Set 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13511.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":13510,
+      "event_description":"Griglia",
+      "date":"19-09-2003",
+      "date_to_print":"19 Set 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13510.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":13509,
+      "event_description":"Gara",
+      "date":"20-09-2003",
+      "date_to_print":"20 Set 2003",
+      "time":"19:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13509.json"
+    }
+  ]
+}

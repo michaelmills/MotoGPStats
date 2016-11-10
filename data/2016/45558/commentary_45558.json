@@ -1,0 +1,340 @@
+{
+  "items":[
+    {
+      "event_id":"240",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' tutto per oggi da Jerez de la Frontera, appuntamento per il Gran premio di Francia!"
+    },
+    {
+      "event_id":"235",
+      "round":"27",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Finisce qui, Rossi in testa dall'inizio alla fine della gara! Secondo Lorenzo, terzo Marquez. Settimo Iannone. "
+    },
+    {
+      "event_id":"230",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro, ancora poche curve per Valentino Rossi."
+    },
+    {
+      "event_id":"225",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano meno di due giri alla fine, Rossi primo, iannone settimo. Fuori Dovizioso per un problema meccanico."
+    },
+    {
+      "event_id":"220",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Posizioni delineate, non ci sono duelli in corso per le prime posizioni."
+    },
+    {
+      "event_id":"215",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottima la gara di Iannone, dopo un inizio davvero negativo per il pilota abruzzese."
+    },
+    {
+      "event_id":"210",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Meno di quattro giri al termine della corsa."
+    },
+    {
+      "event_id":"205",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone ha dieci secondi di ritardo su Vinales, difficile per il pilota Ducati agguantare la sesta posizione."
+    },
+    {
+      "event_id":"200",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quasi tre secondi e mezzo per Valentino il vantaggio su Lorenzo."
+    },
+    {
+      "event_id":"195",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Passa Iannone, uno splendido sorpasso su Pol Espargaro."
+    },
+    {
+      "event_id":"190",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Lorenzo mezzo secondo piu' lento di Rossi."
+    },
+    {
+      "event_id":"185",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone attaccato a Pol Espargaro, per la settima posizione."
+    },
+    {
+      "event_id":"180",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nell'ultimo giro, Rossi due decimi meglio di Jorge Lorenzo."
+    },
+    {
+      "event_id":"175",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cede di schianto Marquez, ad oltre quattro secondi di ritardo da chi lo precede, Lorenzo."
+    },
+    {
+      "event_id":"170",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Resta sopra i due secondi il vantaggio di Valentino Rossi su Lorenzo. "
+    },
+    {
+      "event_id":"165",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona rimonta di Iannone, ora in ottava posizione."
+    },
+    {
+      "event_id":"160",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di due secondi il ritardo di Lorenzo da Rossi."
+    },
+    {
+      "event_id":"155",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi alterna giri molto veloci a dei rallentamenti che fanno temere che qualcosa non vada nella Yamaha del campione di Tavullia."
+    },
+    {
+      "event_id":"150",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Riprende un buon ritmo anche Valentino Rossi, quasi tre secondi il vantaggio su Lorenzo."
+    },
+    {
+      "event_id":"145",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Decima posizione per Iannone."
+    },
+    {
+      "event_id":"140",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Spinge forte Lorenzo, asccorcia le distanze da Rossi."
+    },
+    {
+      "event_id":"135",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tra Marquez, terzo, e Pedrosa, quarto, si e' creato il vuoto: quasi sette secondi il distacco tra i due."
+    },
+    {
+      "event_id":"130",
+      "round":"14",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ora Pol Espargaro davanti a Laverty."
+    },
+    {
+      "event_id":"125",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' bagarre anche per la settima posizione, tra Laverty e Pol Espargaro."
+    },
+    {
+      "event_id":"120",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' lotta per la seconda piazza tra Lorenzo e Marquez."
+    },
+    {
+      "event_id":"115",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vola Rossi, oltre due secondi e mezzo di vantaggio per lui."
+    },
+    {
+      "event_id":"110",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior giro personale per Marquez."
+    },
+    {
+      "event_id":"105",
+      "round":"10",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Problemi per Dovizioso, che sfortuna per il pilota di Forlimpopoli."
+    },
+    {
+      "event_id":"100",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Piu' di due secondi il vantaggio di Rossi su Lorenzo. "
+    },
+    {
+      "event_id":"95",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone sale al dodicesimo posto, ancora male pero' per una Ducati ufficiale."
+    },
+    {
+      "event_id":"90",
+      "round":"7",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Si ritira Bautista."
+    },
+    {
+      "event_id":"85",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Vinales passa Dovizioso, che scivola al settimo posto."
+    },
+    {
+      "event_id":"80",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sesto posto per Andrea Dovizioso su Ducati, quattordicesimo Iannone."
+    },
+    {
+      "event_id":"75",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco meno di un secondo il vantaggio di Rossi su Lorenzo."
+    },
+    {
+      "event_id":"70",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Guadagna Valentino Rossi su chi lo insegue, anche se leggermente."
+    },
+    {
+      "event_id":"65",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi firma il giro veloce."
+    },
+    {
+      "event_id":"60",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora compatto il quartetto di testa."
+    },
+    {
+      "event_id":"55",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Si riprende la terza posizione Marquez."
+    },
+    {
+      "event_id":"50",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Male Iannone, al momento quattordicesimo."
+    },
+    {
+      "event_id":"45",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si conclude il primo giro con Rossi in testa."
+    },
+    {
+      "event_id":"40",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo Pedrosa terzo, Marquez quarto."
+    },
+    {
+      "event_id":"35",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Parte bene Rossi, che resta in testa davanti a Lorenzo."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via!"
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' grande attesa per la gara, vedremo se Valentino riuscira' a tenere il passo di Lorenzo e Marquez. Curiosita' anche per Dovizioso."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via al giro di ricognizione."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi in pole position, poi Lorenzo, Marquez e Dovizioso. "
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pochi minuti e sara' giro di ricognizione per i piloti gia' schierati sulla griglia di partenza."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Jerez de La Frontera, pochi minuti e sara' il via al Moto GP."
+    }
+  ]
+}

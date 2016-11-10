@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Vale va forte",
+      "news":"Valentino Rossi e' il pilota in attivita' piu' vincente a Brno: qui nel 1996 in 125 ha ottenuto il suo primo successo nel Motomondiale. Si e' poi ripetuto in 250 nel 1999, in 500 nel 2001, in MotoGP nel 2003, 2005, 2008 e 2009. "
+    },
+    {
+      "event_id":"7",
+      "title":"Honda e Yamaha alla pari",
+      "news":"Nell'era della MotoGP, a Brno, Honda e Yamaha sono appaiate con 6 successi a testa, mentre la Ducati si e' imposta in due occasioni."
+    },
+    {
+      "event_id":"6",
+      "title":"Finalmente Ducati",
+      "news":"Il successo di Andrea Iannone su Ducati ha interrotto la striscia di 101 gare consecutive vinte da Honda o Yamaha: dal GP di Australia 2010 conquistato da Stoner, che rappresentava l'ultima vittoria Ducati."
+    },
+    {
+      "event_id":"5",
+      "title":"Doppietta azzurra",
+      "news":"Per ritrovare una doppietta italiana su moto italiana, come accaduto nell'ultimo GP di Austria, bisogna tornare addirittura al GP di Finlandia 1972: 1o Agostini e 2o Pagani su MV Agusta."
+    },
+    {
+      "event_id":"4",
+      "title":"Jorge sul podio",
+      "news":"Jorge Lorenzo e' tornato sul podio in Austria, riuscendoci per la 141esima volta nel Motomondiale, dove e' quarto all time dietro Rossi (215), Agostini (159) e Pedrosa (143). Nella Top Class Lorenzo e' invece salito a 103, superando Pedrosa, fermo a 102. Meglio solo Rossi con 179."
+    },
+    {
+      "event_id":"3",
+      "title":"La prima di Bradl",
+      "news":"Stefan Bradl nel 2008 in 125 a Brno ha ottenuto il suo primo successo nel Motomondiale."
+    },
+    {
+      "event_id":"2",
+      "title":"La prima di Cal",
+      "news":"Cal Crutchlow nel 2012 e' stato 3o a Brno: suo primo podio nel Motomondiale. Nel 2013 ha ottenuto la sua seconda (e per ora ultima pole position)."
+    },
+    {
+      "event_id":"1",
+      "title":"Marquez vicino a Doohan",
+      "news":"Marc Marquez e' attualmente a quota 53 successi nel Motomondiale, ha cosi' superato Phil Read, che si trova a 52. Marquez ora vede da vicino Mick Doohan, fermo a 54. Nella storia, hanno fatto meglio solo Agostini, Rossi, Nieto, Hailwood e Lorenzo."
+    }
+  ]
+}

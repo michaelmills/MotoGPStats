@@ -1,0 +1,59 @@
+{
+  "id":"57",
+  "name":"JEREZ DE LA FRONTERA",
+  "city":"JEREZ DE LA FRONTERA",
+  "country_id":"ESP",
+  "country":"Spagna",
+  "length":"4423",
+  "bends":"13 (5 a sinistra, 8 a destra)",
+  "foundation_year":"1996",
+  "last_event_name":"GP Spagna",
+  "last_event_date":"24-04-2016",
+  "best_winner_name":"Valentino",
+  "best_winner_surname":"Rossi",
+  "best_winner_value":"6",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2015",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:37:910",
+      "average_speed":"162,6",
+      "description":"J. Lorenzo - Yamaha - 162,6 km/h - 2015"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2015",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:38:735",
+      "average_speed":"161,200",
+      "description":"J. Lorenzo - Yamaha - 161,200 km/h - 2015"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

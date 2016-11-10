@@ -1,0 +1,186 @@
+{
+  "items":[
+    {
+      "event_id":"130",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Appuntamento da Brno alle 13.30 per le Libere 4."
+    },
+    {
+      "event_id":"125",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Accedono al Q2: Lorenzo, Iannone, Marquez, Vinales, Rossi, A. Espargaro, Dovizioso, Barbera, P. Espargaro e Crutchlow. Niente da fare per gli altri, tra cui Pedrosa."
+    },
+    {
+      "event_id":"120",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finiscono qui le Libere 3, dominate da Jorge Lorenzo, che si candida per la pole position."
+    },
+    {
+      "event_id":"115",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Sventola la bandiera a scacchi, mentre Iannone riguadagna la seconda piazza, ma lontano da Lorenzo."
+    },
+    {
+      "event_id":"110",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi secondi di sessione, con Pol Espargaro che rientra nei 10."
+    },
+    {
+      "event_id":"105",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Super Lorenzo! Giro eccellente dell'iridato 2015, ora nettamente al comando."
+    },
+    {
+      "event_id":"100",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si riporta al comando Marquez, ma sta arrivando Lorenzo con un gran tempo..."
+    },
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez migliora il suo tempo rispetto a ieri, pur restando dietro a Vinales."
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran lotta ora per stare tra i primi 10, con Crutchlow che ci rientra al momento."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Abbassa leggermente il suo tempo anche Aleix Espargaro, alla guida dell'altra Suzuki."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nuovo miglioramento per il giovane spagnolo, compagno di Rossi in Yamaha l'anno prossimo."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"D'ora sino alla fine, tutti i piloti andranno in cerca del time attack."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran giro di Maverick Vinales, che porta la sua Suzuki al primo posto assoluto."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Conferma il suo secondo posto l'abruzzese, alle spalle di Marquez."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' tornato a girare Iannone, che sta anche andando piuttosto bene."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al momento il decimo e ultimo posto valido per il Q2 e' occupato da Pedrosa."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientrano in pista le due Honda ufficiali: vedremo se Marquez riuscira' ulteriormente ad abbassare il suo tempo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Per ora Rossi e' l'unico dei piloti di vertice a essersi migliorato rispetto a venerdi'."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Seconda caduta di giornata, stavolta tocca a Loris Baz."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Non riparte la moto di Iannone, che torna cosi' lentamente al suo box."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Nella ghiaia Iannone! Nessuna conseguenza fisica tuttavia per il vincitore dell'Austria."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi si migliora subito rispetto a venerdi', giornata in cui le due Yamaha avevano mostrato comunque un passo notevole."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Piloti sul circuito, dove per la giornata di domani c'e' il rischio della pioggia."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nella giornata di ieri, miglior tempo assoluto di Marquez, leader del Mondiale."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si decidono in questa sessione i piloti che accedono direttamente al Q2"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno a tutti da Brno, dove stanno per iniziare le Libere 3 di MotoGP."
+    }
+  ]
+}

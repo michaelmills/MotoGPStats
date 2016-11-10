@@ -1,0 +1,19 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"5794",
+  "edition_name":"2013",
+  "event_type":"practice",
+  "event_id":37256,
+  "event_description":"Libere 3",
+  "date":"26-10-2013",
+  "date_to_print":"26 Ott 2013",
+  "time":"02:55",
+  "time_local":"09:55",
+  "specialty":"MOTOGP",
+  "status":"ended",
+  "status_description":"Disputata",
+  "standing":[
+  ]
+}

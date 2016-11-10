@@ -1,0 +1,193 @@
+{
+  "items":[
+    {
+      "event_id":"135",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Confermata la penalita' per Valentino Rossi dopo il ricorso; la direzione gara conferma la decisione presa a fine gara. Rossi partira' dall'ultima posizione a Valencia."
+    },
+    {
+      "event_id":"130",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La decisione della giuria vede Rossi penalizzato: a Valencia, nell'ultima gara del 2015, il Dottore dovra' partire in ultima posizione, salvo accoglimento del ricorso. Sara' durissima per lui vincere il Mondiale."
+    },
+    {
+      "event_id":"125",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sul risultato di Rossi aleggia pero' la decisione finale dei giudici di gara in occasione del contatto che ha portato Marquez al ritiro. Honda e Yamaha difendono i propri piloti in attesa dell'esito decisivo."
+    },
+    {
+      "event_id":"120",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con questo risultato Lorenzo si avvicina di altri quattro punti a Rossi ad un solo GP dal termine. Con il secondo posto a Valencia il Dottore diventerebbe campione per la decima volta in carriera."
+    },
+    {
+      "event_id":"115",
+      "round":"20",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Pedrosa taglia il traguardo a termine di una gara dominata dall'inizio. Lorenzo arriva secondo, visibilmente soddisfatto. Chiude il podio Rossi."
+    },
+    {
+      "event_id":"110",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro che ha il via con Pedrosa saldamente in testa con piu' di tre secondi di vantaggio da Lorenzo."
+    },
+    {
+      "event_id":"105",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Battaglia per il settimo posto tra Vinales e A. Espargaro con quest'ultimo che riesce a difendere la posizione dal compagno di scuderia."
+    },
+    {
+      "event_id":"100",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo prova a rifarsi sotto guadagnando qualche decimo da Pedrosa. Manca poco ormai alla fine della gara e una rimonta sembra improbabile."
+    },
+    {
+      "event_id":"95",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Se Pedrosa riuscisse a tagliare il traguardo in testa tornerebbe e fare la doppietta pole-gara dopo quasi tre anni. L'ultima volta accadde a Valencia nel 2012."
+    },
+    {
+      "event_id":"90",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa fugge da Lorenzo mettendo decimi ogni ogni settore tra lui e il connazionale della Yamaha."
+    },
+    {
+      "event_id":"85",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la gara solitaria di Rossi in terza posizione, avendo sette secondi da Lorenzo e dieci da Smith."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Dovizioso a terra in curva sei mentre tentava di superare Crutchlow. Impossibile poter continuare la gare per il pilota."
+    },
+    {
+      "event_id":"75",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Intanto Pedrosa riesce a mantenere quasi invariato il distacco da Lorenzo. Il terzo posto di Rossi e' distante piu' di sette secondi."
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il contatto tra Rossi e Marquez verra' controllato dai giudici per verificare la casualita' dell'accaduto. Dalle immagini sembra che l'italiano aspetti lo spagnolo per intralciargli la traiettoria."
+    },
+    {
+      "event_id":"65",
+      "round":"8",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Il duello tra Rossi e Marquez termina con lo spagnolo a terra. Rossi allarga la traiettoria e va a colpire la carena della Honda."
+    },
+    {
+      "event_id":"60",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa e Lorenzo vanno forte in testa. Sono piu' di tre i secondi che separano i due dal Pedrosa e Rossi."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e Marquez rischiano il contatto. Il Dottore non la prende bene e si lamenta visibilmente con lo spagnolo."
+    },
+    {
+      "event_id":"50",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duello acceso tra Rossi e Marquez per la terza piazza. Ad ogni sorpasso di uno corrisponde un controsorpasso dell'avversario."
+    },
+    {
+      "event_id":"45",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce ad approfittare di un varco minimo offerto da Marquez e si incuena soffiando il terzo posto allo spagnolo."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa continua a martellare in testa dettando tempi che gli altri non riescono a reggere."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo riesce a portarsi in seconda posizione superando Marquez."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo riesce a superare Rossi in avvio del secondo giro."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo resta dietro alle due Ducati di Iannone e Dovizioso per le prime curve ma al primo varco a disposizione riesce a superarle entrambe."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona la partenza di Pedrosa e Marquez. Rossi resta in terza posizione."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Warm up completato e piloti rischierati in griglia, in attesa dei semafori."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano una manciata di minuti alla partenza della classe regina. Primo match point per Valentino Rossi per la conquista del titolo."
+    }
+  ]
+}

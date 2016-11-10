@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_spagna",
+  "event_description":"GP Spagna",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12493"},
+    {"season":"2003","played":"yes","event_id":"13455"},
+    {"season":"2004","played":"yes","event_id":"14765"},
+    {"season":"2005","played":"yes","event_id":"15574"},
+    {"season":"2006","played":"yes","event_id":"17167"},
+    {"season":"2007","played":"yes","event_id":"18619"},
+    {"season":"2008","played":"yes","event_id":"19975"},
+    {"season":"2009","played":"yes","event_id":"21683"},
+    {"season":"2010","played":"yes","event_id":"25552"},
+    {"season":"2011","played":"yes","event_id":"28029"},
+    {"season":"2012","played":"yes","event_id":"34492"},
+    {"season":"2013","played":"yes","event_id":"36024"},
+    {"season":"2014","played":"yes","event_id":"39752"},
+    {"season":"2015","played":"yes","event_id":"41620"},
+    {"season":"2016","played":"yes","event_id":"45558"}
+  ]
+}

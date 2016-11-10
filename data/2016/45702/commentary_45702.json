@@ -1,0 +1,333 @@
+{
+  "items":[
+    {
+      "event_id":"235",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo avere assaporato a lungo il successo, Valentino Rossi deve cedere la prima posizione a Dani Pedrosa e accontentarsi della piazza d'onore del Gran premio di Misano Adriatico. In classifica, il campione di Tavullia rosicchia qualche punto a Marquez, oggi solo quarto. E' tutto da Misano, appuntamento alla prossima gara di Moto GP."
+    },
+    {
+      "event_id":"230",
+      "round":"28",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Quarto Marquez, protagonista di una seconda parte di gara in ombra; poi Vinales, Dovizioso e Pirro. Nei dieci anche Pol Espargaro, Crutchlow e Bautista."
+    },
+    {
+      "event_id":"225",
+      "round":"28",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Ed e' il trionfo di Dani Pedrosa, secondo Valentino Rossi e terzo Jorge Lorenzo."
+    },
+    {
+      "event_id":"220",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro, Pedrosa in testa; poi Rossi e Lorenzo."
+    },
+    {
+      "event_id":"215",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Pedrosa affonda e stacca Valentino Rossi."
+    },
+    {
+      "event_id":"210",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia il penultimo giro di gara."
+    },
+    {
+      "event_id":"207",
+      "round":"28",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Anche Fores non finisce la gara."
+    },
+    {
+      "event_id":"205",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi non molla, e si fa sotto a Pedrosa, per quello che potrebbe essere un possibile attacco finale."
+    },
+    {
+      "event_id":"200",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di tre giri alla fine, Pirro conserva un ottimo settimo posto."
+    },
+    {
+      "event_id":"195",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' di oltre mezzo secondo il vantaggio di Pedrosa su Rossi."
+    },
+    {
+      "event_id":"190",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Siamo verso la fine di una splendida gara: purtroppo Rossi ne ha perso la leadership poco fa a favore di uno scatenato Pedrosa."
+    },
+    {
+      "event_id":"185",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A poco piu' di cinque giri alla fine, Pedrosa e' davanti a Rossi e a Lorenzo; quarto Marquez."
+    },
+    {
+      "event_id":"180",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ed eccolo il sorpasso di Pedrosa su Rossi, con una incredibile determinazione Rossi e' passato!"
+    },
+    {
+      "event_id":"175",
+      "round":"21",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Non ce la fa intanto Aleix Espargaro a proseguire la gara."
+    },
+    {
+      "event_id":"170",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sara' dura per Valentino respingere l'attacco dello scatenato Pedrosa."
+    },
+    {
+      "event_id":"165",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa in grande avvicinamento a Valentino Rossi."
+    },
+    {
+      "event_id":"160",
+      "round":"18",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivolata di A. Espargaro; vediamo se il pilota riesce a ripartire, dipende ovviamente dai danni subiti dalla moto."
+    },
+    {
+      "event_id":"155",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Maverick Vinales deve cedere la posizione per decisione della giuria: una buona notizia per Dovizioso."
+    },
+    {
+      "event_id":"150",
+      "round":"17",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Spettacolo di Pedrosa, che sorpassa anche Lorenzo con grande classe."
+    },
+    {
+      "event_id":"145",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso saldamente al sesto posto dietro M. Vinales."
+    },
+    {
+      "event_id":"140",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' di un secondo il vantaggio di Rossi sugli inseguitori."
+    },
+    {
+      "event_id":"135",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' ora Lorenzo a sentire sul collo il fiato di Pedrosa."
+    },
+    {
+      "event_id":"130",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E continua a girare con tempi stratosferici Dani Pedrosa."
+    },
+    {
+      "event_id":"125",
+      "round":"14",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grandissimo il sorpasso di Pedrosa su Marquez."
+    },
+    {
+      "event_id":"120",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Pedrosa e' attaccato a Marquez, e potrebbe provare un attacco."
+    },
+    {
+      "event_id":"115",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Stampa un nuovo giro veloce Dani Pedrosa, fino a questo momento protagonista di una gara eccezionale."
+    },
+    {
+      "event_id":"110",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo e Marquez si stanno avvicinando a Valentino Rossi."
+    },
+    {
+      "event_id":"105",
+      "round":"11",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"E ce la fa Vinales a superare Dovizioso, il quale scivola in sesta posizione."
+    },
+    {
+      "event_id":"100",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I primi quattro piloti stanno girando su tempi stellari."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso deve difendersi dagli attacchi di Maverick Vinales per il quinto posto."
+    },
+    {
+      "event_id":"90",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mantiene l'ottava posizione intanto Michele Pirro, autore di un'ottima prima parte di gara."
+    },
+    {
+      "event_id":"85",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez tallona Lorenzo da molto vicino."
+    },
+    {
+      "event_id":"80",
+      "round":"8",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Gara non terminata per Lowes, esattamente come per il fratello in Moto 2."
+    },
+    {
+      "event_id":"75",
+      "round":"8",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta di Alex Lowes."
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora e' di Marquez il giro veloce della gara."
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottima la gara di Dovizioso, molto grintoso ora nei confronti di Pedrosa che lo precede."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran tempo sul giro di Rossi, il piu' veloce in pista."
+    },
+    {
+      "event_id":"55",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di mezzo secondo il vantaggio di Rossi su Jorge Lorenzo, il suo piu' immediato inseguitore."
+    },
+    {
+      "event_id":"50",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pirro davanti ad A. Espargaro."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duello ora tra Marquez e Lorenzo, che rischiano di toccarsi."
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Gran sorpasso di Rossi su Lorenzo! In testa il pilota di Tavullia."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa dentro davanti a Dovizioso."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi attaccato a Lorenzo, al termine del primo giro."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales conserva la terza posizione, poi Dovizioso e Pedrosa."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Benissimo Lorenzo, dietro di lui Rossi."
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Misano Adriatico, pochi minuti e partira' l'attesissima gara di Moto Gp."
+    }
+  ]
+}

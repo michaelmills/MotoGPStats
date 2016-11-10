@@ -1,0 +1,221 @@
+{
+  "items":[
+    {
+      "event_id":"155",
+      "round":"21",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Vince Marquez!! Poi Dovizioso e Rossi."
+    },
+    {
+      "event_id":"150",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso e' lanciato verso la seconda posizione, e verso il podio numero 26 della sua carriera in MotoGP, il 67' totale."
+    },
+    {
+      "event_id":"145",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il podio di Rossi sara' il 198' della sua incredibile carriera."
+    },
+    {
+      "event_id":"140",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez ormai passeggia li' davanti, dietro di lui il vuoto. La sua sara' la ventesima vittoria di MotoGP, la 46' in totale."
+    },
+    {
+      "event_id":"135",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il podio a tre giri dalla fine sembra fatto. Lorenzo invece passa Iannone e si porta in quarta posizione."
+    },
+    {
+      "event_id":"130",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone ha rallentato un po' il passo in quarta posizione, lo tallona Lorenzo. Nel frattempo Dovizioso sta dando a Rossi mezzo secondo."
+    },
+    {
+      "event_id":"125",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Davvero splendido il sorpasso di Dovizioso che uscendo di curva ha passato Rossi all'esterno bruciando il 46."
+    },
+    {
+      "event_id":"120",
+      "round":"14",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dovizioso passa Rossi accelerando come un matto in curva. Il Dottore non ci sta pero' e tallona il suo rivale."
+    },
+    {
+      "event_id":"115",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sono sempre piu' vicini Rossi, Dovizioso e Iannone. Sara' battaglia negli ultimi giri."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sbava leggermente una curva Marquez, che pero' ha 3 secondi e mezzo di vantaggio su Rossi."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Petrucci invece potrebbe eguagliare il suo miglior posizionamento, l'ottavo posto di Valencia 2012."
+    },
+    {
+      "event_id":"100",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi puo' ottenere il suo sesto podio consecutivo in MotoGP, non centrerebbe una striscia cosi' lunga dal 2009."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si sta rivedendo il podio del GP del Qatar, Marquez infatti li' davanti sta facendo un'altra gara."
+    },
+    {
+      "event_id":"90",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone e Lorenzo passano Smith, un po' in difficolta'."
+    },
+    {
+      "event_id":"85",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez passa primo e da' due secondi a Rossi. I primi due montano gomme dure davanti."
+    },
+    {
+      "event_id":"80",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e Dovizioso non smettono piu' di darsele, nel frattempo scappa Marquez, che oggi non sembra voler sentire ragioni su chi sara' il vincitore."
+    },
+    {
+      "event_id":"75",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi attacca Dovizioso, ma la Ducati ha decisamente piu' motore e il Dovi non si fa passare. Nel frattempo casca Hernandez."
+    },
+    {
+      "event_id":"70",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Aumenta i giri Marquez, che ora ha un vantaggio di mezzo secondo su Dovizioso. Iannone nel frattempo passa Lorenzo."
+    },
+    {
+      "event_id":"65",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso e controsorpasso tra Dovizioso e Marquez che si stuzzicano, Rossi appena dietro li lascia fare."
+    },
+    {
+      "event_id":"60",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone continua a girare su ritmi spaventosi su questa meravigliosa pista ma li' davanti non scherza il terzetto magico."
+    },
+    {
+      "event_id":"55",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso ha vinto solo una volta in MotoGP, 2086 giorni or sono."
+    },
+    {
+      "event_id":"50",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso mantiene la prima posizione dopo il primo giro. I piloti si studiano chiaramente in questa fase. Iannone nel frattempo fa segnare il giro piu' veloce in 02:04:286"
+    },
+    {
+      "event_id":"45",
+      "round":"1",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Pol Espargaro e Redding si sono toccati, entrambi sono finiti a terra."
+    },
+    {
+      "event_id":"40",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti! Benissimo alla partenza Rossi e Dovizioso. Marquez un po' teso invece, e' secondo."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto e' pronto, i piloti sono in posizione. Tensione al massimo."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Warm Up Lap in corso, pochi minuti alla partenza."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora si alza la temperatura ad Austin, difficile capire quale scelta tattica paghera' a fine giornata."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il problema al ponte pare risolto, i piloti si riportano sulla griglia di partenza. "
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si e' aperto completamente il volubile sole di Austin. Mentre viene comunicato che ci sara' un ritardo alla partenza per permettere di risolvere un problema a un ponte posto sopra la pista che perde acqua sul tracciato."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pole numero 23 per Marquez in MotoGP, dietro di lui Dovizioso in sella alla Ducati, poi Lorenzo, Rossi quarto."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buonasera. 15 minuti alla partenza, non solo non piove ad Austin ma e' uscito anche uno spicchio di sole. La pista dovrebbe essere completamente asciutta."
+    }
+  ]
+}

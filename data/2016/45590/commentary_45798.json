@@ -1,0 +1,67 @@
+{
+  "items":[
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Terminano qui le qualifiche per il GP d'Italia. Rossi si porta davanti a tutti per la gioia dei suoi molti tifosi giunti all'autodromo. Dietro di lui Vinales e Iannone."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi apre il gas e si porta in pole. Dietro di lui Vinales ad una manciata di centesimi."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande giro di Petrucci che si prende il quinto tempo."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone abbassa il suo tempo di un decimo abbondante."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Molti piloti ai box. Sul circuito, intanto, Lorenzo e Iannone si danno battaglia."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi taglia il traguardo facendo registrare l'ottavo tempo. Sono molti i decimi persi nell'ultimo settore."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A poca distanza si trova Marquez: solo tre decimo lo separano dal miglior tempo."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone continua a mettersi alle spalle tutti portandosi subito in pole provvisoria."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si parte con il Q2. Solo Vinales e Rossi tardano l'entrata in pista."
+    }
+  ]
+}

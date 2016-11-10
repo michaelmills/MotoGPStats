@@ -1,0 +1,242 @@
+{
+  "items":[
+    {
+      "event_id":"170",
+      "round":"30",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Lorenzo vince a Valencia e si laurea campione del mondo per la quinta volta in carriera. Alle sue spalle Marquez il cui comportamento in gara e' stato quantomeno discutibile. In terza posizione chiude Pedrosa. Rossi dopo una grande rimonta si ferma al quarto posto vedendo svanire il sogno mondiale."
+    },
+    {
+      "event_id":"165",
+      "round":"30",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia l'ultimo giro!"
+    },
+    {
+      "event_id":"160",
+      "round":"29",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez chiude la porta a Pedrosa, che va largo, e Lorenzo ne approfitta per prendere vantaggio."
+    },
+    {
+      "event_id":"155",
+      "round":"29",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano due giri alla fine e si e' formato un terzetto davanti."
+    },
+    {
+      "event_id":"150",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa ha quasi raggiunto i due di testa."
+    },
+    {
+      "event_id":"145",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa continua a guadagnare ma ormai manca pochissimo alla fine."
+    },
+    {
+      "event_id":"140",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inspiegabile il comportamento di Marquez che non attacca Lorenzo quando sembra averne di piu'."
+    },
+    {
+      "event_id":"135",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ricordiamo che Pedrosa e' il pilota che ha vinto piu' volte qui a Valencia."
+    },
+    {
+      "event_id":"130",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa sta cercando di riavvicinarsi: il numero 26 della Honda sembra aver risparmiato le gomme in precedenza e ora sta spingendo."
+    },
+    {
+      "event_id":"125",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi continua la sua gara in solitaria e il suo distacco aumenta."
+    },
+    {
+      "event_id":"120",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Marquez e' attaccato a Lorenzo ma sembra non volerlo attaccare."
+    },
+    {
+      "event_id":"115",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si continua a girare ma non ci sono novita' rilevanti: Rossi non riesce ad avvicinarsi ai primi tre."
+    },
+    {
+      "event_id":"110",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez  si mantiene alle spalle di Lorenzo ma non prova ad attaccarlo; Pedrosa invece e' staccato e non sembra poter rientrare."
+    },
+    {
+      "event_id":"105",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Stando cosi' le cose, Lorenzo sarebbe Campione del Mondo e sembra difficile che ci possano essere sorprese."
+    },
+    {
+      "event_id":"100",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez si e' riavvicinato a Lorenzo e potrebbe attaccarlo a breve."
+    },
+    {
+      "event_id":"95",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Veramente grande il distacco tra Rossi e Pedrosa: e' dura per il pesarese riportarsi in zona podio."
+    },
+    {
+      "event_id":"90",
+      "round":"13",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi si libera anche di Dovizioso e ora ha pista libera ."
+    },
+    {
+      "event_id":"85",
+      "round":"12",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"La Yamaha numero 46 guadagna  un'altra posizione superando l'altro Espargaro."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il distacco dai primi e' molto alto e per Rossi sembra ardua riprendere la testa della corsa."
+    },
+    {
+      "event_id":"75",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"E Rossi riesce a superare Espargaro e sale in sesta piazza."
+    },
+    {
+      "event_id":"70",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' vicinissimo a Espargaro e potrebbe attaccarlo a breve."
+    },
+    {
+      "event_id":"65",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo sembra averne di piu' di Marquez e sta guadagnando nelle ultime tornate."
+    },
+    {
+      "event_id":"60",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Petrucci va largo e Rossi sale in settima piazza."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa sembra non riuscire a tenere il ritmo di Lorenzo e Marquez."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi ormai ha raggiunto Smith ma fatica a trovare lo spazio per passare."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi si avvicina velocemente a Smith e Petrucci."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Finisce a terra Iannone mentre Rossi e' gia' in nona posizione."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Davanti Lorenzo continua a fare il ritmo davanti alle due Honda ufficiale."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la rimonta di Valentino Rossi che ora e' dodicesimo."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi al momento e' in quattordicesima piazza."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi guadagna subito una manciata di posizioni. Lorenzo davanti mantiene il comando davanti a Marquez e Pedrosa."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si spengono le luci rosse e si parte!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' in corso il giro di ricoginizione. La tensione e' alle stelle."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon pomeriggio da Valencia! Dopo le polemiche delle ultime settimane siamo arrivati al momento della resa dei conti tra Valentino Rossi e Jorge Lorenzo."
+    }
+  ]
+}

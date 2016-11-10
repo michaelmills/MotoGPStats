@@ -1,0 +1,74 @@
+{
+  "items":[
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Finisce qui il turno: Marquez, come da pronostico, conquista la pole position, nonostante la scivolata finale; completano la prima fila le due Yamaha di Rossi e Lorenzo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Termina  a terra anche Marquez che conclude qui il suo turno."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivolata senza conseguenze anche per Smith."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti si preparano all'ultimo tentativo."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo e' terzo, dietro a Valentino Rossi."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi sale in seconda posizione con un buon giro ma Marquez sembra inarrivabile."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivolata di Crutchlow che si rialza subito e corre ai box per cercare di fare un altro giro prima del termine del turno."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez si porta subito al comando con ampio margine su tutti."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti i piloti subito in pista."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia anche la Q2 che assegnera' la pole position."
+    }
+  ]
+}

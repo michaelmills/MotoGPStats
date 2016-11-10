@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_repubblica_ceca",
+  "event_description":"GP Repubblica Ceca",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12430"},
+    {"season":"2003","played":"yes","event_id":"13497"},
+    {"season":"2004","played":"yes","event_id":"14741"},
+    {"season":"2005","played":"yes","event_id":"15630"},
+    {"season":"2006","played":"yes","event_id":"17189"},
+    {"season":"2007","played":"yes","event_id":"18545"},
+    {"season":"2008","played":"yes","event_id":"19917"},
+    {"season":"2009","played":"yes","event_id":"21791"},
+    {"season":"2010","played":"yes","event_id":"25662"},
+    {"season":"2011","played":"yes","event_id":"28093"},
+    {"season":"2012","played":"yes","event_id":"34450"},
+    {"season":"2013","played":"yes","event_id":"36048"},
+    {"season":"2014","played":"yes","event_id":"39641"},
+    {"season":"2015","played":"yes","event_id":"41599"},
+    {"season":"2016","played":"yes","event_id":"45670"}
+  ]
+}

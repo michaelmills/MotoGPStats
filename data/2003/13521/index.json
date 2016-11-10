@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"865",
+  "edition_name":"2003",
+  "event_id":13521,
+  "event_description":"GP Malesia",
+  "date_start":"10-10-2003",
+  "date_end":"12-10-2003",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":13523,
+      "event_description":"PROVE VENERDI' GP MALESIA",
+      "date":"10-10-2003",
+      "date_to_print":"10 Ott 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13523.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":13522,
+      "event_description":"Griglia",
+      "date":"11-10-2003",
+      "date_to_print":"11 Ott 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13522.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":13521,
+      "event_description":"Gara",
+      "date":"12-10-2003",
+      "date_to_print":"12 Ott 2003",
+      "time":"08:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13521.json"
+    }
+  ]
+}

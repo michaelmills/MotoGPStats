@@ -1,0 +1,130 @@
+{
+  "items":[
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso riesce a stampare il giro piu' veloce di questa terza sessione; quarto tempo per Rossi, quinto Iannone."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi! I piloti stanno ultimando il loro ultimo giro veloce."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo per Vinales, ma Marquez si supera."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si migliora ancora Rossi, Pedrosa invece fuori dalla top10."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo per Valentino Rossi, terzo per Dovizioso."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi cinque minuti di fuoco; fioccano caschi rossi a ripetizione."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista Marquez che si sta lanciando per un altro tentativo."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora dieci minuti al termine delle prove, resiste il tempo di Iannone."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Petrucci e' il primo a migliorarsi salendo in quinta posizione."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grandissimo controllo di Marquez che in staccata perde il controllo della propria moto."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta anche per Pol Espargaro, nessuna conseguenza per il pilota."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nessuno e' riuscio ancora a migliorarsi."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"A terra Lorenzo, finito nella via di fuga in curva 7."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nessun pilota e' ancora riusicto a migliorare il tempo fatto registrare nelle prove di ieri."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Problema tecnico per Barbera che alza immediatamente il braccio per segnalare agli altri piloti di essere in difficolta' con il proprio mezzo."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti in pista per il settaggio della moto."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde, si comincia!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto e' pronto per l'inizio della terza sessione di prove libere."
+    }
+  ]
+}

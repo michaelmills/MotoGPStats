@@ -1,0 +1,74 @@
+{
+  "items":[
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Finisce qui il Q1. Miglior tempo per Michele Pirro, che, insieme a Hector Barbera, stacca il biglietto per il Q2, che iniziera' a breve."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembrano non esserci piu' speranze per gli altri piloti: i tempi di Pirro e Barbera sono piuttosto lontani."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Migliora Stefan Bradl con l'Aprilia, ma non basta..."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si va per il rush finale, con le due posizioni chiave al momento sempre occupate da Pirro e Barbera."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Passa al comando Pirro, che puo' beneficiare della Ducati ufficiale."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' Barbera, quest'anno capace di partire addirittura in un caso in prima fila, davanti a tutti."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Attesa per i primi tempi validi."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Speranze italiane che possono essere riposte in Pirro e Petrucci."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta infatti iniziando il Q1: i primi due piloti si uniranno ai migliori dieci per giocarsi la pole."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Misano, dove e' il momento delle prove ufficiali."
+    }
+  ]
+}

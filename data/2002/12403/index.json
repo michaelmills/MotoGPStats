@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12403,
+  "event_description":"GP Pacifico",
+  "date_start":"04-10-2002",
+  "date_end":"06-10-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12454,
+      "event_description":"PROVE VENERDI' GP PACIFICO",
+      "date":"04-10-2002",
+      "date_to_print":"04 Ott 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12454.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12451,
+      "event_description":"Griglia",
+      "date":"05-10-2002",
+      "date_to_print":"05 Ott 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12451.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12403,
+      "event_description":"Gara",
+      "date":"06-10-2002",
+      "date_to_print":"06 Ott 2002",
+      "time":"07:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12403.json"
+    }
+  ]
+}

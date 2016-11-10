@@ -1,0 +1,221 @@
+{
+  "items":[
+    {
+      "event_id":"155",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo una gara condizionata piu' volte dal variare del meteo, Marquez trionfa a Misano davanti a Smith e Redding, agevolati dal meteo. Da segnalare la caduta di  Jorge Lorenzo che permette a Valentino Rossi, quinto sul traguardo, di guadagnare altri punti importanti per il Mondiale. Da segnalare un'altra buona gara di Danilo Petrucci che ha chiuso sesto precedendo gli altri italiani Iannone e Dovizioso."
+    },
+    {
+      "event_id":"150",
+      "round":"28",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Marquez arriva impennando sul rettilineo! Alle sue spalle Smith e in terza posizione un altro inglese, Scott Redding. Chiude quinto, e per la prima volta in stagione non sul podio, Valentino Rossi."
+    },
+    {
+      "event_id":"145",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ormai le posizioni sembrano essersi cristallizzate."
+    },
+    {
+      "event_id":"140",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi invece dopo il cambio moto e' in quinta posizione ma con la caduta di Lorenzo guadagnera' altri punti importanti per la classifica generale."
+    },
+    {
+      "event_id":"135",
+      "round":"23",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez sembra lanciato ormai verso il successo. Alle sue spalle si trovano Smith e Redding che ha appena superato il francese Baz."
+    },
+    {
+      "event_id":"130",
+      "round":"21",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Colpo di scena! Cade Jorge Lorenzo! E questa e' una caduta molto importante in ottica mondiale. Davanti invece ora c'e' Marc Marquez."
+    },
+    {
+      "event_id":"125",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E ora anche Valentino Rossi decide di rientrare ai box per cambiare la moto."
+    },
+    {
+      "event_id":"120",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo rientra mentre Rossi continua con l'assetto da bagnato. Marquez nel frattempo supera il compagno Pedrosa."
+    },
+    {
+      "event_id":"115",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continuano a rimanere in pista rossi e Lorenzo nonostante il deterioramento delle gomme."
+    },
+    {
+      "event_id":"110",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientra Marquez per il cambio moto mentre rimangono ancora in pista i due piloti della Yamaha."
+    },
+    {
+      "event_id":"105",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Altro possibile cambio moto per i piloti perche' ormai la pista e' quasi completamene asciutta."
+    },
+    {
+      "event_id":"100",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi attacca Lorenzo e lo passa! Esplode la gioia dei tifosi sugli spalti."
+    },
+    {
+      "event_id":"95",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la gara in solitaria dei tre davanti con la pista che si asciuga giro dopo giro sempre piu'."
+    },
+    {
+      "event_id":"90",
+      "round":"13",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez si lascia sfilare da Valentino Rossi che sale cosi' in seconda posizione."
+    },
+    {
+      "event_id":"85",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora la pioggia e' calata e la traiettoria in pista si sta asciugando."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi ha trovato un perfetto feeling con l'asfalto bagnato e sta sensibilmente guadagnando su Lorebzo e Marquez."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"A terra De Angelis e Hernandez: gara finita per loro. Lo spagnolo centra il pilota di San Marino ed entrambi cadono."
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lungo di Marquez che viene infilato da Lorenzo."
+    },
+    {
+      "event_id":"65",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo il cambio moto e' Marc Marquez a trovarsi  al comando; dopo di lui Lorenzo e poi Valentino Rossi che pero' e' molto staccato."
+    },
+    {
+      "event_id":"60",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande confusione ai box perche' tutti sono rientrati per cambiare la moto"
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Aumenta l'intensita' della pioggia e i piloti piu' indietro cambiano la moto. Da segnalare anche la caduta di Redding."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande battaglia per il quarto posta tra Pedrosa, Iannone, Smith e Dovizioso."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo i problemi inziali Michele Pirro e' costretto al ritiro."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Valentino Rossi sta girando piu' velocemente sia di Marquez che di Lorenzo. Ai box invece sono pronte le moto per un eventuale cambio."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Rossi sembra avere aumentato il ritmo e sta raggiungendo Marquez."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia a piovigginare sul circuito romagnolo."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Allungano subito Lorenzo e Marquez che hanno gia' messo un piccolo spazio dagli inseguitori."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti! Lorenzo mantiene la prima piazza, alle sue spalle Marc Marquez e Valentino Rossi. Bagarre nelle retrovie."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mentre le moto stanno effettuando il giro di ricognizione, problemi per Michele Pirro che sara' costretto a partire in fondo alla griglia."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Spalti gremiti qui a Misano: il colore dominante e' il giallo dei numerosissimi tifosi di Valentino Rossi che corre a pochi chilometri da casa."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano pochi minuti alla partenza del Gran Premio di San Marino qui a Misano. Incognita tempo: il cielo e' nuvoloso e la pioggia non e' esclusa."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "items":[
+    {
+      "event_id":"160",
+      "round":"23",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Marquez taglia il traguardo e si avvicina di molto al sogno mondiale. Chiudono il podio Lorenzo e Rossi."
+    },
+    {
+      "event_id":"155",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro che Marquez affronta in totale solitudine."
+    },
+    {
+      "event_id":"150",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi attacca Lorenzo ma e' costretto al fuoripista. Lo spagnolo puo' cosi' tenere la seconda piazza e scappare lontano."
+    },
+    {
+      "event_id":"145",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Un soffio separa Lorenzo e Rossi. L'attacco del 46 puo' arrivare in qualsiasi curva."
+    },
+    {
+      "event_id":"135",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi non demorde e resta attaccato alla ruota posteriore di Lorenzo, preannunciando un finale di gara tutt'altro che chiuso."
+    },
+    {
+      "event_id":"130",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo recupera lo svantaggio nei confroni di Rossi e lo supera in curva."
+    },
+    {
+      "event_id":"125",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales chiude il gas tardi e va lungo. Il pilota Suzuki riesce a rientrare senza perdere posizioni."
+    },
+    {
+      "event_id":"120",
+      "round":"17",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Buona gara di Crutchlow che si porta al quinto posto superando Pedrosa."
+    },
+    {
+      "event_id":"117",
+      "round":"16",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Rabat e' costretto al ritiro."
+    },
+    {
+      "event_id":"115",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo recupera decimi nei confronti di Rossi. Adesso il distacco tra i due e' inferiore al secondo."
+    },
+    {
+      "event_id":"110",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez fa segnare il giro veloce staccondosi ancora di piu' dagli inseguitori."
+    },
+    {
+      "event_id":"105",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi perde terreno nei confronti di Marquez e si trova a meta' strada tra il pilota Honda e Lorenzo."
+    },
+    {
+      "event_id":"100",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Se Marquez riuscisse a vincere il GP raggiungerebbe l'australiano Michael Doohan a quota 54 vittorie."
+    },
+    {
+      "event_id":"95",
+      "round":"12",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez porta con successo l'attacco a Rossi e si prende la leadership della gara."
+    },
+    {
+      "event_id":"90",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tre decimi tra Rossi e Marquez che, giro dopo giro, si separano dal resto del gruppo."
+    },
+    {
+      "event_id":"85",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales prova l'attacco in curva 1 ma e' costretto ad allargare la traiettoria perdendo due posizioni."
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Problemi alla gomma anteriore per Petrucci che attraversa ancora una volta la corsia dei box."
+    },
+    {
+      "event_id":"75",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi supera Vinales e si porta in testa"
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez ricomincia ad aprire il gas e si riporta in terza posizione a un secondo dal duo di testa."
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gira forte Rossi: ormai e' a pochi decimi da Vinales."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Penalita' per Petrucci che e' costretto ad attraversare la corsia dei box. Il pilota ha dovuto pagare una manovra scorretta che ha costretto Redding alla caduta nel primo giro. "
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce a portare a termina il lavoro di sorpasso e si porta al secondo posto."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sfida tra Rossi e Lorenzo per la seconda piazza. Il ''Dottore'' continua a pungere il compagno di scuderia prima di portare l'attacco decisivo."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales mette terreno tra lui e Lorenzo: quasi mezzo secondo separa i due."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Errore di Marquez che scivola in quinta posizione."
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi riesce a guadagnare due posizioni ed e' quarto, a breve distanza dai primi tre."
+    },
+    {
+      "event_id":"30",
+      "round":"1",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Redding scivola a terra ed e' costretto a ripartire dall'ultima posizione."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales guida il trio di spagnoli dopo le prime curve. Seguono Marquez e Lorenzo."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona partenza di Lorenzo che sfrutta la geometria della pista per prendere una traiettoria stretta passando cosi' al comando."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Warm up terminato. Tra poco si comincia."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Manca poco all'inizio della gara di Moto GP. Marquez, Vinales e Lorenzo formano la prima fila. Rossi partira' dalla sesta piazza."
+    }
+  ]
+}

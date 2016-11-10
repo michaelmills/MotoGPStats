@@ -1,0 +1,95 @@
+{
+  "items":[
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pole position dunque per un grande Dovizioso, che si mette alle spalle le due Honda di Pedrosa e Marquez, anch'esse in prima fila. Solo ottavo Rossi."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Niente da fare per Rossi, che non riesce a fare meglio dell'ottavo posto."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso! Pole position provvisoria per l'italiano della Ducati."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Caduta per Crutchlow, che stava provando a migliorarsi."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Attenzione, si lancia Marquez."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Petrucci ancora protagonista, non si accontenta di partecipare al Q2."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Momento di sosta ai box, prima di sparare le ultime cartucce."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cresce anche la Yamaha, con un buon tempo di Lorenzo. La Honda tuttavia sembra averne di piu'."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Le due Ducati dietro alle Honda ufficiali."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Che emozioni subito. Si migliora ancora Pedrosa, tempo pazzesco per lui."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Subito buon tempo di Pedrosa, seguito da Petrucci che si migliora rispetto al Q1 chiuso al comando."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto pronto per il Q2. Si decide qui la pole position."
+    }
+  ]
+}

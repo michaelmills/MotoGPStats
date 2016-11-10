@@ -1,0 +1,249 @@
+{
+  "items":[
+    {
+      "event_id":"175",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con la vittoria odierna LORENZO ha ridotto il gap da Valentino ROSSI ad un solo punto di distacco. Il campionato e' riaperto per quanto riguarda la classifica piloti. Per la classifica costruttori invece sembra un dominio indiscusso Yamaha. Crisi Honda che occupa la terza posizione dietro alla Ducati."
+    },
+    {
+      "event_id":"170",
+      "round":"25",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Vittoria per LORENZO, secondo, dopo la solita rimonta, Valentino ROSSI. Terzo gradino del podio per PEDROSA. IANNONE chiude quarto. "
+    },
+    {
+      "event_id":"165",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultime curve per ROSSI, troppo lontano LORENZO!"
+    },
+    {
+      "event_id":"160",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro! La doppietta Yamaha e' ormai sicura. LORENZO si appresta a tagliare il traguardo in prima posizione. "
+    },
+    {
+      "event_id":"155",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"LORENZO sente il profumo della vittoria. PEDROSA, terzo, sembra non avere problemi a conservare la propria posizione. IANNONE e' troppo lontano per arrivare al podio."
+    },
+    {
+      "event_id":"150",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"ROSSI guadagna troppo poco su LORENZO per pensare di riprenderlo quando mancano solo tre giri."
+    },
+    {
+      "event_id":"145",
+      "round":"21",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Scivolata per A. ESPARGARO che e' costretto al ritiro. Ne approfitta IANNONE per salire in quarta posizione."
+    },
+    {
+      "event_id":"140",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cinque giri al termine, ROSSI e' una furia, mette nel mirino gli scarichi della Yamaha N. 99. Poco piu' di 1 secondo il distacco."
+    },
+    {
+      "event_id":"135",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"ROSSI e' sempre piu' vicino, sta macinando giri velocissimi. LORENZO sembra un po' in affanno."
+    },
+    {
+      "event_id":"130",
+      "round":"18",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"IANNONE passa SMITH e tenta l'allungo. Il pilota della Ducati ora occupa la quinta posizione."
+    },
+    {
+      "event_id":"125",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Continua la battaglia tra VINALES e REDDING, il pilota spagnolo ha la meglio e sale in settima posizione."
+    },
+    {
+      "event_id":"120",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dentro VINALES in staccata alla fine del rettilineo ma arrivano tutti e due lunghi e saltano la curva. "
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Battaglia per la settima posizione tra REDDING e VINALES. Il pilota della Suzuki tenta l'attacco ma non riesce il sorpasso."
+    },
+    {
+      "event_id":"110",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"ROSSI sembra avere lo stesso passo di LORENZO ma non sembra avere i cavalli sufficienti per andare a prenderlo."
+    },
+    {
+      "event_id":"105",
+      "round":"14",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro per MELANDRI."
+    },
+    {
+      "event_id":"100",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"IANNONE cerca di tenere il passo di SMITH ma lentamente l'inglese se ne sta andando."
+    },
+    {
+      "event_id":"95",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"ROSSI non riesce a ricucire il distacco da LORENZO, mentre PEDROSA sta staccando la Suzuki di ESPARGARO."
+    },
+    {
+      "event_id":"90",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"IANNONE sesto e' nella scia di SMITH a pochi decimi di distacco."
+    },
+    {
+      "event_id":"85",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Terza posizione per PEDROSA che non ha il passo della Yamaha, seguito in quinta posizione dall'autore della pole A. ESPARGARO."
+    },
+    {
+      "event_id":"80",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"LORENZO prende il largo, ROSSI cerca di tenere il passo per non farlo scappare."
+    },
+    {
+      "event_id":"75",
+      "round":"6",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"MARQUEZ rientra ai box e si ritira. Stessa sorte per DOVIZIOSO."
+    },
+    {
+      "event_id":"70",
+      "round":"5",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"DOVIZIOSO a terra, perde il posteriore in accelerazione."
+    },
+    {
+      "event_id":"65",
+      "round":"5",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Cadute nei primi giri per CRUTCHLOW e Pol ESPARGARO."
+    },
+    {
+      "event_id":"60",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"ROSSI secondo all'inseguimento di LORENZO!"
+    },
+    {
+      "event_id":"55",
+      "round":"3",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamoroso MARQUEZ, tenta l'attacco su LORENZO, staccata lunghissima per i due, il N. 93 non riesce a tenere la moto in pista e si stende nella ghiaia. "
+    },
+    {
+      "event_id":"50",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Largo ESPARGARO, Valentino ROSSI si infila e prende la quarta posizione attaccato agli scarichi di DOVIZIOSO."
+    },
+    {
+      "event_id":"45",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"MARQUEZ si prende la seconda posizione ai danni di DOVIZIOSO."
+    },
+    {
+      "event_id":"40",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Disastro Suzuki! Nona e undicesima posizione per le due moto."
+    },
+    {
+      "event_id":"35",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si spengono i semafori... VIA! Alla prima staccata gira per primo LORENZO. Secondo DOVIZIOSO!"
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Qualche minuto di attesa e poi si accenderanno i motori delle motoGP per il giro di formazione. Tantissimi i tifosi di Valentino che si attendono una partenza a razzo per non lasciarsi sfuggire il proprio compagno di squadra. In classifica in maiorchino ha ormai solamente 6 punti di distacco dal Dottore."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Questa mattina e' stato LORENZO a far registrare il tempo piu' veloce nel warm up, alle sue spalle VINALES e MARQUEZ. Solo quarto tempo per ROSSI che pero' ci ha gia' abituato a rimonte impensabili."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Italiani in difficolta', DOVIZIOSO parte dalla seconda fila in quinta posizione, Valentino ROSSI dalla terza fila. Quarta fila per IANNONE."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Prima fila targata Suzuki e Spagna. Aleix ESPARGARO partira' dalla prima casella dopo una incredibile Q2, al suo fianco il compagno di squadra Maverick VINALES. Completa la prima fila Jorge LORENZO."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti stanno uscendo dai box per andare a schierarsi sulla griglia di partenza."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Barcellona, le tribune si stanno riempiendo di tifosi spagnoli e non solo. Tempo perfetto per assistere ad una gara che si prospetta interessantissima."
+    }
+  ]
+}

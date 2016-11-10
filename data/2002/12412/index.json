@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12412,
+  "event_description":"GP Brasile",
+  "date_start":"19-09-2002",
+  "date_end":"22-09-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12463,
+      "event_description":"PROVE VENERDI' GP BRASILE",
+      "date":"19-09-2002",
+      "date_to_print":"19 Set 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12463.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12460,
+      "event_description":"Griglia",
+      "date":"20-09-2002",
+      "date_to_print":"20 Set 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12460.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12412,
+      "event_description":"Gara",
+      "date":"22-09-2002",
+      "date_to_print":"22 Set 2002",
+      "time":"18:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12412.json"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "items":[
+    {
+      "event_id":"215",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Seconda vittoria stagionale per Crutchlow che, complice la caduta di Marquez, trionfa davanti a Valentino Rossi e Vinales.  Da segnalare senz'altro l'incredibile rimonta di Rossi, da 15esimo a secondo.  Solo sesto Lorenzo."
+    },
+    {
+      "event_id":"210",
+      "round":"27",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!  Trionfa qui a Philipp Island la Honda di Cal Crutchlow!"
+    },
+    {
+      "event_id":"205",
+      "round":"27",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro per Barbera."
+    },
+    {
+      "event_id":"200",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro!"
+    },
+    {
+      "event_id":"195",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales intanto si scrolla di dosso Dovizioso e punta dritto Valentino Rossi, distante solo un secondo e mezzo."
+    },
+    {
+      "event_id":"190",
+      "round":"26",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta anche per Barbera.  Vedremo se il pilota spagnolo riuscira' a ripartire."
+    },
+    {
+      "event_id":"185",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tre giri al termine! Vedremo se Dovizioso riuscira' ad attaccare Vinales."
+    },
+    {
+      "event_id":"180",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora il duello e' tra Dovizioso e Vinales anche se lo spagnolo sembra avere piu' energie."
+    },
+    {
+      "event_id":"175",
+      "round":"23",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro anche per Aleix Espargaro."
+    },
+    {
+      "event_id":"170",
+      "round":"23",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Forza la staccata Aleix Espargaro e finisce lungo in curva!  Il pilota della Suzuki e' out!"
+    },
+    {
+      "event_id":"165",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra aver allentato un po la presa Crutchlow a pochi giri dal termine."
+    },
+    {
+      "event_id":"160",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Perde un'altra posizione Dovizioso con Vinales bravissimo ad inserirsi."
+    },
+    {
+      "event_id":"155",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continui sorpassi tra Dovizioso ed A. Espargaro. Vigile anche Vinales, prontissimo ad inserirsi in questo duello."
+    },
+    {
+      "event_id":"150",
+      "round":"20",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Contro sorpasso di A. Espargaro su Dovizioso in spazi strettissimi, che bel duello!"
+    },
+    {
+      "event_id":"145",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande sorpasso di Dovizioso su Aleix Espargaro alla prima curva post rettilineo!"
+    },
+    {
+      "event_id":"140",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sbavatura in curva per Rossi che rischia la caduta! Nulla di grave comunque perche' il pilota della Yamaha riesce a rimanere in piedi ed a riprendere la marcia."
+    },
+    {
+      "event_id":"135",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua ad aumentare il divario tra Crutchlow e Rossi. Sono piu' di quattro i secondi di distacco."
+    },
+    {
+      "event_id":"130",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande bagarre per l'ottavo posto con almeno 4 piloti in lotta."
+    },
+    {
+      "event_id":"125",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il sole intanto ha lasciato spazio a dei nuvoloni non molto promettenti.  "
+    },
+    {
+      "event_id":"120",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra difficile il recupero di Rossi ai danni di Crutchlow. Il pilota della Honda sta mantenendo il distacco molto bene."
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In leggera difficolta' Lorenzo che, dopo un'ottima partenza, sembra essersi bloccato in settima posizione."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua a spingere Crutchlow, a quasi tre secondi di distacco da Rossi."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Davvero lodevole e straordinaria la prova fino ad ora di Rossi che in 12 giri si e' portato dalla quindicesima posizione di partenza all'attuale secondo posto."
+    },
+    {
+      "event_id":"100",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ingenuita' davvero clamorosa per Marquez che si era ormai portato in una condizione di tranquillita' con piu' di 3 secondi di distacco da Crutchlow."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro per Marquez."
+    },
+    {
+      "event_id":"90",
+      "round":"10",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamoroso Marquez!  Il pilota della Honda scivola in curva ed esce incredibilmente di scena!  Un KO fortunatamente per lui ininfluente per la classifica generale."
+    },
+    {
+      "event_id":"85",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Attacco di Rossi sul rettilineo ai danni di Aleix Espargaro. Il pilota della Yamaha ora e' terzo!"
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce intanto per Crutchlow che continua ad andare fortissimo!"
+    },
+    {
+      "event_id":"75",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"E dopo neanche due curve il pilota di Tavullia infila il connazionale Dovizioso e si porta in quarta posizione!"
+    },
+    {
+      "event_id":"70",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua a spingere fortissimo Rossi che si porta vicinissimo a Dovizioso!"
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Problemi per Espargaro Pol a tenere il passo del gruppo di testa.  Il pilota della Yamaha ha perso ben 2 posizioni in favore di Dovizioso e Rossi."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sbavatura di Espargaro Aleix e Crutchlow lo punisce portandosi in seconda posizione."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Recupera un'altra posizione Valentino Rossi, l'unico a tenere il passo di Marquez."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sta gia' prendendo il largo.   Sono quasi tre i secondi di distacco da Espargaro Aleix."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Altro sorpasso di Rossi questa volta ai danni del suo rivale Lorenzo.  "
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Errore di Miller in curva. Ne approfitta subito Rossi per portarsi in ottava posizione."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ancora Rossi protagonista con 2 posizioni recuperate."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Primo ritiro intanto con Baz."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Altrettanto buone le partenze sia di Lorenzo che di Rossi.  Il pilota spagnolo si e' portato in ottava posizione mentre Rossi in undicesima posizione."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pol Espargaro parte altrettanto bene e si porta subito in seconda posizione."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona partenza di Marquez che mantiene la prima posizione guadagnata in pole position."
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Si inizia!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Warm up lap dei piloti.   Tutto e' pronto."
+    }
+  ]
+}

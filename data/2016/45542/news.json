@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"La pole porta bene",
+      "news":"Le ultime cinque gare di MotoGP (Australia, Malesia e Valencia 2015, Qatar e Argentina 2016) sono tutte state vinte dal pilota partito in pole position. L'ultimo vincitore non scattato davanti a tutti e' Dani Pedrosa, 1o nel 2015 in Giappone con la pole position che fu di Jorge Lorenzo."
+    },
+    {
+      "event_id":"7",
+      "title":"Marquez a 25",
+      "news":"Marc Marquez e' salito a 25 vittorie nella classe regina, raggiungendo Kevin Schwantz al nono posto all time. Per arrivare a 25 successi, Marquez ci ha messo 56 gare: meglio di lui solo Agostini, che ne impiego' 43, e Rossi, con 49."
+    },
+    {
+      "event_id":"6",
+      "title":"Rossi, 21 anni sul podio",
+      "news":"Con il podio in Argentina, Valentino Rossi allunga a 21 le stagioni consecutive in cui ha ottenuto almeno un podio, dal 1996 al 2016. Superate le 20 di Angel Nieto, dal 1967 al 1986."
+    },
+    {
+      "event_id":"5",
+      "title":"Rossi, sempre costante",
+      "news":"Da quando corre nel Motomondiale, Valentino Rossi ha preso parte a 332 gare, salendo sul podio in 212 occasioni. Mediamente, e' quindi salito sul podio in oltre 6 gare su 10 cui ha preso parte."
+    },
+    {
+      "event_id":"4",
+      "title":"La prima di Marc",
+      "news":"Nel GP delle Americhe 2013, Marc Marquez ha conquistato la sua prima pole e la sua prima vittoria in MotoGP, alla sua seconda gara nella classe regina."
+    },
+    {
+      "event_id":"3",
+      "title":"Il primo di Andrea",
+      "news":"Nel GP delle Americhe 2015, Andrea Iannone ha conquistato il suo primo, e sinora unico, giro veloce in MotoGP."
+    },
+    {
+      "event_id":"2",
+      "title":"Marquez, re degli USA",
+      "news":"Marc Marquez non perde una gara negli USA addirittura dal GP di Indianapolis 2010, quando correva in 125 e chiuse 10o. "
+    },
+    {
+      "event_id":"1",
+      "title":"Yamaha giu' dal podio",
+      "news":"Nel 2014 in MotoGP ad Austin il podio e' composto da Marquez (Honda), Pedrosa (Honda) e Dovizioso (Ducati). La Yamaha non mancava dal podio della classe regina dal GP di Australia 2011: tripletta Honda con Stoner, Simoncelli e Dovizioso."
+    }
+  ]
+}

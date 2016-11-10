@@ -1,0 +1,59 @@
+{
+  "id":"78",
+  "name":"CIRCUITO MARCO SIMONCELLI",
+  "city":"MISANO ADRIATICO",
+  "country_id":"ITA",
+  "country":"Italia",
+  "length":"4226",
+  "bends":"14 (5 a sinistra, 9 a destra)",
+  "foundation_year":"1969",
+  "last_event_name":"GP San Marino",
+  "last_event_date":"11-09-2016",
+  "best_winner_name":"Jorge",
+  "best_winner_surname":"Lorenzo",
+  "best_winner_value":"3",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2016",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:31:868",
+      "average_speed":"165,600",
+      "description":"J. Lorenzo - Yamaha - 165,600 km/h - 2016"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2016",
+      "id":"517745",
+      "label":"Pedrosa D.",
+      "name":"Daniel",
+      "surname":"Pedrosa",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:32:979",
+      "average_speed":"163,600",
+      "description":"D. Pedrosa - Honda - 163,600 km/h - 2016"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

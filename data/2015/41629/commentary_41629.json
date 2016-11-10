@@ -1,0 +1,207 @@
+{
+  "items":[
+    {
+      "event_id":"145",
+      "round":"22",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Tre italiani su podio a Losail! Rossi, Dovizioso e Iannone fanno la storia in Qatar. Quarto Lorenzo davanti a Marquez."
+    },
+    {
+      "event_id":"140",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro che inizia subito col fiato sospeso. Dovizioso passa Rossi sul dritto ma il Dottore non ci sta e stacca lunghissimo per tenerlo dietro. Stanno rischiando veramente troppo i due azzurri ma l'occasione e' ghiottissima e va sfruttata."
+    },
+    {
+      "event_id":"135",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Penultimo giro con i due italiani che stanno rischiando tutto. Iannone ormai e' stabilmente davanti a Lorenzo."
+    },
+    {
+      "event_id":"130",
+      "round":"20",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dovizioso e Rossi hanno ormai staccato Iannone che nel frattempo ha passato Lorenzo. Podio tutto azzurro al momento."
+    },
+    {
+      "event_id":"125",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duello fantastico tra i due italiani con Lorenzo che si stacca leggermente e viene agganciato da Iannone."
+    },
+    {
+      "event_id":"120",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Non si stanno risparmiando colpi i tre davanti. Al momento Dovizioso guida su Rossi e Lorenzo."
+    },
+    {
+      "event_id":"115",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si stringe la morsa delle due Yamaha su Dovizioso che comunque e' il piu' veloce sul rettilineo finale."
+    },
+    {
+      "event_id":"110",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si stacca leggermente Iannone che ora si trova a un secondo dai primi tre."
+    },
+    {
+      "event_id":"105",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Situazione cristallizzata al comando con Lorenzo, Rossi, Dovizioso e Iannone che si giocano il podio. Marquez e Pedrosa non paiono in grado di risalire."
+    },
+    {
+      "event_id":"100",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez non riesce a ridurre il gap da Iannone che al momento e' il piu' lento dei piloti di testa."
+    },
+    {
+      "event_id":"95",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duello all'arma bianca tra Rossi e Dovizioso. Ne approfitta Lorenzo per allungare sul duo italiano."
+    },
+    {
+      "event_id":"90",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Le due Ducati fanno valere la propria maggiore velocita' sul lunghissimo rettilineo finale ma le Yamaha tengono botta sfruttando la maneggevolezza nel resto del circuito. "
+    },
+    {
+      "event_id":"85",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Anche Rossi ha calmato momentaneamente le acque, probabile un risparmio delle gomme in vista del gran finale."
+    },
+    {
+      "event_id":"80",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra essersi arrestata la rimonta di Marquez che si e' fermato a oltre 5 secondi dai primi."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il numero 46 viaggia con un passo stabile intorno all'155''3. Tutti gli altri viaggiano con due decimi di ritardo."
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Si ritira Loris Baz."
+    },
+    {
+      "event_id":"65",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dovizioso infila Lorenzo ma al comando ormai sono in quattro con Valentino che attualmente e' il piu' veloce in pista."
+    },
+    {
+      "event_id":"60",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez salta anche Smith e si installa in sesta posizione."
+    },
+    {
+      "event_id":"55",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi guadagna ancora e sta arrivando ormai a ridosso di Iannone."
+    },
+    {
+      "event_id":"50",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi scatenato nella rimonta sulle Ducati di Dovizioso e Iannone. Tempi impensabili fino a ieri per il pesarese."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi, Pedrosa ed Hernandez si trovano a 2''7 da Lorenzo. Il gap sembra ampio ma Valentino sta dando fondo a tutte le proprie risorse."
+    },
+    {
+      "event_id":"40",
+      "round":"5",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez salta anche Crutchlow e si porta in nona posizione."
+    },
+    {
+      "event_id":"35",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e Pedrosa stanno saltando tutti i piloti che hanno davanti nel disperato tentativo di non perdere il treno formato da Lorenzo e dalle due Ducati ufficiali."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Solo tre piloti sotto l'1'56''. Ovviamente sono i primi tre della classifica."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez nel frattempo e' gia' risalito fino alla 12ma posizione."
+    },
+    {
+      "event_id":"20",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo-Dovizioso-Iannone davanti a tutti. Pedrosa in difficolta' insieme a Rossi."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Partenza pessima per Marquez che va largo alla prima curva e si ritrova in 20ma posizione."
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto pronto a Losail per la gara di MotoGp. Dovizioso e la sua Ducati in pole position."
+    }
+  ]
+}

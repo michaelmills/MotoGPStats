@@ -1,0 +1,54 @@
+{
+  "id":"8",
+  "name":"CIRCUIT DE CATALUNYA",
+  "city":"MONTMELO' (BARCELLONA)",
+  "country_id":"ESP",
+  "country":"Spagna",
+  "length":"4655",
+  "bends":"16 (7 a sinistra, 9 a destra)",
+  "foundation_year":"1991",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2015",
+      "id":"520433",
+      "label":"Espargaro A.",
+      "name":"Aleix",
+      "surname":"Espargaro",
+      "team":"Suzuki",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:40:546",
+      "average_speed":"169,200",
+      "description":"A. Espargaro - Suzuki - 169,200 km/h - 2015"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2014",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:42:182",
+      "average_speed":"166,500",
+      "description":"M. Marquez - Honda - 166,500 km/h - 2014"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

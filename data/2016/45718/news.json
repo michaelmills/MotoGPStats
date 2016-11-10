@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"I tre piloti top",
+      "news":"Il podio dell'ultimo GP, disputato a Misano, ha visto, nell'ordine, Dani Pedrosa, Valentino Rossi e Jorge Lorenzo. Si tratta dei tre migliori piloti di sempre riguardo ai podi nella top class, nonche' gli unici tre ad aver superato quota 100: sono 182 i podi di Rossi, 104 di Lorenzo e 103 di Pedrosa. Tra tutte le classi del Motomondiale, Rossi, Pedrosa e Lorenzo occupano i primi 4 posti: 1o Rossi con 218 podi, unico ''intruso'' Agostini che e' 2o con 159, 3o Pedrosa con 144, 4o Lorenzo con 142."
+    },
+    {
+      "event_id":"7",
+      "title":"Dani come Valentino",
+      "news":"Con la vittoria di Misano, Dani Pedrosa e' salito a 15 stagioni consecutive (2002-2016) con almeno un successo nel Motomondiale. Eguagliato il record di Valentino Rossi, stabilito dal 1996 al 2010."
+    },
+    {
+      "event_id":"6",
+      "title":"Pedrosa eguaglia Read",
+      "news":"Dani Pedrosa, vincendo a Misano, ha raggiunto Phil Read all'ottavo posto all time nel Motomondiale, con 52 successi. Nella top class, Pedrosa e' 8o con 29, a -2 da Eddie Lawson, ma primo tra i piloti a non aver mai vinto il Mondiale nella classe maggiore."
+    },
+    {
+      "event_id":"5",
+      "title":"Honda davanti",
+      "news":"Nelle sei gare disputate in Aragona in MotoGP, sono tre le vittorie per la Honda, seguita dalla Yamaha con due successi (arrivati pero' negli ultimi due anni) e dalla Ducati con uno. Nessun pilota italiano ha vinto nella top class al Motorland"
+    },
+    {
+      "event_id":"4",
+      "title":"Otto vincitori diversi",
+      "news":"Le ultime 8 gare di MotoGP sono state vinte da 8 piloti diversi: mai era accaduto dall'introduzione di questa classe nel 2002. Eguagliato il record di 8 vincitori diversi, ma non consecutivi, nella top class, stabilito nel 2000. Vinsero: McCoy, Roberts jr, Abe, Criville', Capirossi, Barros, Rossi, Biaggi."
+    },
+    {
+      "event_id":"3",
+      "title":"Rossi, manca la vittoria",
+      "news":"Quello di Aragon (dove si corre dal 2010) e' il circuito piu' di lunga data, tra quelli attualmente inseriti nel calendario mondiale, dove Valentino Rossi non ha mai vinto. Gli altri sono quello di Austin (si corre dal 2013) e il Red Bull Ring (si corre dal 2015)."
+    },
+    {
+      "event_id":"2",
+      "title":"Jorge da 5 anni sul podio",
+      "news":"Jorge Lorenzo vanta una striscia aperta di 5 podi negli ultimi 5 anni nel GP di Aragona."
+    },
+    {
+      "event_id":"1",
+      "title":"Vale verso il record",
+      "news":"Qualora Valentino Rossi vincesse una gara a partire dal GP di Aragona, batterebbe il record di Troy Bayliss, trionfatore a Valencia 2006 a 37 anni e 213 giorni, come vincitore piu' ''anziano'' da quando esiste la MotoGP."
+    }
+  ]
+}

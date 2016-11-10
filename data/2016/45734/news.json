@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Marc come Doohan",
+      "news":"Con la vittoria di Aragon, Marc Marquez e' salito a 54 successi nel Motomondiale, eguagliando Michael Doohan. Nella storia, solo 5 piloti hanno fatto meglio: Agostini (122), Rossi (114), Nieto (90), Hailwood (76) e Lorenzo (64)."
+    },
+    {
+      "event_id":"7",
+      "title":"Spagna e Italia",
+      "news":"Spagna e Italia condividono il primato di piloti vincitori in MotoGP: sono 6 sia gli iberici (Lorenzo, Marquez, Pedrosa, Gibernau, Elias e Vinales), che gli azzurri: Rossi, Biaggi, Capirossi, Melandri, Dovizioso e Iannone."
+    },
+    {
+      "event_id":"6",
+      "title":"Successo nipponico",
+      "news":"Solo una volta un pilota giapponese ha vinto il GP di casa nella top class: Makodo Tamada, 1o nel 2004. Le ultime cinque edizioni sono state sempre vinte invece da piloti spagnoli."
+    },
+    {
+      "event_id":"5",
+      "title":"Pedrosa, vincente a Motegi",
+      "news":"Considerando solo le edizioni del GP del Giappone corse a Motegi, Daniel Pedrosa con 4 vittorie (una in 250 e 3 in MotoGP) e' il pilota piu' vincente. Alle sue spalle 3 piloti, capaci di conquistare tre vittorie ciascuno: Capirossi (tre in MotoGP), Kallio (due in 125 e una in 250) e Lorenzo (tre in MotoGP). "
+    },
+    {
+      "event_id":"4",
+      "title":"Vale a Motegi",
+      "news":"Sono 2 i successi di Valentino Rossi a Motegi: il ''Dottore'' si e' imposto nel GP del Giappone 2008 in MotoGP, ma in precedenza aveva vinto il GP del Pacifico 2001 nella classe 500."
+    },
+    {
+      "event_id":"3",
+      "title":"La prima e' di Randy",
+      "news":"La prima edizione del GP del Giappone per quanto riguarda la top class si e' corsa nel 1987 a Suzuka: vinse Randy Mamola su Yamaha."
+    },
+    {
+      "event_id":"2",
+      "title":"I podi di Marc",
+      "news":"Riguardo ai podi, Marquez si trova attualmente a quota 88 in carriera e gliene manca uno per eguagliare gli 89 di Casey Stoner e Luigi Taveri. Ancora due podi e diventera' il dodicesimo pilota della storia a oltrepassare quota 90."
+    },
+    {
+      "event_id":"1",
+      "title":"Dovi in pole",
+      "news":"Andrea Dovizioso nel 2010 a Motegi ha conquistato la sua prima pole in MotoGP. Poi non ci e' piu' riuscito per 4 anni, ottenendo la sua seconda pole nella classe regina sempre a Motegi nel 2014."
+    }
+  ]
+}

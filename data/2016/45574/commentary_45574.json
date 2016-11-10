@@ -1,0 +1,256 @@
+{
+  "items":[
+    {
+      "event_id":"180",
+      "round":"28",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Lorenzo vince il Gran Premio! Completano il podio Rossi, penalizzato da una partenza complicata, e Vinales al suo primo podio in Moto GP. Gara contrassegnata da molte cadute, tra cui quella di Marquez, che ha concluso in tredicesima posizione."
+    },
+    {
+      "event_id":"175",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia l'ultimo giro."
+    },
+    {
+      "event_id":"170",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Per Lorenzo questa sarebbe la sesta vittoria sul circuito francese. Da segnalare che Vinales riporterebbe la Suzuki sul podio dopo otto anni."
+    },
+    {
+      "event_id":"165",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tre giri al termine e Lorenzo inizia gia' a prepararsi per festeggiare."
+    },
+    {
+      "event_id":"160",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa prova ad avviccinarsi alla terza piazza di Vinales ma sembra essersi svegliato troppo tardi lo spagnolo della Honda."
+    },
+    {
+      "event_id":"155",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ci avviciniamo alla fine e la gara non sembra poter regalare piu' sorprese."
+    },
+    {
+      "event_id":"150",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez, nonostante la caduta, e' comunque in zona punti e quindi riesce a limitare parzialmente i danni."
+    },
+    {
+      "event_id":"145",
+      "round":"22",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Non riesce a proseguire Smith che e' costretto al ritiro."
+    },
+    {
+      "event_id":"140",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Danilo Petrucci anche grazie alle numerose cadute e' salito fino in settima posizione."
+    },
+    {
+      "event_id":"135",
+      "round":"20",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivolata anche per Smith."
+    },
+    {
+      "event_id":"130",
+      "round":"20",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"E' costretto al ritiro anche Miller."
+    },
+    {
+      "event_id":"125",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il podio ormai sembra essere gia' scritto: Lorenzo e' al comando in solitaria, alle sue spalle Valentino Rossi e terzo e' Vinales con la Suzuki."
+    },
+    {
+      "event_id":"120",
+      "round":"18",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Dovizioso non ce la fa ed e' costretto al ritiro."
+    },
+    {
+      "event_id":"115",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La caduta di Marquez riapre ulteriormente la corsa al titolo mondiale."
+    },
+    {
+      "event_id":"110",
+      "round":"16",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Incredibile quanto successo! Marquez e Dovizioso scivolano quasi in contemporanea nella stessa curva."
+    },
+    {
+      "event_id":"105",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi ha un passo piu' veloce e ora sta cercando di liberarsi di Dovizioso e Marquez."
+    },
+    {
+      "event_id":"100",
+      "round":"14",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Scatenato Rossi: riesce a superare anche Dovizioso e ora e' secondo."
+    },
+    {
+      "event_id":"95",
+      "round":"13",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi aggancia Marquez e riesce subito a passarlo: e' terzo il pilota di Tavullia."
+    },
+    {
+      "event_id":"90",
+      "round":"12",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Iannone era riuscito a ripartire dopo la caduta ma ora rientra ai box ed e' costretto al ritiro."
+    },
+    {
+      "event_id":"85",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si stanno avvicinando Dovizioso, Marquez e Rossi tra loro: si prospetta un bel duello per la fine della gara."
+    },
+    {
+      "event_id":"80",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La caduta di Iannone ha agevolato ulteriormente Lorenzo che ora e' lanciato in solitaria verso la vittoria."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Costretti al ritiro Crutchlow, Rabat, Redding e Hernandez."
+    },
+    {
+      "event_id":"70",
+      "round":"8",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivolano anche Crutchlow e Rabat."
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra Andrea Iannone che stava andando fortissimo: grande delusione per il pilota abruzzese."
+    },
+    {
+      "event_id":"60",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta migliorando Marquez che nell'ultimo giro ha guadagnato sensibilmente su Dovizioso."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone si libera di Dovizioso e sale in seconda piazza all'inseguimento di Lorenzo."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone sta andando piu' veloce del compagno di scuderia e sembra essere pronto all'attacco."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora il pilota pesarese della Yamaha e' il piu' veloce in pista e sembra aver messo Marquez nel mirino."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Prova a reagire Rossi che si libera anche dell'altro Espargaro e ora e' quinto."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce a superare nuovamente Espargaro e si riporta in sesta piazza."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo sta cercando subito di scappare; le Ducati di Dovizioso e Iannone non riescono a tenere il passo dello spagnolo."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Fatica Rossi che viene superato da Espargaro e scivola in settima posizione."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo parte subito forte e conserva la prima posizione; alle sue spalle Andrea Iannone e Dovizioso. Sesto Valentino Rossi."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si spengono le luci rosse e si parte! "
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' in corso il giro di ricognizione, sale la tensione."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon pomeriggio da Le Mans! Mancano pochi minuti alla partenza del quinto Gran Premio stagionale con Lorenzo che scattera' davanti a tutti."
+    }
+  ]
+}

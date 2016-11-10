@@ -1,0 +1,200 @@
+{
+  "items":[
+    {
+      "event_id":"140",
+      "round":"22",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"A Losail si impone Lorenzo al suo quarantunesimo successo in MotoGp! Secondo chiude un grande Andrea Dovizioso, davanti a Marc Marquez e Valentino Rossi."
+    },
+    {
+      "event_id":"135",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Inizia l'ultimo giro e Dovizioso riesce a risuperare Marquez portandosi al secondo posto."
+    },
+    {
+      "event_id":"130",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Lorenzo e' solo in testa mentre dietro Marquez, Dovizioso e Rossi sono vicini."
+    },
+    {
+      "event_id":"125",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ormai difficilmente qualcuno potra' impensierire la prima posizione di Lorenzo, mentre Dovizioso e Marquez sono vicini."
+    },
+    {
+      "event_id":"120",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande sorpasso di Marquez su Dovizioso: ora ci sono due spagnoli in testa alla gara."
+    },
+    {
+      "event_id":"115",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez si avvicina a Dovizioso mentre Rossi si ritrova staccato a causa di un lungo in uscita di curva."
+    },
+    {
+      "event_id":"110",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembrano essersi fossilizzate ora le posizioni in testa alla corsa."
+    },
+    {
+      "event_id":"105",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Lorenzo sembra riuscire ad andarsene: Dovizioso non riesce a colmare gli spazi."
+    },
+    {
+      "event_id":"100",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi fa il giro veloce e prova a riavvicinarsi a Marquez."
+    },
+    {
+      "event_id":"95",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo prova a scappare ma Dovizioso rimane sempre incollato alla sua scia."
+    },
+    {
+      "event_id":"90",
+      "round":"13",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra anche Stefan Bradl che pero' si trovava nelle retrovie."
+    },
+    {
+      "event_id":"85",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I primi quattro piloti stanno girando su tempi molto vicini e quindi per ora nessuno riesce ad avere la meglio."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ad inseguire il quartetto al comando si trova Daniel Pedrosa che pero' e' staccato e non sembra essere in grado di poter rientrare."
+    },
+    {
+      "event_id":"75",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si e' riformato un gruppo di quattro piloti in testa alla gara ma per ora e' Lorenzo che sembra avere piu' possibilita' di trionfo."
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo riesce a superare Dovizioso e a portarsi al comando della gara."
+    },
+    {
+      "event_id":"65",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Valentino Rossi sembra in grado di tenere il passo di Marc Marquez."
+    },
+    {
+      "event_id":"60",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso e Lorenzo hanno guadagnato sulla coppia Marquez-Rossi che sta inseguendo."
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Fuori anche  Crutchlow che perde l'anteriore e scivola."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Iannone finisce a terra mentre stava duellando con Dovizioso e Lorenzo. Sfortunato il pilota italiano che avrebbe potuto fare una bella gara."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi ha qualche metro di distanza da Marquez: il pilota pesarese ha scelto le gomme dure che sulla carta dovrebbero garantirgli una durata maggiore."
+    },
+    {
+      "event_id":"40",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande avvio delle Ducati che cercano di avvantaggiarsi sui diretti inseguitori."
+    },
+    {
+      "event_id":"35",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora Rossi sembra faticare leggermente per tenere il passo dei piloti che lo precedono."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone guida il quintetto di testa composto inoltre da Dovizioso, Lorenzo, Marquez e Rossi."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone e Dovizioso sul rettilineo riescono a scavalcare Lorenzo."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo scatta bene e mantiene la prima posizione; alle sue spalle le due Ducati di Iannone e Dovizioso e poi Rossi che precede Marquez."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"L'attesa e' finita: si comincia!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia il giro di ricognizione e aumenta la tensione."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buonasera da Losail! Mancano pochi minuti all'atteso via del primo Gp della nuova stagione."
+    }
+  ]
+}

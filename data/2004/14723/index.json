@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"911",
+  "edition_name":"2004",
+  "event_id":14723,
+  "event_description":"GP Comunita' Valenciana",
+  "date_start":"30-10-2004",
+  "date_end":"31-10-2004",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":14725,
+      "event_description":"SCHIERAMENTO GP COMUNITA' VAL",
+      "date":"30-10-2004",
+      "date_to_print":"30 Ott 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14725.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":14724,
+      "event_description":"Griglia",
+      "date":"29-10-2004",
+      "date_to_print":"29 Ott 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14724.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":14723,
+      "event_description":"Gara",
+      "date":"31-10-2004",
+      "date_to_print":"31 Ott 2004",
+      "time":"13:00",
+      "time_local":"13:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14723.json"
+    }
+  ]
+}

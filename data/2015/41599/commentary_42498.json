@@ -1,0 +1,116 @@
+{
+  "items":[
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez domina la seconda sessione di libere; Lorenzo segue a meno di un decimo. Rossi, vittima di una scivolata, e' quarto."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi! I piloti in pista stanno ultimando il loro ultimo giro cronometrato."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ennesima caduta di questa sessione; Marquez nella ghiaia in curva 7."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Anche Smith nella ghiaia nello stesso punto in cui e' scivolato Dovizioso."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso a terra in curva 4. Il ducatista e' scivolato finendo nella ghiaia."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sta continuando a girare senza pero' migliorare il proprio tempo."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa e' stato costretto ad andare in clinica mobile in seguito alla caduta, davvero sfortunato lo spagnolo."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quarto tempo per il Dottore, alle spalle di Iannone."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' tornato in pista, Pedrosa non ancora."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I tempi si stanno avvicinando a quelli del mattino nonostante il gran caldo."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nel frattempo Marquez ha fatto registrare il miglior tempo."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e Pedrosa a terra in due punti diversi del tracciato; fortunatamente i due piloti si sono rialzati senza problemi."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi e' l'unico rimasto in e'ista a girare."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti in pista per l'installation lap."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Si comincia!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta per iniziare la seconda sessione di prove libere."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Il primo podio di Marc",
+      "news":"Marc Marquez nel 2013, alla sua gara di debutto in MotoGP, e' stato 3o in Qatar, primo podio in classe regina."
+    },
+    {
+      "event_id":"7",
+      "title":"Rossi e Smith regolari",
+      "news":"Nelle 18 gare corse nel 2015 in MotoGP solo due piloti sono andati sempre a punti: Valentino Rossi e Bradley Smith."
+    },
+    {
+      "event_id":"6",
+      "title":"Il podio azzurro",
+      "news":"Nel 2015 la gara di MotoGP in Qatar si chiude con un podio tutto italiano, con Valentino Rossi davanti ad Andrea Dovizioso e Andrea Iannone. Un podio tutto italiano nella classe regina non si vedeva dal GP del Giappone 2006: 1o Capirossi, 2o Rossi, 3o Melandri."
+    },
+    {
+      "event_id":"5",
+      "title":"Lorenzo, cinque successi",
+      "news":"Jorge Lorenzo e' l'unico pilota ad aver vinto in tutte le classi in Qatar. In totale per lui 5 successi: nel 2004 in 125, nel 2006 e 2007 in 250, nel 2012 e 2013 in MotoGP. A quota 5 vittorie totali c'e' anche Casey Stoner: per lui sono quattro quelle ottenute in MotoGP e una in 250. "
+    },
+    {
+      "event_id":"4",
+      "title":"Yamaha al top",
+      "news":"In MotoGP, la casa piu' vincente in Qatar e' la Yamaha con 6 successi, seguita dalla Honda e dalla Ducati con 3."
+    },
+    {
+      "event_id":"3",
+      "title":"Pedrosa e il Qatar",
+      "news":"Losail e' il circuito ''attivo'' da piu' tempo in cui Dani Pedrosa non ha vinto alcun GP in nessuna delle tre classi. Gli altri due sono Austin, entrato nel calendario dal 2013, e Termas de Rio Hondo in Argentina, dove si e' corso per la prima volta nel 2014."
+    },
+    {
+      "event_id":"2",
+      "title":"Rossi, sempre presente",
+      "news":"Con l'edizione del 2016, Valentino Rossi diventera' l'unico pilota ad aver corso in tutte le 13 edizioni del GP del Qatar in MotoGP: attualmente l'unico insieme a lui ad aver gareggiato tutte le precedenti 12 e' Nicky Hayden, passato in Superbike."
+    },
+    {
+      "event_id":"1",
+      "title":"Una MotoGP per pochi",
+      "news":"Le ultime 55 gare di MotoGP sono sempre state vinte da uno tra Lorenzo, Marquez, Pedrosa o Rossi: ultimo ''esterno'' Stoner in Australia 2012. Le ultime 92 gare di MotoGP sono sempre state vinte da Honda o Yamaha. Ultima vittoria di un'altra moto: Stoner, su Ducati, in Australia 2010."
+    }
+  ]
+}

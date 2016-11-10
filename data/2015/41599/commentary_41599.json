@@ -1,0 +1,284 @@
+{
+  "items":[
+    {
+      "event_id":"200",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con questa vittoria Lorenzo raggiunge Rossi in testa alla classifica piloti."
+    },
+    {
+      "event_id":"195",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Secondo Marquez, poi Rossi, Iannone, Pedrosa e Dovizioso."
+    },
+    {
+      "event_id":"190",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vince Lorenzo, vittoria netta e meritatissima."
+    },
+    {
+      "event_id":"185",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Bellissimo il nuovo sorpasso di Pedrosa."
+    },
+    {
+      "event_id":"180",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dovizioso ancora davanti, appassionante il duello tra i due."
+    },
+    {
+      "event_id":"175",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro."
+    },
+    {
+      "event_id":"170",
+      "round":"21",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ed ecco il sorpasso, Pedrosa quinto."
+    },
+    {
+      "event_id":"165",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa ancora all'attacco di Dovizioso."
+    },
+    {
+      "event_id":"160",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Meno di due giri alla fine."
+    },
+    {
+      "event_id":"155",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Entra velocissimo in cruva Pedrosa, che rischia di travolgere Dovizioso."
+    },
+    {
+      "event_id":"150",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Intanto risale al decimo posto anche Danilo Petrucci, grazie alle cadute di Crutchlow e Vinales."
+    },
+    {
+      "event_id":"145",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Meno di tre giri alla fine della gara, Lorenzo saldamente in testa."
+    },
+    {
+      "event_id":"140",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa attaccato a Dovizioso, deve difendere il quinto posto il nostro pilota."
+    },
+    {
+      "event_id":"135",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rassicurante il vntaggio di Rossi su Iannone, il terzo posto sembra non essere in discussione."
+    },
+    {
+      "event_id":"130",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quasi tre secondi il vantaggio di Lorenzo su Marquez, a meno di cinque giri dalla fine."
+    },
+    {
+      "event_id":"125",
+      "round":"17",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Anche Vinales per terra, ritiro anche per lui."
+    },
+    {
+      "event_id":"120",
+      "round":"16",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta e ritiro per Crutchlow."
+    },
+    {
+      "event_id":"115",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Posizioni abbastanza delineate; Rossi in lotta per il podio ma al momento tagliato fuori dalla lotta per la vittoria finale."
+    },
+    {
+      "event_id":"110",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Intanto e' scivolato in dodicesima posizione Danilo Petrucci, non brillante la sua prova."
+    },
+    {
+      "event_id":"105",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' di oltre due secondi il vantaggio di Lorenzo su Marquez."
+    },
+    {
+      "event_id":"100",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Intanto Marquez si sta facendo sotto di nuovo, anche se il vantaggio di Lorenzo permane rassicurante."
+    },
+    {
+      "event_id":"95",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sale a piu' di sette secondi e mezzo il ritardo di Rossi da Lorenzo, il rischio e' che anche oggi per il marchigiano siano chiuse le possibilita' di vittoria."
+    },
+    {
+      "event_id":"90",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Siamo quasi a meta' gara, sempre in testa Lorenzo davanti a Marquez, Rossi, Iannone e Dovizioso."
+    },
+    {
+      "event_id":"85",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sesto Pedrosa, ora davanti a Smith."
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' ora da segnalare un allungo di Lorenzo su marquez, quasi un secondo il vantaggio del pilota Yamaha."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Appassionante il duello tra Lorenzo e Marquez, che resta al momento in posizione di attesa."
+    },
+    {
+      "event_id":"70",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone davanti a Dovizioso."
+    },
+    {
+      "event_id":"65",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di cinque secondi il ritardo di Rossi dalla coppia di testa."
+    },
+    {
+      "event_id":"60",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi sta allungando su Dovizioso."
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi terzo, Dovizioso quarto e Iannone quinto."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Cade Laverty, senza conseguenze per il pilota."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sempre Lorenzo in testa, Marquez e' attaccato."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Girano velocissimi la' davanti, Marquez nuovo record della pista."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gran ritmo di Lorenzo, che di questo passo potrebbe andarsene."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi terzo."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sale in terza posizione Dovizioso."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo davanti a tutti, poi Marquez e Smith."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto e' pronto, grande attesa."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buongiorno da Brno! Piloti in pista, tra poco l'allineamento ed il via."
+    }
+  ]
+}

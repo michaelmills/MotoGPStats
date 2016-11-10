@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"La striscia e' chiusa",
+      "news":"Vincendo ad Assen, Jack Miller ha interrotto una serie di 62 successi consecutivi dei ''soliti 4''. Dalla vittoria di Casey Stoner nel 2012 in Australia, erano state 26 le affermazioni di Marc Marquez, 20 quelle di Jorge Lorenzo, 9 quelle di Valentino Rossi e 7 quelle di Dani Pedrosa."
+    },
+    {
+      "event_id":"7",
+      "title":"Dominio della Honda",
+      "news":"Nell'era della MotoGP, al Sachsenring, la Honda ha vinto 10 volte (di cui le ultime sei consecutive). Seguono la Yamaha a quota 3 e la Ducati con una vittoria, Stoner nel 2008."
+    },
+    {
+      "event_id":"6",
+      "title":"Pedrosa e Marquez al top",
+      "news":"Dani Pedrosa e Marc Marquez sono i piloti piu' vincenti al Sachsenring, con 6 successi. Insegue a quota 5 Valentino Rossi, che tuttavia eguaglia Pedrosa e Marquez nei successi nel GP di Germania, considerando anche quello del 1997 al Nurburgring in 125."
+    },
+    {
+      "event_id":"5",
+      "title":"Marc e' imbattibile",
+      "news":"Nelle sue ultime 6 partecipazioni al GP di Germania, Marc Marquez ha sempre ottenuto pole position e vittoria. In MotoGP, inoltre, ha ottenuto per tre volte su tre apparizioni il giro veloce e di conseguenza ha sempre centrato l'hat-trick."
+    },
+    {
+      "event_id":"4",
+      "title":"Marc sempre sul podio",
+      "news":"Marc Marquez e' salito sette volte sul podio nelle otto gare stagionali. Nella sua carriera in MotoGP, su 62 gare corse, ci e' riuscito ben 46 volte. E' 15esimo nella classifica all time della Top Class e ha gia' scavalcato piloti come Capirossi (42), Sheene (40) e Kenny Roberts (39). Ora ha nel mirino i 48 podi di Hailwood."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo, mai vincente",
+      "news":"Tra i circuiti di ''lungo corso'' inseriti nel calendario 2015, quello del Sachsenring e' l'unico dove Jorge Lorenzo dove non ha mai vinto. Non si considerano i circuiti di Austin (si corre dal 2013) e Termas de Rio Hondo (si corre dal 2014)."
+    },
+    {
+      "event_id":"2",
+      "title":"Yamaha giu' dal podio",
+      "news":"Nell'ultimo GP corso ad Assen, nessuna Yamaha e' salita sul podio: non accadeva esattamente da 2 anni, quando il GP di Olanda 2014 si chiuse con 1o Marquez (Honda), 2o Dovizioso (Ducati) e 3o Pedrosa (Honda)."
+    },
+    {
+      "event_id":"1",
+      "title":"Sempre Honda e Yamaha",
+      "news":"Le ultime 100 gare di MotoGP sono sempre state vinte da Honda o Yamaha. Ultima vittoria di un'altra moto: Casey Stoner, su Ducati, nel GP di Australia 2010."
+    }
+  ]
+}

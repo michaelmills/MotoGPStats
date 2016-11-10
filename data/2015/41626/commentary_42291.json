@@ -1,0 +1,81 @@
+{
+  "items":[
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Proprio quando Dovizioso pregustava la pole position, e' arrivato il  gran tempo di Marquez, che passa al comando nel finale e si prende la prima posizione."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi!"
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso fa meglio dello spagnolo della Yamaha!"
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Crutchlow piazza un gran tempo, ma Lorenzo fa meglio di lui."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Colpo di scena. Marquez abbandona la sua moto a bordopista e corre ai box per riuscire a prenderne un'altra. Problema tecnico per lui."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iniziano le grandi emozioni. Tutti cercano di migliorare la loro prestazione."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti rientrano momentaneamente ai box."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ci pensa Marquez. Primo tempo provvisorio. Dietro a lui Espargaro."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo tempo interessante per Lorenzo."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Favori del pronostico ovviamente per Marquez, in pole qui nel 2013 e nel 2014."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia il Q2. I piloti piu' forti si giocano qui la pole position."
+    }
+  ]
+}

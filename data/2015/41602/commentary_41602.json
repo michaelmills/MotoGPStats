@@ -1,0 +1,340 @@
+{
+  "items":[
+    {
+      "event_id":"240",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qui! Marquez primo, secondo Lorenzo, poi Rossi e Pedrosa. Gara bellissima, ottimo terzo posto per Valentino Rossi."
+    },
+    {
+      "event_id":"235",
+      "round":"28",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez stacca Lorenzo, mentre Rossi e Pedrosa continuano a sorpassarsi!"
+    },
+    {
+      "event_id":"230",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia un entusiasmante ultimo giro."
+    },
+    {
+      "event_id":"225",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez e Lorenzo ancora incollati l'un l'altro, lo stesso Rossi e Pedrosa."
+    },
+    {
+      "event_id":"220",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Due giri e mezzo alla fine, Marquez, Lorenzo, Rossi e Pedrosa i primi quattro."
+    },
+    {
+      "event_id":"215",
+      "round":"25",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Stupendo sorpasso di Marquez, che guadagna la prima posizione."
+    },
+    {
+      "event_id":"210",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce di Lorenzo, ma Marquez e' li'."
+    },
+    {
+      "event_id":"205",
+      "round":"23",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi di nuovo davanti a Pedrosa."
+    },
+    {
+      "event_id":"200",
+      "round":"23",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa si riprende la terza posizione, Rossi quarto."
+    },
+    {
+      "event_id":"195",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Allunga leggermente Lorenzo su Marquez."
+    },
+    {
+      "event_id":"190",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sei giri alla fine, mentre Pedrosa cerca di riprendersi il podio ai danni di Valentino."
+    },
+    {
+      "event_id":"185",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa gira piu' forte di Rossi in questo momento."
+    },
+    {
+      "event_id":"180",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra improbabile che i piloti si fermino, la pioggia la momento e' di trascurabile intensita'."
+    },
+    {
+      "event_id":"175",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Meccanici pronti per il cambio moto, se la pioggia dovesse intensificarsi."
+    },
+    {
+      "event_id":"170",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Dovizioso guadagna la nona posizione ai danni di Petrucci."
+    },
+    {
+      "event_id":"165",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Aspettiamo ora le mosse di Marquez, che sicuramente provera' l'attacco ai danni di Lorenzo."
+    },
+    {
+      "event_id":"160",
+      "round":"18",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi passa Pedrosa e guadagna la terza posizione!"
+    },
+    {
+      "event_id":"155",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Intanto Lorenzo e Marquez hanno decisamente staccato l'altra coppia formata da Pedrosa e Rossi."
+    },
+    {
+      "event_id":"150",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Attenzione, comincia a piovere!"
+    },
+    {
+      "event_id":"145",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sempre sesto Bradley Smith."
+    },
+    {
+      "event_id":"140",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia a farsi vedere Rossi, alla ricerca del momento giusto per sorpassare."
+    },
+    {
+      "event_id":"135",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra maturo l'attacco di Rossi a Pedrosa."
+    },
+    {
+      "event_id":"130",
+      "round":"14",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pol Espargaro passa di nuovo Crutchlow."
+    },
+    {
+      "event_id":"125",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quattro italiani dunque nei dieci: Valentino al quarto posto, Iannone quinto, Petrucci nono e Dovizioso decimo."
+    },
+    {
+      "event_id":"120",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gara entusiasmante, i primi quattro non sono lontani l'uno dall'altro."
+    },
+    {
+      "event_id":"115",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Entra nei top ten Dovizioso, che supera Redding."
+    },
+    {
+      "event_id":"110",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lo stesso vale per Marquez, ora attaccato agli scarichi di Lorenzo."
+    },
+    {
+      "event_id":"105",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino tallona Pedrosa, ora il ritardo del marchigiano e' sotto il secondo."
+    },
+    {
+      "event_id":"100",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Crutchlow si mette dietro Paul Espargaro e conquista il settimo posto."
+    },
+    {
+      "event_id":"95",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo incrementa il proprio vantaggio su Marquez."
+    },
+    {
+      "event_id":"90",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Caduta senza conseguenze per Jack Miller, che torna ai box in sella ad uno scooter dell'organizzazione."
+    },
+    {
+      "event_id":"85",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di un secondo e mezzo il ritardo di Rossi da Pedrosa."
+    },
+    {
+      "event_id":"80",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Crutchlow supera Petrucci e si prende l'ottavo posto."
+    },
+    {
+      "event_id":"75",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quinto posto per Andrea Iannone."
+    },
+    {
+      "event_id":"70",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Piu' staccato ora Valentino da Dani Pedrosa."
+    },
+    {
+      "event_id":"65",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sesto giro appena iniziato, Lorenzo, Rossi e poi Pedrosa. Rossi quarto."
+    },
+    {
+      "event_id":"60",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo l'ottavo posto, fino a questo momento, di Danilo Petrucci."
+    },
+    {
+      "event_id":"55",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il piu' veloce in pista e' Pedrosa, che si sta avvicinando alla coppia di testa."
+    },
+    {
+      "event_id":"50",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo non riesce a guadagnare su Marquez, che gli e' alle calcagna."
+    },
+    {
+      "event_id":"45",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi con Dani Pedrosa nel mirino, poco piu' di due secondi il distacco."
+    },
+    {
+      "event_id":"40",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Seconda posizione per Marquez."
+    },
+    {
+      "event_id":"35",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quinta posizione per Valentino Rossi."
+    },
+    {
+      "event_id":"30",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo meglio di tutti, straordinaria la sua partenza."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via! "
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Piloti schierati sulla griglia di partenza, e' questione di secondi."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In corso il giro di ricognizione, tra poco il via."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi partira' ottavo in griglia: davanti a tutti Marquez, Pedrosa e Lorenzo; in seconda fila Crutchlow, Petrucci e Smith. Dietro, Iannone, appunto Rossi e Vinales."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buonasera da Indianapolis, tutto e' pronto per la gara di MOTO GP, la piu' attesa senza dubbio."
+    }
+  ]
+}

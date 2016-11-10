@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"865",
+  "edition_name":"2003",
+  "event_id":13503,
+  "event_description":"GP Portogallo",
+  "date_start":"05-09-2003",
+  "date_end":"07-09-2003",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":13505,
+      "event_description":"PROVE VENERDI' GP PORTOGALLO",
+      "date":"05-09-2003",
+      "date_to_print":"05 Set 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13505.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":13504,
+      "event_description":"Griglia",
+      "date":"06-09-2003",
+      "date_to_print":"06 Set 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13504.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":13503,
+      "event_description":"Gara",
+      "date":"07-09-2003",
+      "date_to_print":"07 Set 2003",
+      "time":"14:00",
+      "time_local":"13:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13503.json"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "items":[
+    {
+      "event_id":"150",
+      "round":"23",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Lorenzo riesce a superare Marquez al fotofinish e porta a casa la terza vittoria in questa stagione. Chiude il podio Iannone al termine di una gran battaglia con Dovizioso prima e Pedrosa poi."
+    },
+    {
+      "event_id":"145",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultime curve al cardiopalma con Marquez che difende la posizione."
+    },
+    {
+      "event_id":"140",
+      "round":"23",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Marquez riesce nel sorpasso!"
+    },
+    {
+      "event_id":"135",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia l'ultimo giro con Marquez che prova in tutti i modi a superare Lorenzo e con Iannone che si riprende la terza posizione."
+    },
+    {
+      "event_id":"130",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Secondo attacco di Marquez per la leadership. Come nel primo tentativo il pilota Honda e' costretto ad allargare la traiettoria."
+    },
+    {
+      "event_id":"125",
+      "round":"22",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa porta con successo l'attacco ai danni di Iannone e si prende la terza posizione."
+    },
+    {
+      "event_id":"120",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez prova l'attacco per il primo posto ma e' costretto ad allargare la traiettoria."
+    },
+    {
+      "event_id":"115",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grave errore di Dovizioso che finisce lungo in curva 1 e si ritrova in quinta posizione."
+    },
+    {
+      "event_id":"110",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nella sfida per il terzo posto si inserisce anche Pedrosa."
+    },
+    {
+      "event_id":"105",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la fuga di Lorenzo e Marquez. Sono piu' di quattro i secondi tra loro e la coppia Ducati."
+    },
+    {
+      "event_id":"100",
+      "round":"17",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone riesce a vincere la staccata con Dovizioso e si porta in terza posizione."
+    },
+    {
+      "event_id":"95",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sfida tra le Ducati per il terzo posto con Dovizioso che difende il podio."
+    },
+    {
+      "event_id":"90",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Alle spalle dei due spagnoli troviamo le Ducati di Dovizioso e Iannone. Entrambe le moto pagano un avvio di gara tutt'altro che esaltante."
+    },
+    {
+      "event_id":"85",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez non si arrende e dimezza il distacco da Lorenzo."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo adesso ha un buon distacco dal suo piu' vicino rivale Marquez."
+    },
+    {
+      "event_id":"75",
+      "round":"10",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Redding rientra ai box. Gara finita anche per lui"
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Valentino Rossi e' costretto al ritiro."
+    },
+    {
+      "event_id":"65",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Problema per Rossi. Il numero 46 e' costretto a rallentare e portare la moto a bordopista, circondato in una nuvola di fumo bianco."
+    },
+    {
+      "event_id":"60",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi continua nella sua manovra di continui, timidi attacchi ai danni di Lorenzo in cerca del momento giusto."
+    },
+    {
+      "event_id":"55",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone sfrutta la potenza della sua Ducati per superare Redding e Vinales sul rettilineo."
+    },
+    {
+      "event_id":"50",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Errore di Rossi che e' costretto ad allungare la staccata in ingresso della San Donato."
+    },
+    {
+      "event_id":"45",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez si stacca dagli inseguitori e si unisce al duo di testa."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce di Dovizioso che spinge la sua Ducati dopo un avvio difficile della scuderia di casa."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mentre Lorenzo e Rossi provano a staccarsi dal gruppo, Marquez e A. Espargaro battagliano per il terzo posto."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Attacco di Rossi in curva 1. Lo spagnolo risponde e si riprende la testa della gara."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Contatto nelle prime curve. Baz, Bautista e Miller sono caduti fuori pista."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Lorenzo beffa tutti e si porta in testa dopo due curve."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Warm up in corso."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano pochi minuti all'inizio del GP della classe regina. I piloti sono in griglia e i tecnici iniziano a sgombrare la pista."
+    }
+  ]
+}

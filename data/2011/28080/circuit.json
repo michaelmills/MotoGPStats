@@ -1,0 +1,54 @@
+{
+  "id":"16",
+  "name":"INDIANAPOLIS MOTOR SPEEDWAY ROAD COURSE",
+  "city":"INDIANAPOLIS, IN",
+  "country_id":"USA",
+  "country":"Stati Uniti",
+  "length":"4170",
+  "bends":"16 (10 a sinistra, 6 a destra)",
+  "foundation_year":"0",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2014",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:31:619",
+      "average_speed":"163,800",
+      "description":"M. Marquez - Honda - 163,800 km/h - 2014"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2015",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:32:625",
+      "average_speed":"162,000",
+      "description":"M. Marquez - Honda - 162,000 km/h - 2015"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

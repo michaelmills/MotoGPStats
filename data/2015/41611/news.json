@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Primo best lap di Marquez",
+      "news":"Nel GP di Catalogna del 2009 in 125, Marc Marquez ha ottenuto il suo primo giro veloce nel Motomondiale."
+    },
+    {
+      "event_id":"5",
+      "title":"La pole non porta bene",
+      "news":"Da quando esiste la MotoGP, solo in due casi chi e' partito in pole position in Catalogna ha poi vinto la gara: Rossi nel 2006 e Lorenzo nel 2010."
+    },
+    {
+      "event_id":"4",
+      "title":"Pedrosa, traguardo vicino",
+      "news":"Dani Pedrosa e' terzo all time per podi nella classe regina con 94. Gliene manca uno per eguagliare i 95 conquistati da Mick Doohan."
+    },
+    {
+      "event_id":"3",
+      "title":"Super Lorenzo",
+      "news":"Jorge Lorenzo non vinceva tre gare consecutive da Australia-Giappone-Valencia 2013. Se vince a Barcellona stabilisce un record personale, poiche' mai in carriera ha ottenuto quattro successi di fila."
+    },
+    {
+      "event_id":"2",
+      "title":"La prima della Ducati",
+      "news":"Nel 2003 in Catalogna Loris Capirossi porta la sua Ducati al primo successo in MotoGP: l'ultimo GP vinto dalla ''rossa'' risaliva al 1959 con Hailwood a Dunrod in 125."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi migliore in Catalogna",
+      "news":"Il pilota piu' vincente nel GP di Catalogna e' Valentino Rossi, con 9 successi: uno in 125, due in 250, uno in 500 e cinque in MotoGP. "
+    }
+  ]
+}

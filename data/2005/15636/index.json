@@ -1,0 +1,45 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"932",
+  "edition_name":"2005",
+  "event_id":15636,
+  "event_description":"GP Giappone",
+  "date_start":"17-09-2005",
+  "date_end":"18-09-2005",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":15633,
+      "event_description":"Griglia",
+      "date":"17-09-2005",
+      "date_to_print":"17 Set 2005",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15633.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":15636,
+      "event_description":"Gara",
+      "date":"18-09-2005",
+      "date_to_print":"18 Set 2005",
+      "time":"06:45",
+      "time_local":"06:45",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15636.json"
+    }
+  ]
+}

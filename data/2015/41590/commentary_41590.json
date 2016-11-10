@@ -1,0 +1,186 @@
+{
+  "items":[
+    {
+      "event_id":"130",
+      "round":"23",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Lorenzo taglia il traguardo in seguito ad una gara dominata dall'inizio. Pedrosa resiste stoicamente a Rossi e conquista il secondo posto. Il pilota di Tavullia si deve accontentare del terzo gradino del podio."
+    },
+    {
+      "event_id":"125",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi prova a sorpassare Pedrosa ma si allarga troppo e perde tempo prezioso."
+    },
+    {
+      "event_id":"120",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Manca un giro al termine. Dietro Rossi altri due italiani: Iannone e Dovizioso."
+    },
+    {
+      "event_id":"115",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano tre giri al termine. La battaglia per il secondo posto non accenna a diminuire mentre Lorenzo continua il suo personale capolavoro."
+    },
+    {
+      "event_id":"110",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si infiamma il duello tra Rossi e Pedrosa con sorpassi e risposte tra i due."
+    },
+    {
+      "event_id":"105",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi prova ad infilare Pedrosa sul rettilineo ma e' costretto ad allungare la traiettoria, ridando immediatamente il posto allo spagnolo."
+    },
+    {
+      "event_id":"100",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A. Espargaro, attualmente sesto, Sta eguagliando il miglior risultato stagionale della Suzuki in stagione, ottenuto da Vinales a Barcellona."
+    },
+    {
+      "event_id":"95",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In mezzo al deserto d' Aragon, Lorenzo continua ad avere un gran passo gara, lasciando poche speranze agli avversari."
+    },
+    {
+      "event_id":"90",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo continua nella sua gara solitaria. Pedrosa continua la sua lotta con Rossi a piu' di tre secondi di distacco."
+    },
+    {
+      "event_id":"85",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Smith e' costretto ad allargare la traiettoria, chiuso nella morsa di Dovizioso e P. Espargaro. Adesso deve ripartire dall'ottava posizione."
+    },
+    {
+      "event_id":"80",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi inizia a saggiare la resistenza di Pedrosa, attaccandolo in uscita di curva 1."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Petrucci scivola in curva 14 ed e' costretto al ritiro. Questa sara' la prima gara in cui non entra in zona punti in questo campionato."
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con la sua caduta, Marquez perde la possibilita' di eguagliare Rainey a 24 vittorie nella classe regina."
+    },
+    {
+      "event_id":"65",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa e Rossi si avvicinano di qualche decimo a Lorenzo. Iannone non sembra riuscire a tenere il ritmo dei due."
+    },
+    {
+      "event_id":"60",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gara conclusa anche per De Angelis. Il pilota e' costretto al ritiro in seguito ad una caduta."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si prospetta una gran battaglia per il secondo posto con Pedrosa, Rossi e Iannone racchiusi in pochi decimi."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo scappa via rispetto agli inseguitori. Sono quasi tre i secondi di distacco da Pedrosa."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi aggancia e supera Iannone. Il ''Dottore'' ha gia' recuperato tre posizioni in tre giri."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa scavalca Iannone e si porta al secondo posto."
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Marquez fuori! Il pilota perde il controllo della sua moto e deve dire addio alla gara."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo giro concluso con Lorenzo mezzo secondo davanti a Maquez. Rossi quarto."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez apre il gas e prova a scappare gia' dal primo giro."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon inizio di Iannone e Lorenzo."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Riscaldamento finito e moto sulla griglia. Tutto pronto per la partenza."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Piloti che si apprestano ad effettuare il warm up. Tra poco cominciano le danze."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"I record di Marc",
+      "news":"Con la vittoria in Germania, Marc Marquez e' salito a 53 successi nel Motomondiale, superando Phil Read, che si trova a 52. Marquez ora vede da vicino Mick Doohan, fermo a 54. Nella storia, hanno fatto meglio solo Agostini, Rossi, Nieto, Hailwood e Lorenzo."
+    },
+    {
+      "event_id":"7",
+      "title":"Yamaha in crisi",
+      "news":"Negli ultimi due GP, Olanda e Germania, nessuna Yamaha e' salita sul podio. E' un fatto inusuale, visto che in precedenza l'ultima gara senza una Yamaha tra i primi tre risaliva ad Assen 2014, con 1o Marquez (Honda), 2o Dovizioso (Ducati) e 3o Pedrosa (Honda)."
+    },
+    {
+      "event_id":"6",
+      "title":"Ducati, obiettivo 100",
+      "news":"Il podio di Andrea Dovizioso in Germania e' stato il numero 99 per la Ducati dall'introduzione della MotoGP. La casa bolognese potrebbe cosi' presto arrivare a 100, quota superata per ora solo dalla Honda (359) e dalla Yamaha (271)."
+    },
+    {
+      "event_id":"5",
+      "title":"Vincono Honda e Yamaha",
+      "news":"Le ultime 101 gare di MotoGP sono sempre state vinte da Honda o Yamaha. Ultima vittoria di un'altra moto: Casey Stoner, su Ducati, nel GP di Australia 2010."
+    },
+    {
+      "event_id":"4",
+      "title":"Rossi conosce l'Austria",
+      "news":"Valentino Rossi, unico pilota ad aver gia' corso nel Motomondiale in Austria, quando il tracciato aveva la vecchia configurazione ed era chiamato A1-Ring, nel 1996 in 125 su questo circuito e' stato prima 3o in griglia (prima volta in prima fila) e poi 3o in gara (primo podio)."
+    },
+    {
+      "event_id":"3",
+      "title":"I podi dei due spagnoli",
+      "news":"Dani Pedrosa e Jorge Lorenzo sono appaiati quota 102 podi in MotoGP. I due, insieme a Valentino Rossi che guida a 179, sono gli unici ad aver tagliato quota 100 nella Top Class."
+    },
+    {
+      "event_id":"2",
+      "title":"Marquez sempre sul podio",
+      "news":"Marc Marquez e' salito otto volte sul podio nelle nove gare stagionali. Nella sua carriera in MotoGP, su 63 gare corse, ci e' riuscito ben 47 volte. "
+    },
+    {
+      "event_id":"1",
+      "title":"Cifra tonda",
+      "news":"Cifra tonda per Andrea Dovizioso, che correra' la sua gara numero 250 nel Motomondiale."
+    }
+  ]
+}

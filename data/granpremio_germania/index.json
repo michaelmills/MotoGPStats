@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_germania",
+  "event_description":"GP Germania",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12439"},
+    {"season":"2003","played":"yes","event_id":"13491"},
+    {"season":"2004","played":"yes","event_id":"14747"},
+    {"season":"2005","played":"yes","event_id":"15624"},
+    {"season":"2006","played":"yes","event_id":"17185"},
+    {"season":"2007","played":"yes","event_id":"18555"},
+    {"season":"2008","played":"yes","event_id":"19897"},
+    {"season":"2009","played":"yes","event_id":"21767"},
+    {"season":"2010","played":"yes","event_id":"25678"},
+    {"season":"2011","played":"yes","event_id":"28111"},
+    {"season":"2012","played":"yes","event_id":"34454"},
+    {"season":"2013","played":"yes","event_id":"36039"},
+    {"season":"2014","played":"yes","event_id":"39673"},
+    {"season":"2015","played":"yes","event_id":"41605"},
+    {"season":"2016","played":"yes","event_id":"45638"}
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "items":[
+    {
+      "event_id":"150",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' tutto per la terza sessione di prove libere!"
+    },
+    {
+      "event_id":"145",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finale spumeggiante, e' successo tutto negli ultimi quattro minuti di sessione. Rossi nono, mentre Marquez non si smentisce mai ed e' il migliore anche quando la posta in palio conta relativamente poco. Ottimo terzo Iannone. Direttamente al Q2 entrambi gli Espargaro, autori di ottimi tempi."
+    },
+    {
+      "event_id":"140",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi, e' finita la sessione di prove."
+    },
+    {
+      "event_id":"135",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Secondo tempo per Crutchlow."
+    },
+    {
+      "event_id":"130",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quinta posizione per Hernandez, s'infiamma la sessione di prove."
+    },
+    {
+      "event_id":"125",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quarto tempo per Lorenzo, sesto per Rossi."
+    },
+    {
+      "event_id":"120",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Settime tempo per Pol Espargaro!"
+    },
+    {
+      "event_id":"115",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Abraham e Bradl lanciati per il giro veloce."
+    },
+    {
+      "event_id":"110",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista Marquez, per gli ultimi sette minuti di prove libere."
+    },
+    {
+      "event_id":"105",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Cade Andrea iannone, nessuna conseguenza per lui; il pilota Ducati va per terra nello stesso punto in cui e' caduto Loris Baz."
+    },
+    {
+      "event_id":"100",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Undicesimo Redding, ad un soffio dunque dall'entrare nei dieci."
+    },
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dodicesimo Laverty, che si migliora ma rimane lontano dai primi."
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro lanciato di Laverty, molto in ritardo al secondo intermedio."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez in pista con gomma nuova."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sesto tempo per Aleix Espargaro, che migliora decisamente la sua posizione in classifica. "
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Poco piu' di un quarto d'ora al termine della terza sessione di prove libere."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta di Loris Baz, anche per lui senza nessuna conseguenza fisica, per fortuna."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nessun cambiamento per quanto riguarda le prime dieci posizioni a quasi meta' della sessione di prove in corso."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Torna in pista Valentino Rossi."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro lanciato di Espargaro, ma gli intermedi sono decisamente alri."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ai box in questo momento il pilota di Tavullia, i meccanici stanno cambiando la ruota posteriore della sua moto."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi in settima posizione in questo momento."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ricordiamo che i dieci migliori di questa sessione di prove libere accedono direttamente al Q2 delle prove ufficiali."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Miglior tempo in questo momento di Marquez."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande tempo per Iannone, di un decimo piu' veloce di Pedrosa. "
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro lanciato per Iannone e Pedrosa."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Gia' per terra Melandri, pilota in piedi che si avvia sconsolato oltre le protezioni di bordo pista."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista tra gli altri Andrea Dovizioso."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In pista numerosi piloti, ancora niente da segnalare per quanto riguarda le prestazioni"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buonasera dal Qatar, ha inizio la terza sessione di prove libere del Moto GP del Qatar, prima prova del Mondiale 2015."
+    }
+  ]
+}

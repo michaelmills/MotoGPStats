@@ -1,0 +1,45 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"932",
+  "edition_name":"2005",
+  "event_id":15648,
+  "event_description":"GP Qatar",
+  "date_start":"30-09-2005",
+  "date_end":"01-10-2005",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":15645,
+      "event_description":"Griglia",
+      "date":"30-09-2005",
+      "date_to_print":"30 Set 2005",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15645.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":15648,
+      "event_description":"Gara",
+      "date":"01-10-2005",
+      "date_to_print":"01 Ott 2005",
+      "time":"17:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15648.json"
+    }
+  ]
+}

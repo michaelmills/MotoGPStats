@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Bautista giro veloce",
+      "news":"Nel 2014 in Qatar, Alvaro Bautista ha ottenuto il suo primo e unico giro veloce in MotoGP."
+    },
+    {
+      "event_id":"7",
+      "title":"Rossi: Qatar 2006 Doohan",
+      "news":"In occasione della sua vittoria nel 2006 in Qatar, Valentino Rossi aveva raggiunto Mike Doohan a quota 54 successi nella classe regina."
+    },
+    {
+      "event_id":"6",
+      "title":"Smith pole position",
+      "news":"Nel 2008 in 125 Bradley Smith ha conquistato in Qatar la sua prima pole position in carriera."
+    },
+    {
+      "event_id":"5",
+      "title":"Vincitore dalla pole",
+      "news":"Nelle ultime quattro edizioni ha sempre vinto chi e' partito in pole position, cosa che invece era avvenuta solo una volta nelle prime sette stagioni."
+    },
+    {
+      "event_id":"4",
+      "title":"Hayden record Qatar",
+      "news":"Nicky Hayden e' l'unico pilota che e' riuscito ad andare a punti in tutte le 11 precedenti edizioni del Gran Premio del Qatar nella classe MotoGP."
+    },
+    {
+      "event_id":"3",
+      "title":"Marquez top giri veloci",
+      "news":"Marc Marquez ha toccato i 23 giri veloci in MotoGP, superando i 22 di Surtees e Rainey. Il piu' vicino ora e' Kenny Roberts con 24, poi Schwantz a 26."
+    },
+    {
+      "event_id":"2",
+      "title":"Marquez record podio",
+      "news":"Marc Marquez, nelle sue due prime stagioni in MotoGP, e' salito sul podio nell'83,3% delle gare corse."
+    },
+    {
+      "event_id":"1",
+      "title":"Honda-Yamaha confronto",
+      "news":"Nel 2014 in MotoGP Honda e Yamaha hanno conquistato lo stesso numero di podi: 25. La Honda ha ottenuto pero' ben dieci vittorie in piu' della Yamaha: 14 contro 4."
+    }
+  ]
+}

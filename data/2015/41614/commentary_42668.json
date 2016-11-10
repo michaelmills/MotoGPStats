@@ -1,0 +1,81 @@
+{
+  "items":[
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pole position dunque per Iannone!  Alle spalle dell'italiano in sella alla Ducati, lo spagnolo Lorenzo e Dovizioso.  Ancora un po in difficolta' Rossi, in ottava posizione."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi! Si attende la fine del giro dei piloti!  Ottima prova di Iannone e la sua Ducati che si guadagnano la pole position."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo anche Dovizioso, subito alle spalle di Iannone e Lorenzo!"
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo minuto di qualifiche!"
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Che tempone di Iannone! Il pilota italiano scavalca tutti e si guadagna la momentanea pole position!"
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti in pista per gli ultimi 3 minuti di queste Q2 dove il grande assente come abbiamo visto e' Marquez!"
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A 5 minuti dalla fine tutto e' pronto per il rush finale che stabilira' la pole position."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo break dei piloti. Solo Rossi e Smith in pista."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Straordinario Lorenzo che abbatte il muro dell'1.47.00 e si porta subito davanti a tutti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Subito ottimi i tempi di Crutchlow e Pedrosa!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Via alle Q2!"
+    }
+  ]
+}

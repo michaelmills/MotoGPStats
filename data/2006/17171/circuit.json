@@ -1,0 +1,54 @@
+{
+  "id":"113",
+  "name":"ISTANBUL PARK",
+  "city":"ISTANBUL",
+  "country_id":"TUR",
+  "country":"Turchia",
+  "length":"5338",
+  "bends":"14 (8 a sinistra, 6 a destra)",
+  "foundation_year":"2005",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2005",
+      "id":"511337",
+      "label":"Gibernau S.",
+      "name":"Sete",
+      "surname":"Gibernau",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:52:334",
+      "average_speed":"171,132",
+      "description":"S. Gibernau - Honda - 171.132 km/h - 2005"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2006",
+      "id":"517647",
+      "label":"Elias T.",
+      "name":"Toni",
+      "surname":"Elias",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:52:877",
+      "average_speed":"170,309",
+      "description":"T. Elias - Honda - 170.309 km/h - 2006"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

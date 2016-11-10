@@ -1,0 +1,20 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"6704",
+  "edition_name":"2016",
+  "event_type":"race",
+  "event_id":45782,
+  "event_description":"Gara",
+  "date":"13-11-2016",
+  "date_to_print":"13 Nov 2016",
+  "time":"14:00",
+  "time_local":"14:00",
+  "time_end":"14:45",
+  "specialty":"MOTOGP",
+  "status":"tobeplayed",
+  "status_description":"Da disputare",
+  "standing":[
+  ]
+}

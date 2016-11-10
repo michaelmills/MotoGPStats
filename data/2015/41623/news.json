@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Iannone, primo giro veloce",
+      "news":"Nel GP delle Americhe Andrea Iannone ha ottenuto il suo primo giro veloce in MotoGP, il 15esimo in carriera. Ne aveva conquistato uno in 125 (Giappone 2009) e ben tredici in Moto2."
+    },
+    {
+      "event_id":"5",
+      "title":"Dovi, vai forte",
+      "news":"Da quando corre in MotoGP, solo in una circostanza Andrea Dovizioso aveva ottenuto un punteggio complessivo di 40 punti in due gare consecutive, quando era giunto 2o nel 2010 in Giappone e Malesia."
+    },
+    {
+      "event_id":"4",
+      "title":"Rossi al top",
+      "news":"Valentino Rossi da ben 8 anni non conduceva il Mondiale di MotoGP dopo due gare. Ci e' riuscito nel 2001, 2002, 2003, 2005 e 2007. In tutte queste occasioni, salvo il 2007, ha poi vinto il campionato."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo, cosi' non va",
+      "news":"Jorge Lorenzo, tra Valencia 2014, Qatar e Austin 2015, non e' salito sul podio per tre gare consecutive: la sua peggior striscia a partire dal 2009"
+    },
+    {
+      "event_id":"2",
+      "title":"Super Marquez 2",
+      "news":"Marc Marquez ha vinto 20 delle 38 gare sinora corse in MotoGP. Una percentuale del 52,6%. "
+    },
+    {
+      "event_id":"1",
+      "title":"Super Marquez 1",
+      "news":"Marc Marquez e' salito sul podio in 31 delle 38 gare sinora corse in MotoGP. Una percentuale dell'81,5%."
+    }
+  ]
+}

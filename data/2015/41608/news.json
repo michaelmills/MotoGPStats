@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Debutto in pole",
+      "news":"Cal Crutchlow nel 2013 e Aleix Espargaro nel 2014, ad Assen hanno conquistato la prima pole position della loro carriera."
+    },
+    {
+      "event_id":"5",
+      "title":"Prima volta Orange",
+      "news":"Nel 1977 ad Assen, in 500 il pilota di casa Will Hartog batte il favorito Barry Sheene. E' la prima vittoria Orange di sempre nella classe regina."
+    },
+    {
+      "event_id":"4",
+      "title":"Rossi, il piu' vincente",
+      "news":"Tra quelli in attivita', il pilota piu' vincente ad Assen e' Valentino Rossi, con 8 successi: nel 1997 in 125, nel 1998 in 250, nel 2002, 2004, 2005, 2007, 2009 e 2013 in MotoGP."
+    },
+    {
+      "event_id":"3",
+      "title":"Rossi, bel ricordo",
+      "news":"Vincendo il GP di Olanda 2013, Valentino Rossi ha interrotto il digiuno di successi piu' lungo della sua carriera: erano passati ben 993 giorni dal GP di Malesia 2010."
+    },
+    {
+      "event_id":"2",
+      "title":"Pedrosa come Doohan",
+      "news":"Dani Pedrosa si e' portato a quota 95 podi nella classe regina, eguagliando cosi' Michael Doohan. Meglio ha fatto solo Valentino Rossi con 167."
+    },
+    {
+      "event_id":"1",
+      "title":"Lorenzo, sempre in testa",
+      "news":"A partire da Jerez, Jorge Lorenzo ha iniziato una striscia aperta di 103 giri consecutivi in testa alle gare. E' record assoluto per quanto riguarda la MotoGP."
+    }
+  ]
+}

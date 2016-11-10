@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Il record di Marquez",
+      "news":"Nel 2014, Marc Marquez ha vinto la gara di MotoGP a Valencia: e' stata la sua vittoria numero 13 in stagione, battuto il record in 12 ottenuto nel 1997 da Doohan."
+    },
+    {
+      "event_id":"5",
+      "title":"Nessuno come Pedrosa",
+      "news":"Il recordman di successi in questo Gran Premio e' Daniel Pedrosa, che si e' imposto per ben 6 volte: una in 125 (2002), due in 250 (2004 e 2005) e tre in MotoGP (2007, 2009 e 2012). Pedrosa e' cosi' anche l'unico pilota a essere stato vittorioso in tutte e tre le classi a Valencia."
+    },
+    {
+      "event_id":"4",
+      "title":"Il saluto di Nicky",
+      "news":"Nicky Hayden correra' a Valencia la sua gara numero 216 in MotoGP, l'ultima prima di passare in Superbike. Per lui 3 vittorie, 5 pole position, 7 giri veloci, 28 podi e un titolo mondiale, ottenuto nel 2006 proprio sul circuito valenciano, superando all'ultima gara Valentino Rossi."
+    },
+    {
+      "event_id":"3",
+      "title":"Pedrosa, i 100 sono vicini",
+      "news":"Dani Pedrosa e' salito a 99 podi in MotoGP. Ancora uno e diventera' il secondo pilota nella storia della classe regina (dopo Valentino Rossi) a passare quota 100."
+    },
+    {
+      "event_id":"2",
+      "title":"I sorpassi nella classe regina",
+      "news":"Qualora Jorge Lorenzo riuscisse a vincere il Titolo, sarebbe la terza volta nella storia della classe regina in cui il Mondiale si decide con un sorpasso all'ultima gara: Rainey su Doohan nel 1992 e Hayden su Rossi nel 2006, quest'ultimo proprio a Valencia."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi-Lorenzo, che sfida",
+      "news":"Valentino Rossi e Jorge Lorenzo si giocano all'ultima gara il Titolo Mondiale. Qualora vincesse Rossi, sarebbe il suo 10o nel Motomondiale e sarebbe il terzo di sempre ad andare in doppia cifra, dietro ai 15 di Agostini e ai 13 di Nieto. Qualora vincesse Lorenzo, raggiungerebbe a 5 titoli Michael Doohan e Anton Mang."
+    }
+  ]
+}

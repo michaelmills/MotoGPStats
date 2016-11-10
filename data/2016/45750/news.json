@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"I titoli di Marc",
+      "news":"Marc Marquez ha vinto a Motegi il suo terzo Mondiale in MotoGP, il quinto assoluto. Ha cosi' eguagliato Anton Mang, Michael Doohan e Jorge Lorenzo, vincitori di 5 titoli nel Motomondiale. Solo nove piloti hanno fatto meglio nella storia. Qualora vincesse l'iride nella prossima stagione Marquez (cosi' come Lorenzo) eguaglierebbe i 6 titoli di Geoff Duke e Jim Redman."
+    },
+    {
+      "event_id":"7",
+      "title":"Le vittorie di Marc",
+      "news":"Nella sola MotoGP, Marquez e' salito a 29 vittorie, le stesse del suo compagno Dani Pedrosa. Nel mirino ora c'e' Eddie Lawson, settimo di sempre per la top class, con 31 successi."
+    },
+    {
+      "event_id":"6",
+      "title":"Rossi sempre sul podio",
+      "news":"Valentino Rossi, dal 1998 al 2010, e' salito per 13 volte consecutive sul podio nel GP di Australia. Ci e' sempre riuscito nelle sue prime 11 apparizioni nella top class."
+    },
+    {
+      "event_id":"5",
+      "title":"Ducati, bel ricordo",
+      "news":"La vittoria di Casey Stoner su Ducati nel GP di Australia 2010 e' stata l'ultima della moto italiana, nonche' l'ultima gara non vinta da Honda o Yamaha, fino al GP di Austria 2016, vinto dalla Ducati di Iannone."
+    },
+    {
+      "event_id":"4",
+      "title":"Guida la Honda",
+      "news":"Nel GP d'Australia, nell'era della MotoGP, riguardo ai costruttori, guida la Honda con 6 vittorie, seguita a quota 4 dalla Ducati e della Yamaha."
+    },
+    {
+      "event_id":"3",
+      "title":"Un record per tre",
+      "news":"Partendo dalla pole position a Motegi, Valentino Rossi e' salito a quota 64 nel Motomondiale. Ha cosi' eguagliato il record di Jorge Lorenzo e Marc Marquez."
+    },
+    {
+      "event_id":"2",
+      "title":"Cifra tonda",
+      "news":"Nel GP d'Australia, rispettivamente nel 2013 e 2015, hanno trovato la loro vittoria numero 50 nel Motomondiale Jorge Lorenzo e Marc Marquez."
+    },
+    {
+      "event_id":"1",
+      "title":"Vale, il piu' vincente",
+      "news":"Il record di successi in questo Gran Premio appartiene a Valentino Rossi con 8. Per lui due vittorie nella classe 250 nel 1998 e nel 1999, poi cinque consecutive in 500/MotoGP dal 2001 al 2005, imponendosi poi anche nel 2014, ultimo successo italiano tra tutte le classi a Phillip Island"
+    }
+  ]
+}

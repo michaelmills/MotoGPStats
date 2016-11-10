@@ -1,0 +1,59 @@
+{
+  "id":"2",
+  "name":"RED BULL RING",
+  "city":"ZELTWEG",
+  "country_id":"AUT",
+  "country":"Austria",
+  "length":"4326",
+  "bends":"9 (7 a destra, 2 a sinistra)",
+  "foundation_year":"1969",
+  "last_event_name":"GP Austria",
+  "last_event_date":"14-08-2016",
+  "best_winner_name":"Andrea",
+  "best_winner_surname":"Iannone",
+  "best_winner_value":"1",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2016",
+      "id":"520988",
+      "label":"Iannone A.",
+      "name":"Andrea",
+      "surname":"Iannone",
+      "team":"Ducati",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"1:23:142",
+      "average_speed":"186,900",
+      "description":"Andrea Iannone - Ducati - 186,900 km/h - 2016"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2016",
+      "id":"520988",
+      "label":"Iannone A.",
+      "name":"Andrea",
+      "surname":"Iannone",
+      "team":"Ducati",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"1:24:561",
+      "average_speed":"183,8",
+      "description":"Andrea Iannone - Ducati - 183,8 km/h - 2016"
+    },
+    {
+      "type":"race-best-time",
+      "year":"2016",
+      "id":"520988",
+      "label":"Iannone A.",
+      "name":"Andrea",
+      "surname":"Iannone",
+      "team":"Ducati",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"39:46:255",
+      "average_speed":"182,4",
+      "description":"Andrea Iannone - Ducati - 182,4 km/h - 2016"
+  }
+  ]
+}

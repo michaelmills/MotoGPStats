@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"911",
+  "edition_name":"2004",
+  "event_id":14765,
+  "event_description":"GP Spagna",
+  "date_start":"30-04-2004",
+  "date_end":"02-05-2004",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":14767,
+      "event_description":"PROVE VENERDI' GP SPAGNA",
+      "date":"30-04-2004",
+      "date_to_print":"30 Apr 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14767.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":14766,
+      "event_description":"Griglia",
+      "date":"01-05-2004",
+      "date_to_print":"01 Mag 2004",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14766.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":14765,
+      "event_description":"Gara",
+      "date":"02-05-2004",
+      "date_to_print":"02 Mag 2004",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"14765.json"
+    }
+  ]
+}

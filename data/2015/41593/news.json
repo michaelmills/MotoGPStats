@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Lorenzo, top 3 vicina",
+      "news":"Jorge Lorenzo a Silverstone ha conquistato il suo 92esimo podio in MotoGP. E' vicino alla top 3 assoluta nella classe regina: Doohan, terzo, si trova a quota 95."
+    },
+    {
+      "event_id":"5",
+      "title":"Pedrosa, ultimo dalla pole",
+      "news":"Dani Pedrosa nel 2010 e' stato l'ultimo pilota a vincere in MotoGP a Misano partendo dalla pole."
+    },
+    {
+      "event_id":"4",
+      "title":"Lo stop della Spagna",
+      "news":"Vincendo a Misano nel 2014, Valentino Rossi ha interrotto una striscia di 23 successi consecutivi di piloti spagnoli in MotoGP."
+    },
+    {
+      "event_id":"3",
+      "title":"Bravo Petrucci!",
+      "news":"Danilo Petrucci a Silverstone ha conquistato il suo primo podio in MotoGP. Una Ducati satellite non saliva sul podio in MotoGP dal 3o posto di Elias a Misano 2008. "
+    },
+    {
+      "event_id":"2",
+      "title":"Rossi, record su record",
+      "news":"Valentino Rossi ha vinto il GP di Gran Bretagna a 36 anni e 195 giorni. E' il decimo pilota piu' ''vecchio'' di sempre a imporsi nella classe regina, vicino al nono posto di Phil Read a 36 anni e 235 giorni. Comanda Fergus Anderson, vincente a 44 anni e 237 giorni. "
+    },
+    {
+      "event_id":"1",
+      "title":"Yamaha regina di Misano",
+      "news":"Nell'era della MotoGP a Misano, su 8 gare disputate, la Yamaha ha vinto per ben 6 volte, 3 con Lorenzo e 3 con Rossi. Una vittoria per la Ducati con Stoner e una per la Honda con Pedrosa. La Yamaha ha vinto le ultime 4 edizioni del Gran Premio."
+    }
+  ]
+}

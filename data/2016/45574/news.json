@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Honda di misura a Le Mans",
+      "news":"Nell'era della MotoGP, a Le Mans, la Honda ha vinto 7 volte, la Yamaha 6 e la Suzuki una, con Vermeulen nel 2007, unica vittoria della casa giapponese in MotoGP."
+    },
+    {
+      "event_id":"7",
+      "title":"I piu' vincenti in Francia",
+      "news":"Jorge Lorenzo e' recordman di vittorie a Le Mans, con 5 successi, di cui 1 in 250 e 4 in MotoGP. Seguono a quota 4 Pedrosa e Luthi. Valentino Rossi ha vinto 3 volte (tutte in MotoGP) a Le Mans, ma vanta 4 successi nel GP di Francia, essendosi imposto nel 1997 a Le Castellet nella classe 125."
+    },
+    {
+      "event_id":"6",
+      "title":"La longevita' di Vale",
+      "news":"Valentino Rossi ha vinto il GP di Spagna a 37 anni e 68 giorni. Non e' lontano dal record assoluto per quanto riguarda la MotoGP, stabilito da Troy Bayliss, quando vinse a 37 anni e 213 giorni a Valencia 2006.  Per batterlo, Rossi dovra' vincere uno degli ultimi 5 GP stagionali."
+    },
+    {
+      "event_id":"5",
+      "title":"I 100 podi di Jorge",
+      "news":"Jorge Lorenzo a Jerez e' salito a 100 podi in MotoGP, terzo di sempre a varcare questa soglia nella Top Class dopo Valentino Rossi (177) e Daniel Pedrosa (101)."
+    },
+    {
+      "event_id":"4",
+      "title":"La prima della Yamaha",
+      "news":"Nel GP di Francia 1961, corso a Clermont Ferrand, ha fatto il suo debutto nel Motomondiale la Yamaha, che ottenne due ottavi posti nelle classi 125 e 250."
+    },
+    {
+      "event_id":"3",
+      "title":"Marc sempre in pole",
+      "news":"Marc Marquez nel 2009 in Francia (classe 125) ha ottenuto la sua prima pole nel Motomondiale. A Le Mans e' inoltre reduce da quattro pole consecutive: 2012 in Moto2, 2013, 2014 e 2015 in MotoGP."
+    },
+    {
+      "event_id":"2",
+      "title":"Il Dovi si trova bene",
+      "news":"Andrea Dovizioso nel GP di Francia ha ottenuto 3 pole position: 2003 e 2004 in 125, 2006 in 250. Tre pole le ha ottenute soltanto in un altro GP, quello del Giappone. Negli ultimi 5 anni in MotoGP a Le Mans e' partito sempre in prima fila. Nel 2004 (125) ha inoltre ottenuto qui il suo primo giro veloce."
+    },
+    {
+      "event_id":"1",
+      "title":"I soliti noti che vincono",
+      "news":"Le ultime 59 gare di MotoGP sono sempre state vinte da uno tra Lorenzo, Marquez, Pedrosa o Rossi: ultimo ''esterno'' Stoner in Australia 2012. Le ultime 96 gare di MotoGP sono sempre state vinte da Honda o Yamaha. Ultima vittoria di un'altra moto: Stoner, su Ducati, in Australia 2010."
+    }
+  ]
+}

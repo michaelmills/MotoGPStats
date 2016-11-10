@@ -1,0 +1,109 @@
+{
+  "items":[
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Finisce qui! Eugene Laverty e Cal Crutchlow si uniranno ai migliori 10 piloti del mattino per giocarsi la pole position."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Colpaccio di Laverty! Proprio allo scadere l'ex pilota di Superbike ottiene il miglior tempo. Crutchlow diventa secondo e purtroppo terzo ed eliminato e' Danilo Petrucci."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Espargaro viene subito battuto dal compagno Smith, ma entrambe le Yamaha satellite sono fuori."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nulla da fare per Pol Espargaro, alle spalle di Crutchlow e Petrucci."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Botta e risposta davanti: Petrucci si riprende la prima posizione, ma subito dopo ripassa Crutchlow, che abbassa il suo tempo e torna al comando."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Laverty si migliora e torna secondo, davanti a Petrucci."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si riscatta il britannico della Honda, che passa addirittura al comando."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Brutta notizia per Crutchlow, che si vede cancellato il tempo per essere andato oltre il limite esterno della pista. Ne beneficia Laverty."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quarta posizione provvisoria invece per Pirro."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ci riprova il britannico e questa volta riesce a scalzare Laverty, mentre Petrucci abbassa ulteriormente il suo tempo."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Al traguardo Crutchlow, terzo alle spalle di Petrucci e Laverty."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Jack Miller intanto finisce nella ghiaia e deve tornare al suo box."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo buon tempo ottenuto da Petrucci, davanti a Laverty."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Subito Laverty e Baz a scendere in pista."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rieccoci dal Red Bull Ring, dove sta iniziando il Q1 delle prove ufficiali."
+    }
+  ]
+}

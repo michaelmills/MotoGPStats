@@ -1,0 +1,130 @@
+{
+  "items":[
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Andrea Dovizioso quindi davanti a tutti in queste libere 4.  Il pilota della Ducati e' seguito da Pedrosa, Lorenzo e Rossi."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!  Dovizioso ''vince'' queste Libere 4"
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande giro di Dovizioso che scavalca tutti e si piazza in prima posizione!"
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' rientrato ai box Marquez. Le sue libere 4 terminano qui."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi 3 minuti!"
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Va lungo Rossi in curva! Fortunatamente pero' riesce comunque a rientrare in pista senza cadere."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo giro di Hernandez che guadagna la quarta posizione!"
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' rientrato in pista a pieno regime e con una nuova moto anche Marquez."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"10 minuti al termine delle Libere 4. Davanti a tutti sempre Pedrosa."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sono rientrati in pista praticamente tutti i pilori fatta eccezione di Lorenzo e Smith."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora un po' in affanno Valentino Rossi. "
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ricordiamo che per la prima volta in carriera Marquez partecipera' ad una Q1 in MotoGp."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo break dei piloti. Marquez sicuramente cambiera' moto per rientrare in pista nuovamente almeno negli ultimi dieci minuti."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon giro anche di Lorenzo che si piazza alle spalle del connazionale Pedrosa."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Marquez esce di pista cadendo rovinosamente! Nessuna conseguenza per lui ma il periodo non e' uno dei piu' fortunati."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' partito fortissimo Pedrosa, subito davanti a tutti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Prima caduta dopo pochi minuti per Petrucci! In curva 1 il pilota italiano e' andato troppo lungo uscendo di pista."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde per queste Libere 4!"
+    }
+  ]
+}

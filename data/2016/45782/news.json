@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Nove vincitori",
+      "news":"Nel 2016 in MotoGP hanno vinto nove piloti diversi: Lorenzo, Marquez, Rossi, Miller, Iannone, Crutchlow, Vinales, Pedrosa e Dovizioso. Battuto il record di 8 vincitori nella top class, stabilito nel 2000: McCoy, Roberts jr, Abe, Criville', Capirossi, Barros, Rossi (l'unico in comune) e Biaggi."
+    },
+    {
+      "event_id":"7",
+      "title":"Dovi, torna alla vittoria",
+      "news":"Andrea Dovizioso ha vinto a Sepang 2653 giorni dopo il suo primo successo in MotoGP, ottenuto nel 2009 a Donington. In Malesia, Dovizioso ha centrato l'hat-trick (pole-vittoria-giro veloce): non ci riusciva da 3479 giorni, dal GP di Turchia del 2007 nella classe 250."
+    },
+    {
+      "event_id":"6",
+      "title":"Record di Dani",
+      "news":"Il recordman di successi a Valencia e' Daniel Pedrosa, che si e' imposto per ben 6 volte: una in 125 (2002), due in 250 (2004 e 2005) e tre in MotoGP (2007, 2009 e 2012). Pedrosa e' cosi' anche l'unico pilota a essere stato vittorioso in tutte e tre le classi a Valencia."
+    },
+    {
+      "event_id":"5",
+      "title":"Comanda la Honda",
+      "news":"Nell'era della MotoGP, il GP di Valencia e' stato molto spesso amico della Honda, che ha conquistato ben 8 vittorie su 14 gare: le restanti sei sono andate alla Yamaha (4) e alla Ducati (2)."
+    },
+    {
+      "event_id":"4",
+      "title":"La prima fila",
+      "news":"Partire dalla prima fila e' fondamentale in MotoGP a Valencia: l'unico pilota ad aver conquistato la vittoria non scattando in prima fila e' Marc Marquez nel 2014 (partito 5o)."
+    },
+    {
+      "event_id":"3",
+      "title":"Jorge al terzo posto",
+      "news":"Chiudendo al terzo posto in Malesia, Jorge Lorenzo e' salito a 144 podi nel Motomondiale e ha agganciato Dani Pedrosa al 3o posto all time. Meglio solo Valentino Rossi (221) e Giacomo Agostini (159)."
+    },
+    {
+      "event_id":"2",
+      "title":"Record di Marquez",
+      "news":"Nel 2014, Marc Marquez a Valencia ha stabilito un notevole record, ottenendo la tredicesima vittoria stagionale, meglio delle 12 di Doohan nel 1997 nella classe 500."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi sempre presente",
+      "news":"Tra i piloti in gara, Valentino Rossi e' l'unico che ha sempre preso parte alle 17 precedenti edizioni del GP della Comunita' Valenciana."
+    }
+  ]
+}

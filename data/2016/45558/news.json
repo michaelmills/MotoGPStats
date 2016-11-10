@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "event_id":"8",
+      "title":"Marquez scala la classifica",
+      "news":"Marc Marquez, con il successo ad Austin, e' salito a 52 vittorie nel Motomondiale, superato Pedrosa a 51 e raggiunto Phil Read, al settimo posto all time. Ora puo' puntare al sesto posto, attualmente occupato da Michael Doohan a 54."
+    },
+    {
+      "event_id":"7",
+      "title":"Honda e Yamaha vicine",
+      "news":"Nell'era della MotoGP, a Jerez, comanda la Honda con 7 vittorie. Segue a quota 6 la Yamaha. Un successo anche per la Ducati, con Loris Capirossi nel 2006."
+    },
+    {
+      "event_id":"6",
+      "title":"Rossi, il piu' vincente",
+      "news":"Valentino Rossi si e' imposto otto volte a Jerez. E' il pilota piu' vincente su questo circuito, nonche' l'unico ad aver ottenuto almeno un successo in tutte le classi."
+    },
+    {
+      "event_id":"5",
+      "title":"La fatidica quota 100",
+      "news":"Daniel Pedrosa e' a quota 101 podi in MotoGP. E' il secondo di sempre a varcare quota 100 nella classe regina, dopo Valentino Rossi. Gia' dalla prossima gara, tuttavia, potrebbe arrivarci anche Jorge Lorenzo, attualmente a 99."
+    },
+    {
+      "event_id":"4",
+      "title":"Strisce chiuse",
+      "news":"Nel GP delle Americhe si sono interrotte le due strisce piu' lunghe di piloti a punti: si e' fermato a 26 gare consecutive a punti Bradley Smith, interrotta a 24 invece quella di Valentino Rossi, che non otteneva uno ''zero'' dal GP di Aragona 2014."
+    },
+    {
+      "event_id":"3",
+      "title":"I debutti di Jerez",
+      "news":"Diversi piloti hanno debuttato nel Motomondiale a Jerez. Jorge Lorenzo nel 2002, Andrea Iannone nel 2005, Alvaro Bautista e Bradley Smith nel 2006."
+    },
+    {
+      "event_id":"2",
+      "title":"Gli spagnoli vanno forte",
+      "news":"A partire dall'edizione 2004, in MotoGP a Jerez c'e' sempre stato almeno uno spagnolo sul podio."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi, quota 200 podi",
+      "news":"Nel 2015, chiudendo 3o la gara in MotoGP a Jerez, Valentino Rossi conquista il suo podio numero 200 nel Motomondiale. E' il primo pilota nella storia a tagliare questo traguardo."
+    }
+  ]
+}

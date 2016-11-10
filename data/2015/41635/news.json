@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Primo podio di Dovi",
+      "news":"Andrea Dovizioso nel 2008 ha chiuso 3o in Malesia, suo primo podio in MotoGP."
+    },
+    {
+      "event_id":"5",
+      "title":"Prima pole di Lorenzo",
+      "news":"Jorge Lorenzo nel 2003 nella classe 125 in Malesia ha ottenuto la sua prima pole nel Motomondiale."
+    },
+    {
+      "event_id":"4",
+      "title":"Il digiuno di Vale",
+      "news":"Valentino Rossi, dopo la vittoria in Malesia nel 2010, e' incappato nel suo digiuno piu' lungo di successi: 993 giorni fino al successo del GP di Olanda nel 2013."
+    },
+    {
+      "event_id":"3",
+      "title":"Solo 4 nazioni in Malesia",
+      "news":"In Malesia nella classe regina si sono imposti soltanto i piloti di quattro nazioni: USA (Kocinski, Rainey, Roberts Jr), Australia (Doohan, Stoner), Italia (Cadalora, Rossi, Biaggi, Capirossi). A queste negli ultimi tre anni si e' aggiunta la Spagna con la doppietta di Pedrosa e il successo del 2014 di Marquez."
+    },
+    {
+      "event_id":"2",
+      "title":"Marquez, piu' giovane a 50",
+      "news":"Marc Marquez, solo una settimana dopo Daniel Pedrosa, ha raggiunto quota 50 successi nel Motomondiale. E' il nono nella storia a tagliare questo traguardo, il piu' giovane a riuscirci: l'ha fatto a 22 anni e 243 giorni, battendo il record di 23 anni e 246 giorni di Valentino Rossi."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi con meno vittorie",
+      "news":"Valentino Rossi conduce il Mondiale a 2 gare dalla fine con 4 vittorie, meno dei 5 successi di Marquez e dei 6 di Lorenzo. Per trovare un campione che vinse meno gare rispetto a due o piu' contendenti bisogna tornare al 2006: 2 vittorie per l'iridato Hayden (come Pedrosa), contro le 3 di Capirossi e Melandri e le 5 di Rossi."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "items":[
+    {
+      "event_id":"165",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande festa nel box Ducati per la vittoria di un pilota spesso vittima della sfortuna. Gioia anche per Rossi che con questo secondo posto e' certo del secondo posto nel mondiale. Gara anonima di Lorenzo, costantemente nelle retrovie che sale sul podio piu' per le cadute degli altri che per suo merito."
+    },
+    {
+      "event_id":"160",
+      "round":"19",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"La Ducati di Dovizioso taglia il traguardo! Rossi secondo che passa sotto al muretto impennando. Completa il podio Lorenzo."
+    },
+    {
+      "event_id":"155",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso inizia l'ultimo giro con la raccomandazione dal muretto di non esagerare alla guida."
+    },
+    {
+      "event_id":"150",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi sembra poter tenere la seconda posizione visti i dieci secondi di distacco da Lorenzo."
+    },
+    {
+      "event_id":"145",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso punta alla sua seconda vittoria in MotoGP. La prima risale al GP di Gran Bretagna del 2009."
+    },
+    {
+      "event_id":"140",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso si stacca significativamente da Rossi. Il pilota Yamaha perde molti decimi a settore, forse per un problema alla moto."
+    },
+    {
+      "event_id":"135",
+      "round":"15",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi allarga troppo la traiettoria e Dovizioso lo infila in curva."
+    },
+    {
+      "event_id":"130",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con la caduta di Iannone Lorenzo si porta al terzo posto ma dista piu' di otto secondi dai due piloti italiani in testa."
+    },
+    {
+      "event_id":"125",
+      "round":"13",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Hernandez e' costretto al ritiro."
+    },
+    {
+      "event_id":"120",
+      "round":"13",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Iannone finisce lungo in staccata e cade terminando fuori pista. Il pilota termina qui la gara."
+    },
+    {
+      "event_id":"115",
+      "round":"12",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Cade anche Marquez in curva 11. Lo spagnolo rialza la moto e torna in quattordicesima posizione."
+    },
+    {
+      "event_id":"112",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Crutchlow e' costretto al ritiro."
+    },
+    {
+      "event_id":"110",
+      "round":"12",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Caduta di Crutchlow che lo fa scivolare in fondo alla lista dei piloti."
+    },
+    {
+      "event_id":"105",
+      "round":"11",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi torna in testa mettendosi alle spalle le due Ducati."
+    },
+    {
+      "event_id":"100",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si ricompatta il gruppo dei primi cinque piloti con un distacco di un secondo tra Iannone e Crutchlow."
+    },
+    {
+      "event_id":"95",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"La coppia di testa riesce a staccarsi da Dovizioso che insegue a circa un secondo."
+    },
+    {
+      "event_id":"90",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce di Marquez che tallona Crutchlow e si stacca da Lorenzo."
+    },
+    {
+      "event_id":"85",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone sfrutta al massimo la velocita' della Ducati sul rettilineo prima della curva 15 e supera il Dottore sul rettilineo finale."
+    },
+    {
+      "event_id":"80",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso si riavvicina ai primi due posti. Dietro di lui Crutchlow insegue ad un secondo di distacco."
+    },
+    {
+      "event_id":"75",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce a riportarsi in testa dopo un lungo assedio al primo posto."
+    },
+    {
+      "event_id":"70",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Crutchlow e' il piu' veloce al momento e supera il duo spagnolo formato da Lorenzo e Marquez."
+    },
+    {
+      "event_id":"65",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi non riesce a concludere il sorpasso su Iannone e deve tornare in seconda posizione."
+    },
+    {
+      "event_id":"60",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gira forte Lorenzo che recupera sei decimi su Marquez."
+    },
+    {
+      "event_id":"55",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Espargaro A. termina lungo e deve ripartire dalla dodicesima posizione."
+    },
+    {
+      "event_id":"50",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Duelli a coppie per i primi sei posti. Iannone-Rossi per il primo posto, Dovizioso.Marquez per il terzo gradino del podio ed Espargaro A.-Lorenzo per la quinta piazza."
+    },
+    {
+      "event_id":"45",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Iannone attacca Rossi e va a prendersi la prima posizione."
+    },
+    {
+      "event_id":"40",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi lotta con le due Ducati per la leadership."
+    },
+    {
+      "event_id":"35",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Rossi riesce a superare Iannone, Marquez e Lorenzo nel giro di pochi metri."
+    },
+    {
+      "event_id":"30",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande manovra di Dovizioso che si porta in testa in un paio di curve."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tra le due Yamaha si trovano Marquez e Dovizioso."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona partenza di Lorenzo che si porta in testa. Rossi dopo la curva 1 scivola in quarta posizione."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo un ulteriore ritardo di cinque minuti i piloti possono iniziare il warm up lap."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"A causa di un violento acquazzone l'inizio della gara di MotoGP e' stato posticipato di un quarto d'ora."
+    }
+  ]
+}

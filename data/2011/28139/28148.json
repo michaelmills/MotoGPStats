@@ -1,0 +1,19 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"1619",
+  "edition_name":"2011",
+  "event_type":"practice",
+  "event_id":28148,
+  "event_description":"Libere 2 GP Olanda",
+  "date":"23-06-2011",
+  "date_to_print":"23 Giu 2011",
+  "time":"14:10",
+  "time_local":"14:10",
+  "specialty":"MOTOGP",
+  "status":"ended",
+  "status_description":"Disputata",
+  "standing":[
+  ]
+}

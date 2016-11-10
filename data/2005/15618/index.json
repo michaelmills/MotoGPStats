@@ -1,0 +1,45 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"932",
+  "edition_name":"2005",
+  "event_id":15618,
+  "event_description":"GP Gran Bretagna",
+  "date_start":"23-07-2005",
+  "date_end":"24-07-2005",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":15615,
+      "event_description":"Griglia",
+      "date":"23-07-2005",
+      "date_to_print":"23 Lug 2005",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15615.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":15618,
+      "event_description":"Gara",
+      "date":"24-07-2005",
+      "date_to_print":"24 Lug 2005",
+      "time":"16:30",
+      "time_local":"16:30",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"15618.json"
+    }
+  ]
+}

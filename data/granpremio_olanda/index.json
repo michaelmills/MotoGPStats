@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_olanda",
+  "event_description":"GP Olanda",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12457"},
+    {"season":"2003","played":"yes","event_id":"13479"},
+    {"season":"2004","played":"yes","event_id":"14753"},
+    {"season":"2005","played":"yes","event_id":"15610"},
+    {"season":"2006","played":"yes","event_id":"17181"},
+    {"season":"2007","played":"yes","event_id":"18563"},
+    {"season":"2008","played":"yes","event_id":"19882"},
+    {"season":"2009","played":"yes","event_id":"21751"},
+    {"season":"2010","played":"yes","event_id":"25504"},
+    {"season":"2011","played":"yes","event_id":"28139"},
+    {"season":"2012","played":"yes","event_id":"34455"},
+    {"season":"2013","played":"yes","event_id":"36036"},
+    {"season":"2014","played":"yes","event_id":"39688"},
+    {"season":"2015","played":"yes","event_id":"41608"},
+    {"season":"2016","played":"yes","event_id":"45622"}
+  ]
+}

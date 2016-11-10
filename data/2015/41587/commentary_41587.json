@@ -1,0 +1,179 @@
+{
+  "items":[
+    {
+      "event_id":"125",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa taglia il traguardo! Cinquantesima vittoria nel Motomondiale per lui. Ottavo pilota della storia a raggiungere questo prestigioso traguardo. Chiudono il podio Rossi e Lorenzo. Il pilota di Tavullia riesce cosi' ad aumentare di quattro punti il vantaggio in classifica sul compagno di scuderia."
+    },
+    {
+      "event_id":"120",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro con Pedrosa che va verso il trionfo in solitaria."
+    },
+    {
+      "event_id":"115",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Mancano due giri al termine. Rossi perde qualche decimo rispetto a Lorenzo ma continua ad avere un buon vantaggio."
+    },
+    {
+      "event_id":"110",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la fuga di Pedrosa che guadagna mezzo secondo a giro rispetto alle due Yamaha."
+    },
+    {
+      "event_id":"105",
+      "round":"20",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Duello tra Dovizioso e Marquez per il quarto posto. Lo spagnolo riesce a passare davanti rischiando il contatto tra ruote."
+    },
+    {
+      "event_id":"100",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Errore di Lorenzo che favorisce il sorpasso di Rossi. Il Dottore passa in seconda posizione e si allontana."
+    },
+    {
+      "event_id":"95",
+      "round":"17",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa completa la rimonta e passa in testa alla gara. Lorenzo perde colpi e Rossi si avvicina pericolosamente."
+    },
+    {
+      "event_id":"90",
+      "round":"15",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa sorpassa Rossi e mette subito spazio tra lui e l'italiano. Se continua cosi' presto Lorenzo dovra' alzare gli scudi."
+    },
+    {
+      "event_id":"85",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"L'asfalto bagnato fa vittima anche Vinales. Lo spagnolo deve tornare a piedi ai box."
+    },
+    {
+      "event_id":"80",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Se Pedrosa riuscisse a centrare il podio sarebbe il 139o in carriera, eguagliando cosi' il risultato di Nieto, terzo in questa speciale classifica."
+    },
+    {
+      "event_id":"75",
+      "round":"12",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Pedrosa recupera terreno e supera Dovizioso. Lo spagnolo continua a spingere verso Rossi, distante quasi quattro secondi."
+    },
+    {
+      "event_id":"70",
+      "round":"11",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Problemi alla moto per Iannone che e' costretto al ritiro."
+    },
+    {
+      "event_id":"65",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pedrosa apre il gas e inizia a girare piu' veloce di tutti. Adesso Dovizioso e' nel mirino."
+    },
+    {
+      "event_id":"60",
+      "round":"9",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Petrucci dice addio alla gara. Caduta in curva 7 e possibilita' di zona punti sfumata."
+    },
+    {
+      "event_id":"55",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo giro in cui Rossi riesce a girare leggermente piu' forte di Lorenzo. Il distacco tra i due resta ampio."
+    },
+    {
+      "event_id":"50",
+      "round":"7",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Anche Bradl e' vittima di un fuori pista, questa volta in curva 5. Dopo un lungo tratto sulla ghiaia il pilota rientra in pista."
+    },
+    {
+      "event_id":"45",
+      "round":"6",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Lungo fuori pista di A. Espargaro. Lo spagnolo deve ripartire dalle ultime posizioni."
+    },
+    {
+      "event_id":"40",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua il problema della piogga sul circuito."
+    },
+    {
+      "event_id":"35",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il gruppo dei posti podio e' gia' molto staccato dal resto del gruppo. Tra Dovizioso e Pedrosa ci sono quasi tre secondi da colmare."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo e' un missile. Sono gia' piu' di due i secondi di distacco tra lui e Rossi."
+    },
+    {
+      "event_id":"25",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez e Iannone si sfidano per il 5o posto. Per ora e' lo spagnolo ad avere la meglio."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Terzo posto per Dovizioso che tallona Rossi a pochi decimi."
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buona partenza dei due della Yamaha. Lorenzo riesce a mantenere la testa della corsa. Rossi e' subito dietro."
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto pronto per la gara della classe regina. Warm up completato e piloti di nuovo in griglia."
+    }
+  ]
+}

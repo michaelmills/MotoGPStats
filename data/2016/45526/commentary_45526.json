@@ -1,0 +1,291 @@
+{
+  "items":[
+    {
+      "event_id":"195",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Domina Marquez qui a Termas de Rio Hondo.  Seconda posizione per Rossi e terza per Pedrosa.  Clamoroso l'incidente tre Iannone e Dovizioso nell'ultimo giro.  I piloti della Ducati si stavano giocando la seconda posizione."
+    },
+    {
+      "event_id":"190",
+      "round":"20",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!  Trionfa Marquez qui in Argentina!  A completare il podio Rossi e Pedrosa."
+    },
+    {
+      "event_id":"189",
+      "round":"20",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"All'ultimo giro, arriva il ritiro anche per Crutchlow."
+    },
+    {
+      "event_id":"188",
+      "round":"20",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Riparte Dovizioso, mentre e' costretto al ritiro Iannone."
+    },
+    {
+      "event_id":"185",
+      "round":"20",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamorosa caduta di Iannone e Dovizioso!  I due piloti della Ducati si toccano nella penultima curva e cadono clamorosamente!"
+    },
+    {
+      "event_id":"180",
+      "round":"20",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Splendida staccata di Rossi ma Iannone e' insuperabile e gli blocca la strada!"
+    },
+    {
+      "event_id":"175",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sicuramente cerchera' il tutto per tutto Valentino Rossi per guadagnarsi almeno un posto sul podio."
+    },
+    {
+      "event_id":"170",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimo giro!"
+    },
+    {
+      "event_id":"165",
+      "round":"19",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Clamoroso doppio sorpasso di Dovizioso e Iannone ai danni di Rossi!"
+    },
+    {
+      "event_id":"160",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con il ritiro di Vinalesa, ora alle spalle di Rossi si avvicinano minacciose le due Ducati di Iannone e Dovizioso."
+    },
+    {
+      "event_id":"155",
+      "round":"18",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro anche per Vinales."
+    },
+    {
+      "event_id":"150",
+      "round":"18",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamorosa caduta in curva di Vinales!  Il pilota scivola su una zona bagnata della pista e cade a terra!"
+    },
+    {
+      "event_id":"145",
+      "round":"17",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Ritiro anche per Baz."
+    },
+    {
+      "event_id":"140",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales cerca l'attacco a Rossi ma il pilota italiano riesce a resistere!"
+    },
+    {
+      "event_id":"135",
+      "round":"16",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Problemi alla Ducati di Redding. Il pilota inglese e' costretto al ritiro."
+    },
+    {
+      "event_id":"130",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cinque giri al termine.  Marquez ha preso il largo con piu' di 7 secondi su Valentino Rossi."
+    },
+    {
+      "event_id":"125",
+      "round":"15",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso proprio di Iannone ai danni di Dovizioso!"
+    },
+    {
+      "event_id":"120",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"C'e' grande battaglia anche per il quarto posto tra Iannone e Dovizioso."
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vinales intanto si sta avvicinando molto a Rossi.  Il cambio di moto e' stato sicuramente decisivo per il pilota della Yamaha."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Altro giro veloce di Marquez!  A 8 giri dal termine, serve un'impresa al ''Dottore'' per recuperare il pilota spagnolo."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ha faticato molto in quest'ultimo giro Valentino Rossi.  Il suo distacco e' aumentato vistosamente: sono piu' di 3 i secondi che lo dividono da Marquez."
+    },
+    {
+      "event_id":"100",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cerca subito di prendere il largo il pilota spagnolo. Rossi sembra aver leggermente sofferto il cambio di moto."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rientrano ai box Rossi e Marquez per il cambio moto. "
+    },
+    {
+      "event_id":"90",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande battaglia tra i due con sorpasso e controsorpasso!"
+    },
+    {
+      "event_id":"85",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Come annunciato, molti piloti sono rientrati ai box per il cambio di moto."
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Il pilota italiano la curva successiva va troppo lungo e Marquez riesce a riprendersi comodamente la prima posizione."
+    },
+    {
+      "event_id":"75",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Boato del pubblico! Sorpasso di Rossi su Marquez!"
+    },
+    {
+      "event_id":"70",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ha perso qualcosa Dovizioso, sorpassato sia da Vinales e Iannone."
+    },
+    {
+      "event_id":"65",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sta girando a ritmi forsennati. Difficile per Rossi riuscire a rimanere in scia del pilota spagnolo."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Nulla da fare. Ritiro anche per Lorenzo."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Clamoroso scivolone in curva di Lorenzo! Nulla di grave pero' difficilmente riuscira' a rientrare in pista."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi intanto ha guadagnato una posizione rispetto a Dovizioso.  Il pilota italiano della Yamaha ora e' secondo."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Jack Miller e' il primo ritirato di questa gara.  Con lui anche Hernandez."
+    },
+    {
+      "event_id":"40",
+      "round":"4",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Va lungo in curva Miller e cade rovinosamente."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ancora super Marquez in curva sorpassa anche Dovizioso! Momentaneamente e' primo."
+    },
+    {
+      "event_id":"30",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Grande staccata di Marquez che sorpassa Rossi!"
+    },
+    {
+      "event_id":"25",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vicinissimi Rossi e Marquez! Sara' una grande battaglia tra i due piloti."
+    },
+    {
+      "event_id":"20",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ha perso qualcosa Lorenzo in curva, ora in sesta posizione."
+    },
+    {
+      "event_id":"15",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grande partenza di Dovizioso, subito davanti a tutti!"
+    },
+    {
+      "event_id":"10",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Partiti!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pochi minuti all'inizio della seconda gara dell'anno di MotoGp."
+    }
+  ]
+}

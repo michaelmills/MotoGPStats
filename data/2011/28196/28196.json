@@ -1,0 +1,19 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"1619",
+  "edition_name":"2011",
+  "event_type":"race",
+  "event_id":28196,
+  "event_description":"Gara",
+  "date":"23-10-2011",
+  "date_to_print":"23 Ott 2011",
+  "time":"08:00",
+  "time_local":"14:00",
+  "specialty":"MOTOGP",
+  "status":"ended",
+  "status_description":"Disputata",
+  "standing":[
+  ]
+}

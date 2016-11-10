@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12430,
+  "event_description":"GP Repubblica Ceca",
+  "date_start":"23-08-2002",
+  "date_end":"25-08-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12380,
+      "event_description":"PROVE VENERDI' GP REPUBBLICA C",
+      "date":"23-08-2002",
+      "date_to_print":"23 Ago 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12380.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12478,
+      "event_description":"Griglia",
+      "date":"24-08-2002",
+      "date_to_print":"24 Ago 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12478.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12430,
+      "event_description":"Gara",
+      "date":"25-08-2002",
+      "date_to_print":"25 Ago 2002",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12430.json"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "items":[
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi!"
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Manca poco al termine di queste ultime prove libere, poi si partira' con la Q1."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone migliora ancora e fa il terzo giro veloce."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone continua a fare bene in queste prove libere e mantiene il quarto giro veloce."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Siamo al giro di boa di questa sessione. Dopo una sosta ai box, Rossi torna in pista."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez continua a migliorare il proprio tempo. Ha appena concluso il giro con 1,29 basso."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez e Lorenzo continuano a dimostrare una bella condizione in queste sessioni; primo e secondo tempo per i due spagnoli."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo poche curve c'e' gia' la prima caduta: Smith perde il controllo della moto e scivola, nessun danno apparente per il pilota che si rialza subito."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sono partiti! Ricordiamo che questa sessione durera' 30 minuti e non 45 come le altre 3."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' tutto pronto per la quarta e ultima sessione di prove libere della MotoGP."
+    }
+  ]
+}

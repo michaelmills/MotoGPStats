@@ -1,0 +1,25 @@
+{
+  "competition_id":"41",
+  "competition_name":"MOTOMONDIALE",
+  "competition_short_name":"MOTOGP",
+  "specialty":"MOTOGP",
+  "event_id":"granpremio_italia",
+  "event_description":"GP Italia",
+  "seasons":[
+    {"season":"2002","played":"yes","event_id":"12475"},
+    {"season":"2003","played":"yes","event_id":"13467"},
+    {"season":"2004","played":"yes","event_id":"14759"},
+    {"season":"2005","played":"yes","event_id":"15598"},
+    {"season":"2006","played":"yes","event_id":"17177"},
+    {"season":"2007","played":"yes","event_id":"18587"},
+    {"season":"2008","played":"yes","event_id":"20035"},
+    {"season":"2009","played":"yes","event_id":"21713"},
+    {"season":"2010","played":"yes","event_id":"25528"},
+    {"season":"2011","played":"yes","event_id":"28125"},
+    {"season":"2012","played":"yes","event_id":"34453"},
+    {"season":"2013","played":"yes","event_id":"36028"},
+    {"season":"2014","played":"yes","event_id":"39720"},
+    {"season":"2015","played":"yes","event_id":"41614"},
+    {"season":"2016","played":"yes","event_id":"45590"}
+  ]
+}

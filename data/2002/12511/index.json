@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12511,
+  "event_description":"GP Giappone",
+  "date_start":"05-04-2002",
+  "date_end":"07-04-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12517,
+      "event_description":"PROVE VENERDI' GP GIAPPONE",
+      "date":"05-04-2002",
+      "date_to_print":"05 Apr 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12517.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12419,
+      "event_description":"Griglia",
+      "date":"06-04-2002",
+      "date_to_print":"06 Apr 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12419.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12511,
+      "event_description":"Gara",
+      "date":"07-04-2002",
+      "date_to_print":"07 Apr 2002",
+      "time":"07:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12511.json"
+    }
+  ]
+}

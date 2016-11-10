@@ -1,0 +1,38 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"1323",
+  "edition_name":"2010",
+  "event_type":"practice",
+  "event_id":25600,
+  "event_description":"Libere 1 GP Portogallo",
+  "date":"29-10-2010",
+  "date_to_print":"29 Ott 2010",
+  "time":"11:05",
+  "time_local":"10:05",
+  "specialty":"MOTOGP",
+  "status":"ended",
+  "status_description":"Disputata",
+  "standing":[
+    {
+      "position":"1",
+      "driver_nbr":"7",
+      "driver_id":"515287",
+      "driver_label":"Aoyama H.",
+      "driver_name":"Hiroshi",
+      "driver_surname":"Aoyama",
+      "driver_team_id":"20486",
+      "driver_team":"HONDA",
+      "driver_country_id":"JPN",
+      "driver_country":"Giappone",
+      "retiredstatus":"",
+      "retirednote":"",
+      "laps":"",
+      "time":"2:21:217",
+      "gap":"",
+      "points":"-",
+      "pit_stop":"0"
+    }
+  ]
+}

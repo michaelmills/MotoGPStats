@@ -1,0 +1,54 @@
+{
+  "id":"77",
+  "name":"LAGUNA SECA",
+  "city":"MONTEREY (USA)",
+  "country_id":"USA",
+  "country":"Stati Uniti",
+  "length":"3610",
+  "bends":"11 (7 a sinistra, 4 a destra)",
+  "foundation_year":"1957",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2012",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:20:554",
+      "average_speed":"161,332",
+      "description":"J. Lorenzo - Yamaha - 161,332 km/h - 2012"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2010",
+      "id":"518050",
+      "label":"Stoner C.",
+      "name":"Casey",
+      "surname":"Stoner",
+      "team":"Ducati",
+      "country_id":"AUS",
+      "country":"Australia",
+      "time":"1:21:376",
+      "average_speed":"159,703",
+      "description":"C. Stoner - Ducati - 159,703 km/h - 2010"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

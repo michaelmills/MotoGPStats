@@ -1,0 +1,20 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"6704",
+  "edition_name":"2016",
+  "event_type":"practice",
+  "event_id":45753,
+  "event_description":"Libere 1",
+  "date":"28-10-2016",
+  "date_to_print":"28 Ott 2016",
+  "time":"04:55",
+  "time_local":"10:55",
+  "time_end":"05:40",
+  "specialty":"MOTOGP",
+  "status":"tobeplayed",
+  "status_description":"Da disputare",
+  "standing":[
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id":"71",
+  "name":"PHILLIP ISLAND CIRCUIT",
+  "city":"PHILLIP ISLAND",
+  "country_id":"AUS",
+  "country":"Australia",
+  "length":"4445",
+  "bends":"12 (7 a sinistra, 5 a destra)",
+  "foundation_year":"1956",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2013",
+      "id":"518399",
+      "label":"Lorenzo J.",
+      "name":"Jorge",
+      "surname":"Lorenzo",
+      "team":"Yamaha",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:27:899",
+      "average_speed":"182,100",
+      "description":"J. Lorenzo - Yamaha - 182,100 km/h - 2013"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2013",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:28:108",
+      "average_speed":"181,7",
+      "description":"M. Marquez - Honda - 181,7 km/h - 2013"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

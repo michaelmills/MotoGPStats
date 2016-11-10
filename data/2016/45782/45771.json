@@ -1,0 +1,20 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"6704",
+  "edition_name":"2016",
+  "event_type":"practice",
+  "event_id":45771,
+  "event_description":"Libere 2",
+  "date":"11-11-2016",
+  "date_to_print":"11 Nov 2016",
+  "time":"14:05",
+  "time_local":"14:05",
+  "time_end":"14:50",
+  "specialty":"MOTOGP",
+  "status":"tobeplayed",
+  "status_description":"Da disputare",
+  "standing":[
+  ]
+}

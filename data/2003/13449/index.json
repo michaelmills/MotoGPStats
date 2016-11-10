@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"865",
+  "edition_name":"2003",
+  "event_id":13449,
+  "event_description":"GP Sudafrica",
+  "date_start":"25-04-2003",
+  "date_end":"27-04-2003",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":13450,
+      "event_description":"PROVE VENERDI' GP SUDAFRICA",
+      "date":"25-04-2003",
+      "date_to_print":"25 Apr 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13450.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":13451,
+      "event_description":"Griglia",
+      "date":"26-04-2003",
+      "date_to_print":"26 Apr 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13451.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":13449,
+      "event_description":"Gara",
+      "date":"27-04-2003",
+      "date_to_print":"27 Apr 2003",
+      "time":"14:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13449.json"
+    }
+  ]
+}

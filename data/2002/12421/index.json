@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12421,
+  "event_description":"GP Portogallo",
+  "date_start":"06-09-2002",
+  "date_end":"08-09-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12472,
+      "event_description":"PROVE VENERDI' GP PORTOGALLO",
+      "date":"06-09-2002",
+      "date_to_print":"06 Set 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12472.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12469,
+      "event_description":"Griglia",
+      "date":"07-09-2002",
+      "date_to_print":"07 Set 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12469.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12421,
+      "event_description":"Gara",
+      "date":"08-09-2002",
+      "date_to_print":"08 Set 2002",
+      "time":"15:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12421.json"
+    }
+  ]
+}

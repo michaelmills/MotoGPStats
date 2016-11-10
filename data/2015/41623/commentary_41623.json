@@ -1,0 +1,256 @@
+{
+  "items":[
+    {
+      "event_id":"180",
+      "round":"25",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Bandiera a scacchi!   Trionfa Rossi!  Alle spalle del pilota della Yamaha si piazza Dovizioso e in terza piazza Crutchlow all'ultimo respiro!"
+    },
+    {
+      "event_id":"175",
+      "round":"25",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Incredibile sorpasso di Crutchlow all'ultima curva su Iannone!"
+    },
+    {
+      "event_id":"170",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Con questo incredibile episodio Rossi e' ora davanti a tutti e s'invola verso la vittoria!  Per Marquez tanta, tantissima delusione."
+    },
+    {
+      "event_id":"165",
+      "round":"23",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Incredibile! Rossi supera Marquez, il pilota spagnolo cerca di sorpassarlo nuovamente ma tra i due avviene il contatto!  Il pilota della Honda sulla curva successivamente ha la peggio e cade rovinosamente!"
+    },
+    {
+      "event_id":"160",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Primo attacco di Valentino Rossi a Marquez senza esito! Ci sara' una battaglia fino all'ultimo secondo!"
+    },
+    {
+      "event_id":"155",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tre giri alla fine! Bagarre finale come preannunciato tra Rossi e Marquez!  Lorenzo intanto non riesce a schiodarsi dalla sesta posizione."
+    },
+    {
+      "event_id":"150",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Appassionante rincorsa di Rossi su Marquez! Ora il distacco e' di mezzo secondo!  Incredibile quello che sta facendo Rossi."
+    },
+    {
+      "event_id":"145",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua a mangiare decimi Rossi su Marquez! Poco piu' di un secondo adesso il distacco tra i due."
+    },
+    {
+      "event_id":"140",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sembra aver trovato il ritmo giusto Lorenzo, che sta andando alla carica di Iannone e Crutchlow."
+    },
+    {
+      "event_id":"135",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Altro giro veloce di Valentino Rossi! Ora il distacco da Marquez e' poco piu' di due secondi..."
+    },
+    {
+      "event_id":"130",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta tenendo bene la posizione Dovizioso in terza piazza. Il pilota italiano sta conservando un buon distacco su Crutchlow."
+    },
+    {
+      "event_id":"125",
+      "round":"16",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso di Crutchlow su Iannone. Il pilota italiano scivola nuovamente al quinto posto."
+    },
+    {
+      "event_id":"120",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Se Rossi continua a girare cosi' veloce, il pilota della Yamaha puo' regalarci un finale appassionante!"
+    },
+    {
+      "event_id":"115",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta guadagnando tantissimo Rossi di giro in giro su Marquez! Ora il distacco e' poco piu' di tre secondi e mezzo.  Sara' comunque difficilissimo per il pilota di Tavullia riuscire a recuperare."
+    },
+    {
+      "event_id":"110",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Quando siamo arrivati a poco piu' di meta' gara, comanda il gruppo Marc Marquez con piu' di 4 secondi sugli inseguitori.  Seconda posizione per la Yamaha di Rossi, inseguito da Dovizioso e Iannone."
+    },
+    {
+      "event_id":"105",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la volata di Marquez, con piu' di quattro secondi su Rossi."
+    },
+    {
+      "event_id":"100",
+      "round":"11",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sta andando fortissimo Rossi che con le gomme dure sta facendo veramente la differenza."
+    },
+    {
+      "event_id":"95",
+      "round":"10",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Detto, fatto. Ottima staccata del pilota della Yamaha e sorpasso su Dovizioso."
+    },
+    {
+      "event_id":"90",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua la volata di Rossi. Ora nel mirino c'e' Dovizioso."
+    },
+    {
+      "event_id":"85",
+      "round":"9",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Errore di Crutchlow in curva che rischia moltissimo la caduta!   Ne approfitta ovviamente Rossi per il piu' facile dei sorpassi."
+    },
+    {
+      "event_id":"80",
+      "round":"8",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Ancora gran bel sorpasso di Rossi, questa volta ai danni di Iannone!"
+    },
+    {
+      "event_id":"75",
+      "round":"7",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso completato di Dovizioso su Crutchlow!  Ora il pilota italiano guida il gruppo all'inseguimento dell'imprendibile Marquez."
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Fortunatamente nessuna bandiera rossa e la gara puo' continuare regolarmente."
+    },
+    {
+      "event_id":"65",
+      "round":"6",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Tanta paura per Hernandez! La moto inizia a prendere fuoco, e il pilota ancora in corsa deve fermarsi e scappare dal mezzo prima di guai peggiori."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso in cruva splendido di Rossi su Lorenzo! Sembra faticare piu' del dovuto il pilota spagnolo oggi."
+    },
+    {
+      "event_id":"55",
+      "round":"6",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Piu' dietro bel sorpasso di Smith prima su Petrucci e poi su Hernandez."
+    },
+    {
+      "event_id":"50",
+      "round":"5",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Valentino Rossi continua ad attaccare Jorge Lorenzo per il sorpasso, momentaneamente senza fortuna."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua a girare velocissimo Marquez, gia' a due secondi di distanza da Crutchlow."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Va leggermente lungo Lorenzo in curva e viene sorpassato bene da Crutchlow e Dovizioso."
+    },
+    {
+      "event_id":"35",
+      "round":"3",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Bella staccata di Rossi che sorpassa in curva Espargaro A."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Perde qualcosa Espergaro, sorpassato bene prima da Lorenzo e successivamente da Crutchlow."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Sorpasso e contro sorpasso tra Espargaro e Marquez! Per il momento ha la meglio il pilota spagnolo che rimane davanti."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Parte bene Espargaro che attacca subito pericolosamente Marquez!"
+    },
+    {
+      "event_id":"15",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Semaforo verde! Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro di Warp up!"
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon pomeriggio qui dall'Argentina.  I piloti stanno prendendo posto in pista prima dell'inizio."
+    }
+  ]
+}

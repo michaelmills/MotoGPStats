@@ -1,0 +1,54 @@
+{
+  "id":"81",
+  "name":"NELSON PIQUET CIRCUIT",
+  "city":"RIO DE JANEIRO",
+  "country_id":"BRA",
+  "country":"Brasile",
+  "length":"4933",
+  "bends":"",
+  "foundation_year":"1978",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2004",
+      "id":"511074",
+      "label":"Roberts Jr K.",
+      "name":"Kenny",
+      "surname":"Roberts Jr",
+      "team":"Suzuki",
+      "country_id":"USA",
+      "country":"Stati Uniti",
+      "time":"1:48:418",
+      "average_speed":"163,799",
+      "description":"K. Roberts JR - Suzuki - 163.799 km/h - 2004"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2004",
+      "id":"517718",
+      "label":"Tamada M.",
+      "name":"Makoto",
+      "surname":"Tamada",
+      "team":"Honda",
+      "country_id":"JPN",
+      "country":"Giappone",
+      "time":"1:49:789",
+      "average_speed":"161,753",
+      "description":"M. Tamada - Honda - 161.753 km/h - 2004"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

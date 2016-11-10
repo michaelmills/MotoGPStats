@@ -1,0 +1,137 @@
+{
+  "items":[
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Finisce qui il turno: miglior tempo per Marquez, che conferma l'ottimo feeling con la pista, davanti a Iannone e Valentino Rossi. Turno segnato da una lunga sospensione a causa del problema alla gomma per Scott Redding."
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivola Lorenzo che si rialza agilmente ma e' costretto a chiudere qui il suo turno di prove libere."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si riparte per completare i quattro minuti che mancano al termine della sessione."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dalle voci che arrivano pare che l'interruzione sia stata imposta dalla Michelin per valutare la situazione della gomma della ruota di Redding."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"1",
+      "event_name":"Bandiera Rossa",
+      "comment":"Viene esposta nuovamente la bandiera rossa per motivi di sicurezza."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ultimi minuti nei quali i piloti cercano di fare il tempo per andare direttamente alla Q2."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Risale la classifica anche Pedrosa che si porta in terza posizione."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Vedremo ora se l'incidente occorso a Redding influira' sulle scelte delle squadre."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marc Marquez riconquista la vetta della classifica provvisoria."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"L'incidente precedente e' stato causato da un problema al pneumatico e ora in pit lane viene sconsigliato dai tecnici di montare le gomme morbide."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Terminata la pulizia della pista, si puo' ripartire."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutti i piloti sono rientrati ai box."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Fortunatamente nessun problema per il pilota britannico anche se non si capisce ancora quale tipo di problema abbia causato l'incidente."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"1",
+      "event_name":"Bandiera Rossa",
+      "comment":"Viene esposta la bandiera rossa a causa di un incidente di Scott Redding."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ora e' Iannone che fa segnare il miglior tempo."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' Marquez che al momento si trova al comando della classifica."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I primi piloti iniziano ad uscire dai box."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia la sessione."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buon pomeriggio dall'Argentina! Sta per cominciare il quarto turno di prove libere."
+    }
+  ]
+}

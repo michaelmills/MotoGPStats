@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Il debutto della Yamaha",
+      "news":"Nel GP di Francia 1961, corso a Clermont Ferrand, ha fatto il suo debutto nel Motomondiale la Yamaha, che ottenne due ottavi posti nelle classi 125 e 250."
+    },
+    {
+      "event_id":"5",
+      "title":"Marquez sul podio",
+      "news":"Marc Marquez e' salito sul podio in 32 delle 40 gare sinora corse in MotoGP. Una percentuale dell'80%."
+    },
+    {
+      "event_id":"4",
+      "title":"Unica vittoria Suzuki",
+      "news":"Nell'era della MotoGP La Honda ha vinto a Le Mans 7 volte, la Yamaha 5 e la Suzuki una con Vermeulen nel 2007, unica vittoria della casa giapponese in MotoGP."
+    },
+    {
+      "event_id":"3",
+      "title":"Lorenzo vincente",
+      "news":"Jorge Lorenzo si e' portato a 34 successi nella classe regina. E' sesto all time, vicino alle 37 vittorie di Hailwood e alle 38 di Stoner."
+    },
+    {
+      "event_id":"2",
+      "title":"Rossi al comando",
+      "news":"Valentino Rossi non conduceva dopo 4 gare il Mondiale nella classe regina dal 2005. Ci era riuscito anche nel 2001, 2002 e 2003. In tutte queste quattro occasioni aveva poi conquistato il titolo."
+    },
+    {
+      "event_id":"1",
+      "title":"Rossi, quattro podi",
+      "news":"Valentino Rossi ha iniziato il Mondiale di MotoGP con quattro podi consecutivi: non ci riusciva dal 2005, quando sali' sul podio addirittura nelle prime 11 gare."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "items":[
+    {
+      "event_id":"140",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I piloti che accedono direttamente al Q2 delle prove ufficiali sono dunque Iannone, Lorenzo, Marquez, Dovizioso, Vinales, Pedrosa, Rossi, Barbera, Redding e Pol Espargaro."
+    },
+    {
+      "event_id":"135",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Le Libere 3 da Losail vedono dunque la piacevolissima conferma di Andrea Iannone davanti a tutti. L'abruzzese della Ducati si candida cosi' tra gli uomini da battere in vista delle qualifiche di sabato. Piuttosto vicini comunque Lorenzo e Marquez, sempre da tenere in grande considerazione. Bene anche Dovizioso, quarto davanti a Vinales, mentre Rossi e' settimo."
+    },
+    {
+      "event_id":"130",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso nel finale si guadagna la quarta posizione, mentre Valentino Rossi si migliora, ma soltanto fino alla settima."
+    },
+    {
+      "event_id":"125",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sventola la bandiera a scacchi!"
+    },
+    {
+      "event_id":"120",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Finisce a terra senza gravi conseguenze Jack Miller."
+    },
+    {
+      "event_id":"115",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bravissimo anche Maverick Vinales, capace di salire in quarta piazza."
+    },
+    {
+      "event_id":"110",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Super Iannone! L'abruzzese della Ducati balza al comando, con Marquez che si migliora, ma rimane terzo."
+    },
+    {
+      "event_id":"105",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Grandi emozioni ora a Losail, con tutti i big che cercano di abbassare il loro tempo."
+    },
+    {
+      "event_id":"100",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Pazzesco Lorenzo! Notevole miglioramento dell'iridato 2015, sempre piu' al comando, con Marquez che pero' migliora e non e' lontano."
+    },
+    {
+      "event_id":"95",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Jorge Lorenzo non vuole lasciare nulla agli avversari e scalza Dovizioso dal primo posto."
+    },
+    {
+      "event_id":"90",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi non finisce lontano da Dovizioso, ma e' solo settimo. I big sono tutti molto vicini."
+    },
+    {
+      "event_id":"85",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E il primo a farcela e' Dovizioso! Migliore prestazione per l'italiano della Ducati."
+    },
+    {
+      "event_id":"80",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Gomme morbide ora per diversi piloti. Si va alla caccia del gran tempo."
+    },
+    {
+      "event_id":"75",
+      "round":"",
+      "event_class":"3",
+      "event_name":"Incidente",
+      "comment":"Scivola intanto Bradley Smith. Nessuna grave conseguenza per lui."
+    },
+    {
+      "event_id":"70",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' quarto l'ex iridato di Moto3, ma a pochi millesimi dal miglior tempo di Iannone."
+    },
+    {
+      "event_id":"65",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si sta lanciando fortissimo Maverick Vinales, talentuoso pilota della Suzuki."
+    },
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Arriva pero' Bradley Smith a scalzare il pilota transalpino."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bravo Loris Baz. Il francese ex Kawasaki in Sbk passa in decima posizione."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Hernandez e Crutchlow compiono dei discreti giri, mancando comunque l'ingresso nei dieci."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rimane in settima posizione Rossi, comunque sempre all'interno della top ten."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Sul circuito anche Valentino Rossi, vedremo se riuscira' a migliorarsi."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Arriva Pedrosa e riesce a stare davanti a tutti! Buone risposte sin qui dalla Honda."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sembrava avviato a ottenere il miglior tempo, ma accusa qualcosa nell'ultimo settore e rimane secondo."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In buona posizione anche Redding, del team satellite Ducati Pramac."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Nessuno fa meglio per ora del tempo di Iannone. L'abruzzese della Ducati sembra in grande spolvero in questo inizio di 2016."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' iniziata la sessione. I primi 10 al termine andranno direttamente nel Q2."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Si inizia a fare sul serio in questa sessione, dove i piloti inizieranno a testare il loro time attack."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Buonasera dal Qatar. E' tutto pronto per le Libere 3 di MotoGP."
+    }
+  ]
+}

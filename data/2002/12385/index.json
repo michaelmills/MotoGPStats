@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"808",
+  "edition_name":"2002",
+  "event_id":12385,
+  "event_description":"GP Australia",
+  "date_start":"18-10-2002",
+  "date_end":"20-10-2002",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":12436,
+      "event_description":"PROVE VENERDI' GP AUSTRALIA",
+      "date":"18-10-2002",
+      "date_to_print":"18 Ott 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12436.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":12433,
+      "event_description":"Griglia",
+      "date":"19-10-2002",
+      "date_to_print":"19 Ott 2002",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12433.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":12385,
+      "event_description":"Gara",
+      "date":"20-10-2002",
+      "date_to_print":"20 Ott 2002",
+      "time":"06:00",
+      "time_local":"14:00",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"12385.json"
+    }
+  ]
+}

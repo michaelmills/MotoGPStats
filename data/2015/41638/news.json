@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Le vittorie dei costruttori",
+      "news":"Nell'era della MotoGP in Australia, riguardo ai costruttori, guida la Honda con 5 vittorie, seguita a quota 4 dalla Ducati e della Yamaha, che ha vinto le ultime due edizioni."
+    },
+    {
+      "event_id":"5",
+      "title":"Il primo di Smith",
+      "news":"Bradley Smith nel 2014 in Australia e' stato 3o in gara, suo primo podio in MotoGP."
+    },
+    {
+      "event_id":"4",
+      "title":"Rossi sempre sul podio",
+      "news":"Valentino Rossi, dal 1998 al 2010, e' salito per 13 volte consecutive sul podio nel GP di Australia. Ci e' sempre riuscito nelle sue prime 11 apparizioni nella classe regina."
+    },
+    {
+      "event_id":"3",
+      "title":"Pedrosa come Nieto",
+      "news":"Daniel Pedrosa in Giappone ha conquistato il suo podio numero 139 nel Motomondiale (di cui 98 in MotoGP). Ha cosi' eguagliato Nieto, terzo all time nel Motomondiale. Meglio di loro nella storia hanno fatto solo Rossi con 209 e Agostini con 159."
+    },
+    {
+      "event_id":"2",
+      "title":"L'ultima non dei 4",
+      "news":"La vittoria di Casey Stoner a Phillip Island 2012 e' stata l'ultima gara di MotoGP che non si e' chiusa con un successo dei ''fantastici 4'': le successive 52 gare, infatti, sono sempre state vinte da uno tra Lorenzo, Marquez, Pedrosa o Rossi."
+    },
+    {
+      "event_id":"1",
+      "title":"Il record di Rossi",
+      "news":"Il record di successi nel GP di Australia appartiene a Valentino Rossi con 8. Per lui due vittorie nella classe 250 nel 1998 e nel 1999, poi cinque consecutive in 500/MotoGP dal 2001 al 2005, fino all'ultima affermazione nel 2014. "
+    }
+  ]
+}

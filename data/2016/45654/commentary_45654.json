@@ -1,0 +1,277 @@
+{
+  "items":[
+    {
+      "event_id":"195",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dopo ben 101 gare la Ducati interrompe il dominio di vittorie di Honda e Yamaha."
+    },
+    {
+      "event_id":"190",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Doppietta tutta italiana in Austria! Peccato per Rossi che non riesce a completare un podio tutto nostrano."
+    },
+    {
+      "event_id":"185",
+      "round":"28",
+      "event_class":"12",
+      "event_name":"Arrivo",
+      "comment":"Iannone vince il GP d'Austria! Dovizioso secondo, terzo Lorenzo, solo quarto Rossi."
+    },
+    {
+      "event_id":"180",
+      "round":"28",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Comincia l'ultimo giro!"
+    },
+    {
+      "event_id":"175",
+      "round":"27",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Marquez sempre in quinta posizione."
+    },
+    {
+      "event_id":"170",
+      "round":"26",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso sempre dietro Iannone. Rossi non sembra avere lo spunto necessario per sorpassare Lorenzo."
+    },
+    {
+      "event_id":"165",
+      "round":"25",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Due secondi il vantaggio delle Ducati sulle Yamaha."
+    },
+    {
+      "event_id":"160",
+      "round":"24",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi, alla ricerca del podio, prova in tutti i modi a restare uin scia del compagno di squadra."
+    },
+    {
+      "event_id":"155",
+      "round":"23",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cinque giri alla conclusione della gara."
+    },
+    {
+      "event_id":"150",
+      "round":"22",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I due ducatisti hanno l'occasione di interrompere un lungo digiuno da vittorie. "
+    },
+    {
+      "event_id":"145",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone di nuovo in testa alla corsa."
+    },
+    {
+      "event_id":"140",
+      "round":"21",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Il ritardo delle due Yamaha e' salito ad oltre un secondo."
+    },
+    {
+      "event_id":"135",
+      "round":"20",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Le due Ducati hanno allungato sensibilmente."
+    },
+    {
+      "event_id":"130",
+      "round":"19",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In evidente difficolta' Marquez; per lo spagnolo una gara tutta in salita vista la rovinosa caduta di ieri."
+    },
+    {
+      "event_id":"125",
+      "round":"18",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso sempre davanti a fare l'andatura."
+    },
+    {
+      "event_id":"120",
+      "round":"17",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ormai la vittoria di oggi e' un discorso tra le Ducati e le Yamaha."
+    },
+    {
+      "event_id":"115",
+      "round":"16",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro lento per le Ducati che vedono avvicinarsi di nuovo le due Yamaha."
+    },
+    {
+      "event_id":"110",
+      "round":"15",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce per Iannone che torna negli scarichi di Dovizioso."
+    },
+    {
+      "event_id":"105",
+      "round":"14",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Dovizioso allunga anche sul proprio conpagno di squadra; impressionante il suo ritmo gara."
+    },
+    {
+      "event_id":"100",
+      "round":"13",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Circa un seconda di vantaggio per la copia di testa sulle Yamaha."
+    },
+    {
+      "event_id":"95",
+      "round":"12",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Allungo delle due Ducati, Lorenzo fatica a tenere il passo della coppia italiana."
+    },
+    {
+      "event_id":"90",
+      "round":"11",
+      "event_class":"6",
+      "event_name":"Eliminato",
+      "comment":"Bandiera nera per Barbera per non aver rispettato il ride through."
+    },
+    {
+      "event_id":"85",
+      "round":"10",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"In quinta e sesta posizione troviamo Marquez e Maverick Vinales."
+    },
+    {
+      "event_id":"80",
+      "round":"9",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Iannone sempre in testa a tirare; Lorenzo e Rossi sempre dietro."
+    },
+    {
+      "event_id":"75",
+      "round":"8",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Schermaglie tra le due Ducati ma Iannone resta sempre in testa alla corsa."
+    },
+    {
+      "event_id":"70",
+      "round":"7",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Provano l'allungo Iannone e Dovizioso, le Yamaha resistono."
+    },
+    {
+      "event_id":"65",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Di nuovo le due Ducati davanti a tutti; subito dietro le due Yamaha."
+    },
+    {
+      "event_id":"60",
+      "round":"6",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo nella morsa delle due Ducati."
+    },
+    {
+      "event_id":"55",
+      "round":"5",
+      "event_class":"4",
+      "event_name":"Imprevisto",
+      "comment":"Barbera, Hernandez, Bautista, Bradl e Crutchlow penalizzati con un ride throuhgh per partenza anticipata."
+    },
+    {
+      "event_id":"50",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lungo di Rossi alla curva due; il pilota della Yamaha perde due posizioni."
+    },
+    {
+      "event_id":"45",
+      "round":"4",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Giro veloce per Dovizioso, ad ogni curva c'e' sempre un duello."
+    },
+    {
+      "event_id":"40",
+      "round":"3",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Lorenzo negli scarichi di Iannone."
+    },
+    {
+      "event_id":"35",
+      "round":"2",
+      "event_class":"2",
+      "event_name":"Sorpasso",
+      "comment":"Che sorpasso Lorenzo in fondo alla seconda curva! Due posizioni recuperate dallo spagnolo."
+    },
+    {
+      "event_id":"30",
+      "round":"2",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Rossi, Iannone e Dovizioso davanti a tutti."
+    },
+    {
+      "event_id":"25",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Contatto invece tra Marquez e Lorenzo che perdono alcune posizioni."
+    },
+    {
+      "event_id":"20",
+      "round":"1",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"I tre italiani girano davanti a tutti dopo la prima curva."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Partiti!"
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Inizia il giro di formazione."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Tutto e' pronto per l'inizio della gara della classe regina."
+    }
+  ]
+}

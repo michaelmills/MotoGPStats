@@ -1,0 +1,59 @@
+{
+  "id":"68",
+  "name":"CIRCUITO DEL MUGELLO",
+  "city":"MUGELLO",
+  "country_id":"ITA",
+  "country":"Italia",
+  "length":"5245",
+  "bends":"15 (6 a sinistra, 9 a destra)",
+  "foundation_year":"1974",
+  "last_event_name":"GP Italia",
+  "last_event_date":"22-05-2016",
+  "best_winner_name":"Valentino",
+  "best_winner_surname":"Rossi",
+  "best_winner_value":"7",
+  "records":[
+    {
+      "type":"stage-fastest-lap",
+      "year":"2015",
+      "id":"520988",
+      "label":"Iannone A.",
+      "name":"Andrea",
+      "surname":"Iannone",
+      "team":"Ducati",
+      "country_id":"ITA",
+      "country":"Italia",
+      "time":"1:46:489",
+      "average_speed":"177,3",
+      "description":"A. Iannone - Ducati - 177,3 km/h - 2015"
+    },
+    {
+      "type":"race-fastest-lap",
+      "year":"2013",
+      "id":"526966",
+      "label":"Marquez M.",
+      "name":"Marc",
+      "surname":"Marquez",
+      "team":"Honda",
+      "country_id":"ESP",
+      "country":"Spagna",
+      "time":"1:47:639",
+      "average_speed":"175,4",
+      "description":"M. Marquez - Honda - 175,4 km/h - 2013"
+    },
+    {
+      "type":"race-best-time",
+      "year":"",
+      "id":"",
+      "label":"",
+      "name":"",
+      "surname":"",
+      "team":"",
+      "country_id":"",
+      "country":"",
+      "time":"",
+      "average_speed":"",
+      "description":"Non disponibile"
+  }
+  ]
+}

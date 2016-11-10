@@ -1,0 +1,61 @@
+{
+  "competition_id":"41",
+  "competition_name":"CAMPIONATO MOND.LE PISTA",
+  "competition_short_name":"MOTOMONDIALE",
+  "edition_id":"865",
+  "edition_name":"2003",
+  "event_id":13479,
+  "event_description":"GP Olanda",
+  "date_start":"26-06-2003",
+  "date_end":"28-06-2003",
+  "items":[
+    {
+      "sequence":1,
+      "event_type":"practice",
+      "event_order":"1",
+      "event_id":13481,
+      "event_description":"PROVE VENERDI' GP OLANDA",
+      "date":"26-06-2003",
+      "date_to_print":"26 Giu 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13481.json"
+    },
+    {
+      "sequence":2,
+      "event_type":"grid",
+      "event_order":"1",
+      "event_id":13480,
+      "event_description":"Griglia",
+      "date":"27-06-2003",
+      "date_to_print":"27 Giu 2003",
+      "time":"00:00",
+      "time_local":"00:00",
+      "specialty":"MOTOGP",
+      "current":"no",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13480.json"
+    },
+    {
+      "sequence":3,
+      "event_type":"race",
+      "event_order":"1",
+      "event_id":13479,
+      "event_description":"Gara",
+      "date":"28-06-2003",
+      "date_to_print":"28 Giu 2003",
+      "time":"15:30",
+      "time_local":"15:30",
+      "specialty":"MOTOGP",
+      "current":"yes",
+      "status":"ended",
+      "status_description":"Disputata",
+      "results_file":"13479.json"
+    }
+  ]
+}

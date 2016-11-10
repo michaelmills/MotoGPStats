@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"Dovizioso in pole",
+      "news":"Andrea Dovizioso nel 2010 a Motegi ha conquistato la sua prima pole in MotoGP. Poi non ci e' piu' riuscito per 4 anni, ottenendo la sua seconda pole nella classe regina sempre a Motegi nel 2014."
+    },
+    {
+      "event_id":"5",
+      "title":"Lorenzo va veloce",
+      "news":"Jorge Lorenzo ad Aragon ha ottenuto il suo giro veloce numero 23 in MotoGP. E' entrato cosi' nella top 10 all time della classe regina, eguagliando Duke al 10o posto. Ora nel mirino i 25 di Kenny Roberts."
+    },
+    {
+      "event_id":"4",
+      "title":"Marc come Kevin",
+      "news":"Marc Marquez ha conquistato 29 pole position su 50 gare corse in MotoGP: una percentuale del 58%. Ha cosi' eguagliato Kevin Schwantz al 5o posto all time per quanto riguarda la classe regina."
+    },
+    {
+      "event_id":"3",
+      "title":"Pedrosa, vicino a Nieto",
+      "news":"Daniel Pedrosa ad Aragon ha conquistato il suo podio numero 138 nel Motomondiale (di cui 97 in MotoGP). Si e' portato a -1 dai 139 di Nieto, terzo all time. Meglio nella storia hanno fatto solo Rossi con 209 e Agostini con 159."
+    },
+    {
+      "event_id":"2",
+      "title":"Biaggi, che debutto",
+      "news":"Nel GP del Giappone 1998, al suo debutto in 500, Max Biaggi vince la gara. Era da 25 anni, con Jarno Saarinen, che un pilota non si imponeva al suo primo GP nella classe regina."
+    },
+    {
+      "event_id":"1",
+      "title":"La prima in 500",
+      "news":"Nel 1987, con la ripresa del Gran Premio del Giappone, si corre per la prima volta nella classe regina: vince Randy Mamola su Yamaha."
+    }
+  ]
+}

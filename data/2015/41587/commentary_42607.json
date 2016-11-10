@@ -1,0 +1,88 @@
+{
+  "items":[
+    {
+      "event_id":"60",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Finisce qua la prima sessione: miglior giro di Lorenzo, seguito da Iannone e Rossi."
+    },
+    {
+      "event_id":"55",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bandiera a scacchi! Ultimo giro per i piloti ancora in pista."
+    },
+    {
+      "event_id":"50",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Cade Bradl, finisce qua la sua sessione."
+    },
+    {
+      "event_id":"45",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora 5 minuti a disposizione dei piloti. Poi spazio alla Moto2 e alla Moto3, per poi ripartire con la seconda sessione di prove libere alle 7.05."
+    },
+    {
+      "event_id":"40",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Molti piloti rientrano ai box per poi fare l'ultimo giro veloce; intanto caduta di Miller, si rialza tranquillamente."
+    },
+    {
+      "event_id":"35",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ancora poco piu' di 10 minuti al termine di questa prima sessione."
+    },
+    {
+      "event_id":"30",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Ottimo giro di Rossi che si riavvicina al tempo del compagno di squadra Lorenzo."
+    },
+    {
+      "event_id":"25",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Bel giro di Pedrosa che fa il secondo giro veloce."
+    },
+    {
+      "event_id":"20",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Siamo gia' vicini al giro di boa di questa prima sessione."
+    },
+    {
+      "event_id":"15",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"Continua anche in questa sessione di libere la sfida tra i due protagonisti del Mondiale che rimangono distanziati di pochi decimi."
+    },
+    {
+      "event_id":"10",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' ufficialmente iniziata la triplice asiatica, determinante per il titolo finale. I piloti cercano di riprendere familiarita' con la pista, vedremo cosa riusciranno a fare i due contendenti Rossi e Lorenzo."
+    },
+    {
+      "event_id":"5",
+      "round":"",
+      "event_class":"0",
+      "event_name":" ",
+      "comment":"E' iniziata la prima sessione di prove libere del Gran Premio del Giappone."
+    }
+  ]
+}

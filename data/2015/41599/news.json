@@ -1,0 +1,34 @@
+{
+  "items":[
+    {
+      "event_id":"6",
+      "title":"La prima di Rossi",
+      "news":"Nel 1996, quando correva nella classe 125, a Brno Valentino Rossi ha ottenuto il sabato la prima pole position e la domenica la prima vittoria."
+    },
+    {
+      "event_id":"5",
+      "title":"Bradl come il padre",
+      "news":"Nel 2008 in 125 arriva il primo successo di Stefan Bradl. Il tedesco diviene cosi' il sesto pilota a vincere nel Motomondiale, dopo che lo aveva gia' fatto il padre: Stuart Graham, Alberto Pagani, Valentino Rossi, Kenny Roberts Jr e Pablo Nieto gli altri cinque."
+    },
+    {
+      "event_id":"4",
+      "title":"La pole porta male",
+      "news":"Negli ultimi 5 anni, chi e' partito in pole position a Brno non ha ottenuto il successo. L'ultimo a centrare l'accoppiata pole-vittoria e' stato Valentino Rossi nel 2009."
+    },
+    {
+      "event_id":"3",
+      "title":"Yamaha, 500 vicini",
+      "news":"La Yamaha a breve potrebbe essere la prima casa a tagliare il traguardo dei 500 podi nella classe regina. Sono attualmente 496, contro i 476 della Honda."
+    },
+    {
+      "event_id":"2",
+      "title":"Marquez, record di vittorie",
+      "news":"Marc Marquez ha vinto 22 delle 46 gare corse in MotoGP, eguagliando cosi' i successi nella classe regina di Roberts, Duke e Surtees. Altri due successi e raggiungera' Rainey a 24, entrando cosi' nella top ten dei piloti piu' vincenti di sempre in 500/MotoGP."
+    },
+    {
+      "event_id":"1",
+      "title":"Marquez, record di pole",
+      "news":"Marc Marquez ha ottenuto 27 pole position in 46 gran premi corsi in MotoGP. Con la 27esima di Indy ha eguagliato Pedrosa e Spencer nella classe regina, "
+    }
+  ]
+}
