@@ -1,0 +1,7 @@
+interface ITitleProps {
+
+}
+
+interface ITitleState {
+
+}
