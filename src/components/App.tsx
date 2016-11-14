@@ -1,14 +1,18 @@
 import * as React from "react";
-import Title from "./Title";
+import "../styles/home.sass";
+import Head from "./Head";
+import Main from "./Main";
+import Footer from "./Footer";
 
-export class App extends React.Component<IAppProps, IAppState> {
+
+export default class App extends React.Component<IAppProps, IAppState> {
     public render() {
         return (
-            <section className="section">
-                <div className="container">
-                    <Title />
-                </div>
-            </section>
+            <div>
+                <Head/>
+                <Main/>
+                <Footer/>
+            </div>
         );
     }
 }
