@@ -1,6 +1,6 @@
 export class DivisionModel {
     private name: string;
-    private ranking: [any];
+    private ranking: string;
 
     constructor(builder: RaceModelBuilder) {
         this.name = builder.Name;
