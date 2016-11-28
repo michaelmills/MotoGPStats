@@ -1,9 +1,10 @@
 import * as React from "react";
-import Filter from "./Filter";
-import Division from "./Division";
+import Filter from "../filter/Filter";
+import Divisions from "../Divisions";
 
 export default class Main extends React.Component<{}, {}> {
     public render() {
+
         return (
             <section className="container home-content">
                 <div className="columns">
@@ -11,9 +12,7 @@ export default class Main extends React.Component<{}, {}> {
                         <Filter/>
                     </div>
                     <div className="column">
-                        <Division name="MotoGP"/>
-                        <Division name="Moto2"/>
-                        <Division name="Moto3"/>
+                        <Divisions/>
                     </div>
                 </div>
             </section>
