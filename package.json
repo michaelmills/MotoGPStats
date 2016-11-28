@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/webpack-dev-server --hot --inline --colors",
+    "start": "./node_modules/.bin/webpack-dev-server --hot --inline --colors --open",
     "build": "./node_modules/.bin/webpack --progress --colors",
+    "backend": "./node_modules/.bin/gulp start-backend",
     "clean": "rm -r ./dist"
   },
   "author": "",
@@ -15,6 +16,7 @@
     "@types/react": "^0.14.43",
     "@types/react-dom": "^0.14.18",
     "bulma": "^0.2.3",
+    "express": "^4.14.0",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "typescript": "^2.0.6",
@@ -22,6 +24,7 @@
   },
   "devDependencies": {
     "css-loader": "^0.25.0",
+    "gulp": "^3.9.1",
     "node-sass": "^3.11.3",
     "sass-loader": "^4.0.2",
     "source-map-loader": "^0.1.5",
