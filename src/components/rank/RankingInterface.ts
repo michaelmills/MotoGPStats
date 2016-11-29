@@ -1,7 +1,9 @@
 // Defines the interface of the properties of the App component
+import {RiderModel} from "../../model/RiderModel";
+
 export interface RankingProps {
     name: string,
-    rider?: Array<string>,
+    riders?: Array<RiderModel>,
     generateRankings?: () => any;
 }
 

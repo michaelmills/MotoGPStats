@@ -1,11 +1,13 @@
 import * as React from "react";
 import FilterDropdown from "./FilterDropdown";
 
+const years: Array<string> = ["2016", "2015", "2014"];
+const divisions: Array<string> = ["MotoGP"];
+const locations: Array<string> = ["Aragon", "Phillip Island", "Austin"];
+
 export default class Filter extends React.Component<{}, {}> {
+
     public render() {
-        let years: Array<string> = ["2016", "2015", "2014"];
-        let divisions: Array<string> = ["MotoGP", "Moto2", "Moto3"];
-        let locations: Array<string> = ["Aragon", "Phillip Island", "Austin"];
 
         return (
             <nav className="box">
