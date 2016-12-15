@@ -1,5 +1,5 @@
 import * as React from "react";
-import { RankingProps } from "./RankingInterface.ts";
+import { RankingProps } from "./RankingInterface";
 import {RiderModel, RiderModelBuilder} from "../../model/RiderModel";
 import JSONUtil from "../../service/utility/JSONUtil";
 
