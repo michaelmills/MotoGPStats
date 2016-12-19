@@ -1,0 +1,76 @@
+{
+    "race_track": [
+        {
+            "name": "Losail International Circuit",
+            "filename": "api/2016/45510/45510.json"
+        },
+        {
+            "name": "Termas de Rio Hondo",
+            "filename": "api/2016/45526/45526.json"
+        },
+        {
+            "name": "Circuit of the Americas",
+            "filename": "api/2016/45542/45542.json"
+        },
+        {
+            "name": "Jerez",
+            "filename": ""
+        },
+        {
+            "name": "Le Mans",
+            "filename": "api/2016/45574/45574.json"
+        },
+        {
+            "name": "Mugello",
+            "filename": "api/2016/45590/45590.json"
+        },
+        {
+            "name": "Circuit de Catalunya",
+            "filename": ""
+        },
+        {
+            "name": "TT Assen",
+            "filename": ""
+        },
+        {
+            "name": "Sachsenring",
+            "filename": ""
+        },
+        {
+            "name": "Red Bull Ring",
+            "filename": ""
+        },
+        {
+            "name": "Brno",
+            "filename": ""
+        },
+        {
+            "name": "Silverstone",
+            "filename": ""
+        },
+        {
+            "name": "Misano",
+            "filename": ""
+        },
+        {
+            "name": "Aragon",
+            "filename": ""
+        },
+        {
+            "name": "Motegi",
+            "filename": ""
+        },
+        {
+            "name": "Phillip Island",
+            "filename": ""
+        },
+        {
+            "name": "Sepang",
+            "filename": "api/2016/45558/45558.json"
+        },
+        {
+            "name": "Valencia",
+            "filename": ""
+        }
+    ]
+}

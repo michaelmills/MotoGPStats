@@ -24,12 +24,14 @@
   },
   "devDependencies": {
     "css-loader": "^0.25.0",
+    "fetch": "^1.1.0",
     "gulp": "^3.9.1",
     "node-sass": "^3.11.3",
     "sass-loader": "^4.0.2",
     "source-map-loader": "^0.1.5",
     "style-loader": "^0.13.1",
     "ts-loader": "^0.9.5",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^1.16.2",
+    "whatwg-fetch": "^2.0.1"
   }
 }

@@ -5,10 +5,10 @@ export default class JSONUtil {
 
         xhr.onload = () => {
             if (xhr.status == 200) {
-                return onSuccess != null ? onSuccess(xhr) : {};
+                return typeof onSuccess !== 'undefined' ? onSuccess(xhr) : {};
             }
             else {
-                return onFailure != null ? onFailure() : {};
+                return typeof onFailure !== 'undefined' ? onFailure() : {};
             }
         }
 
