@@ -18,44 +18,47 @@ export default class RaceResult extends React.Component<RaceResultProps, RaceRes
     constructor(props: any) {
         super(props);
         this.state = {
-            riders: []
+            riders: null
         }
     }
 
     componentWillReceiveProps(nextProps: any) {
-        this.props = nextProps;
-        this.getRaceResults();
+        this.getRaceResults(nextProps.locationFilename);
     }
 
-    getRaceResults() {
-        if (this.props.locationFilename !== undefined && this.props.locationFilename.length > 0) {
+    private getRaceResults(filename: string) {
+        if (filename) {
             let service = new RaceResultService();
-            service.getResults(this.props.locationFilename, (raceResult: RiderModel[]) => {
+            service.getResults(filename, (raceResult: RiderModel[]) => {
                 this.setState({
                     riders: raceResult
                 });
             });
         }
-        else {console.log("empty location")
+        else {
             this.setState({
                 riders: []
             })
         }
     }
 
-    generateRaceResults(): any {
+    private generateResultHeading() {
         return (
-            <div>
-                <ResultHeading title={[this.props.year, this.props.location]}/>
-                <Ranking name="MotoGP" riders={this.state.riders}/>
-            </div>
-        );
+            <ResultHeading title={[this.props.year, this.props.location]}/>
+        )
+    }
+
+    private generateRanking() {
+        return (
+            <Ranking name="MotoGP" riders={this.state.riders}/>
+        )
     }
 
     public render() {
         return (
             <div>
-                {this.generateRaceResults()}
+                {this.generateResultHeading()}
+                {this.generateRanking()}
             </div>
         );
     }

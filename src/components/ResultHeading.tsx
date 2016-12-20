@@ -10,7 +10,14 @@ export default class ResultHeading extends React.Component<ResultHeadingProps, a
         super(props);
     }
 
-    generateTitle(word: string[]): string {
+    shouldComponentUpdate(nextProps: any,) {
+        if (nextProps.title.toString() !== this.props.title.toString()) {
+            return true;
+        }
+        return false;
+    }
+
+    private generateTitle(word: string[]): string {
         return word.join(" ");
     }
 

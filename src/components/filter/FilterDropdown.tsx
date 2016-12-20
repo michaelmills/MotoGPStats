@@ -7,10 +7,12 @@ export default class FilterDropdown extends React.Component<FilterDropdownProps,
         this.onSelectionChange = this.onSelectionChange.bind(this);
     }
 
-    generateOptions(): any {
-        return this.props.options.map(function(option) {
-            return <option key={option}>{ option }</option>
-        })
+    componentWillReceiveProps(nextProps: any) {
+        this.generateOptions(nextProps.options);
+    }
+
+    componentDidMount() {
+        this.generateOptions(this.props.options);
     }
 
     onSelectionChange(event: any): void {
@@ -18,14 +20,22 @@ export default class FilterDropdown extends React.Component<FilterDropdownProps,
         this.props.onChange(optionName);
     }
 
+    private generateOptions(options: string[]): any {
+        if (options) {
+            return options.map(function (option) {
+                return <option key={option}>{option}</option>
+            });
+        }
+    }
+
     public render() {
         return (
             <div className="filter-component">
-                <label className="label">{ this.props.label }</label>
+                <label className="label">{this.props.label}</label>
                 <p className="control">
                     <span className="select is-fullwidth">
-                        <select onChange={ this.onSelectionChange }>
-                            { this.generateOptions() }
+                        <select onChange={this.onSelectionChange}>
+                            {this.generateOptions(this.props.options)}
                         </select>
                     </span>
                 </p>

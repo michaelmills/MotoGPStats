@@ -2,14 +2,15 @@ import * as React from "react";
 import Filter from "../filter/Filter";
 import RaceResult from "../RaceResult";
 import RaceLocationService from "../../service/RaceLocationService";
+import RaceResultService from "../../service/RaceResultService";
+import {RiderModel} from "../../model/RiderModel";
 
 const yearOptions: Array<string> = ["2016", "2015", "2014"];
 
 interface MainState {
-    year?: string;
-    location?: string;
+    selectedYear?: string;
+    selectedLocation?: string;
     locationOptions?: string[];
-    locationFilename?: string;
 }
 
 export default class Main extends React.Component<{}, MainState> {
@@ -21,11 +22,10 @@ export default class Main extends React.Component<{}, MainState> {
         this.onYearChange = this.onYearChange.bind(this);
         this.onLocationChange = this.onLocationChange.bind(this);
 
-        this.getLocations();
-
         this.state = {
-            year: yearOptions[0],
-            locationOptions: []
+            selectedYear: yearOptions[0],
+            selectedLocation: null,
+            locationOptions: null,
         };
     }
 
@@ -33,7 +33,19 @@ export default class Main extends React.Component<{}, MainState> {
         this.getLocations();
     }
 
-    getLocations() {
+    onYearChange(filterOption: string) {
+        this.setState({
+            selectedYear: filterOption
+        })
+    }
+
+    onLocationChange(name: string) {
+        this.setState({
+            selectedLocation: name
+        });
+    }
+
+    private getLocations() {
         let service = new RaceLocationService();
         service.getLocations((raceTrack: any) => {
             this.raceTracks = raceTrack;
@@ -43,14 +55,13 @@ export default class Main extends React.Component<{}, MainState> {
             });
 
             this.setState({
-                location: locationNames[0],
+                selectedLocation: locationNames[0],
                 locationOptions: locationNames,
-                locationFilename: this.getFilename(locationNames[0])
             });
         });
     }
 
-    getFilename(locationName: string): string {
+    private getFilename(locationName: string): string {
         let filename = "";
         if (this.raceTracks !== undefined) {
             filename = this.raceTracks.find((element: any) => {
@@ -60,21 +71,7 @@ export default class Main extends React.Component<{}, MainState> {
         return filename;
     }
 
-    onYearChange(filterOption: string) {
-        this.setState({
-            year: filterOption
-        })
-    }
-
-    onLocationChange(name: string) {
-        let filename = this.getFilename(name);
-        this.setState({
-            location: name,
-            locationFilename: filename
-        })
-    }
-
-    generateFilter(): any {
+    private generateFilter(): any {
         let filterProps = {
             dropDowns: [
                 {
@@ -95,11 +92,11 @@ export default class Main extends React.Component<{}, MainState> {
         );
     }
 
-    generateRaceResult(): any {
+    private generateRaceResult(): any {
         let resultProps = {
-            year: this.state.year,
-            location: this.state.location,
-            locationFilename: this.state.locationFilename
+            year: this.state.selectedYear,
+            location: this.state.selectedLocation,
+            locationFilename: this.getFilename(this.state.selectedLocation)
         };
         return (
             <RaceResult {...resultProps}/>
@@ -107,6 +104,7 @@ export default class Main extends React.Component<{}, MainState> {
     }
 
     public render() {
+
         return (
             <section className="container home-content">
                 <div className="columns">
