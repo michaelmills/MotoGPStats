@@ -4,16 +4,13 @@ import RaceResult from "../RaceResult";
 import RaceLocationService from "../../service/RaceLocationService";
 import RaceResultService from "../../service/RaceResultService";
 import {RiderModel} from "../../model/RiderModel";
+import { connect } from "react-redux";
+import { getLocations } from "../../actions/index";
+import { MainState } from "../../interfaces";
 
 const yearOptions: Array<string> = ["2016", "2015", "2014"];
 
-interface MainState {
-    selectedYear?: string;
-    selectedLocation?: string;
-    locationOptions?: string[];
-}
-
-export default class Main extends React.Component<{}, MainState> {
+class Main extends React.Component<any, MainState> {
     private raceTracks: any;
 
     constructor(props: any) {
@@ -30,7 +27,7 @@ export default class Main extends React.Component<{}, MainState> {
     }
 
     componentDidMount() {
-        this.getLocations();
+        this.props.getLocations();
     }
 
     onYearChange(filterOption: string) {
@@ -42,22 +39,6 @@ export default class Main extends React.Component<{}, MainState> {
     onLocationChange(name: string) {
         this.setState({
             selectedLocation: name
-        });
-    }
-
-    private getLocations() {
-        let service = new RaceLocationService();
-        service.getLocations((raceTrack: any) => {
-            this.raceTracks = raceTrack;
-
-            let locationNames = this.raceTracks.map((details: any) => {
-                return details.name;
-            });
-
-            this.setState({
-                selectedLocation: locationNames[0],
-                locationOptions: locationNames,
-            });
         });
     }
 
@@ -81,7 +62,7 @@ export default class Main extends React.Component<{}, MainState> {
                 },
                 {
                     label: "Location",
-                    options: this.state.locationOptions,
+                    options: this.props.locationOptions,
                     onChange: this.onLocationChange
                 }
             ]
@@ -120,3 +101,10 @@ export default class Main extends React.Component<{}, MainState> {
     }
 }
 
+const mapStateToProps = (state :any) => {
+    return {
+        locationOptions: state.locationOptions
+    }
+};
+
+export default connect(mapStateToProps, { getLocations })(Main);

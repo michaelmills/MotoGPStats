@@ -1,10 +1,16 @@
 import * as React from "react";
 import { RankingProps } from "./RankingInterface";
 import {RiderModel} from "../../model/RiderModel";
+import { getRaceResults } from "../../actions/index";
+import { connect } from "react-redux";
 
-export default class Ranking extends React.Component<RankingProps, any> {
+class Ranking extends React.Component<any, any> {
     constructor(props: any) {
         super(props);
+    }
+
+    componentDidMount() {
+        this.props.getRaceResults("api/2016/45510/45510.json");
     }
 
     shouldComponentUpdate(nextProps: any) {
@@ -29,6 +35,7 @@ export default class Ranking extends React.Component<RankingProps, any> {
     }
 
     private generateRankings(): any {
+        console.log('riders', this.props.riders);
         let ranks = this.props.riders.map((rider: RiderModel) => {
             return (
                 <tr key={ rider.Name }>
@@ -68,3 +75,10 @@ export default class Ranking extends React.Component<RankingProps, any> {
     }
 }
 
+const mapStateToProps = (state :any) => {
+    return {
+        riders: state.riders
+    }
+};
+
+export default connect(mapStateToProps, { getRaceResults })(Ranking);

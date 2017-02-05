@@ -15,9 +15,9 @@ export default class Divisions extends React.Component<DivisionsProps, any> {
         if (this.props.year) {
             divisions =
                 <div>
-                    <Ranking name="MotoGP"/>
-                    <Ranking name="Moto2"/>
-                    <Ranking name="Moto3"/>
+                    <Ranking />
+                    <Ranking />
+                    <Ranking />
                 </div>
         }
         return divisions;

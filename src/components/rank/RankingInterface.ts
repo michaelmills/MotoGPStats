@@ -4,7 +4,8 @@ import {RiderModel} from "../../model/RiderModel";
 export interface RankingProps {
     name: string,
     riders?: Array<RiderModel>,
-    generateRankings?: () => any;
+    generateRankings?: () => any,
+    getRaceResults?: (filename: string) => any
 }
 
 // Defines the interface of the state of the App component

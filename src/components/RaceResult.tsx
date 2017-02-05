@@ -50,7 +50,7 @@ export default class RaceResult extends React.Component<RaceResultProps, RaceRes
 
     private generateRanking() {
         return (
-            <Ranking name="MotoGP" riders={this.state.riders}/>
+            <Ranking/>
         )
     }
 
