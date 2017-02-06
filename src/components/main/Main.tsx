@@ -16,9 +16,6 @@ class Main extends React.Component<any, MainState> {
     constructor(props: any) {
         super(props);
 
-        this.onYearChange = this.onYearChange.bind(this);
-        this.onLocationChange = this.onLocationChange.bind(this);
-
         this.state = {
             selectedYear: yearOptions[0],
             selectedLocation: null,
@@ -30,18 +27,6 @@ class Main extends React.Component<any, MainState> {
         this.props.getLocations();
     }
 
-    onYearChange(filterOption: string) {
-        this.setState({
-            selectedYear: filterOption
-        })
-    }
-
-    onLocationChange(name: string) {
-        this.setState({
-            selectedLocation: name
-        });
-    }
-
     private getFilename(locationName: string): string {
         let filename = "";
         if (this.raceTracks !== undefined) {
@@ -50,27 +35,6 @@ class Main extends React.Component<any, MainState> {
             }).filename;
         }
         return filename;
-    }
-
-    private generateFilter(): any {
-        let filterProps = {
-            dropDowns: [
-                {
-                    label: "Year",
-                    options: yearOptions,
-                    onChange: this.onYearChange
-                },
-                {
-                    label: "Location",
-                    options: this.props.locationOptions,
-                    onChange: this.onLocationChange
-                }
-            ]
-        };
-
-        return (
-            <Filter {...filterProps}/>
-        );
     }
 
     private generateRaceResult(): any {
@@ -90,7 +54,7 @@ class Main extends React.Component<any, MainState> {
             <section className="container home-content">
                 <div className="columns">
                     <div className="column is-one-quarter">
-                        {this.generateFilter()}
+                        <Filter/>
                     </div>
                     <div className="column">
                         {this.generateRaceResult()}

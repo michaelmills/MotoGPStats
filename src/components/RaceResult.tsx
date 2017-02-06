@@ -44,7 +44,7 @@ export default class RaceResult extends React.Component<RaceResultProps, RaceRes
 
     private generateResultHeading() {
         return (
-            <ResultHeading title={[this.props.year, this.props.location]}/>
+            <ResultHeading/>
         )
     }
 

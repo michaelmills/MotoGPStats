@@ -9,16 +9,21 @@ class Ranking extends React.Component<any, any> {
         super(props);
     }
 
-    componentDidMount() {
-        this.props.getRaceResults("api/2016/45510/45510.json");
+    getFilename() {
+        return (this.props.raceTracks.find(({ name } :any) => {
+            return name === this.props.selectedLocation;
+        }).filename);
+    }
+
+    componentDidUpdate() {
+        this.props.getRaceResults(this.getFilename());
     }
 
     shouldComponentUpdate(nextProps: any) {
-        if ((nextProps.name !== this.props.name)
-            || nextProps.riders !== null) {
-            return true;
-        }
-        return false;
+        let nextName = nextProps.riders[0] && nextProps.riders[0].name;
+        let currentName = this.props.riders[0] && this.props.riders[0].name;
+        return (nextProps.selectedLocation !== this.props.selectedLocation) ||
+            (nextName !== currentName);
     }
 
     private generateHeading(): any {
@@ -35,7 +40,6 @@ class Ranking extends React.Component<any, any> {
     }
 
     private generateRankings(): any {
-        console.log('riders', this.props.riders);
         let ranks = this.props.riders.map((rider: RiderModel) => {
             return (
                 <tr key={ rider.Name }>
@@ -77,7 +81,9 @@ class Ranking extends React.Component<any, any> {
 
 const mapStateToProps = (state :any) => {
     return {
-        riders: state.riders
+        riders: state.riders,
+        raceTracks: state.raceTracks,
+        selectedLocation: state.selectedLocation
     }
 };
 

@@ -1,4 +1,4 @@
-import { GET_LOCATIONS } from "../actions/index";
+import { GET_LOCATIONS, UPDATE_LOCATION } from "../actions/index";
 import { Action } from "../interfaces";
 
 export function LocationReducer(state :Array<any> = [], action :Action) {
@@ -14,7 +14,7 @@ export function LocationReducer(state :Array<any> = [], action :Action) {
     }
 }
 
-export function SelectedLocationReducer(state :Array<any> = [], action :Action) {
+export function SelectedLocationReducer(state :string = "", action :Action) {
     switch (action.type) {
         case GET_LOCATIONS: {
             let locationNames = action.payload.race_track.map((details: any) => {
@@ -22,6 +22,8 @@ export function SelectedLocationReducer(state :Array<any> = [], action :Action) 
             });
             return locationNames[0];
         }
+        case UPDATE_LOCATION:
+            return action.payload;
         default:
             return state;
     }
