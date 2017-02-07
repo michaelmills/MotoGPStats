@@ -39,6 +39,11 @@ export function getRaceResults(path :string) {
             };
             let standings = resp.data.standing;
 
+            if (!standings) {
+                dispatch({type: GET_RACE_RESULTS, payload: []});
+                return;
+            }
+
             let ranking = standings.map((details: any): RiderModel => {
                 let detailPosition = Number(details[RaceRank.position]);
                 let position = detailPosition === 0 ? "-" : detailPosition;

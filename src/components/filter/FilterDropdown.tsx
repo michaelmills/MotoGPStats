@@ -1,5 +1,10 @@
 import * as React from "react";
-import {FilterDropdownProps} from "./FilterDropdownInterface";
+
+export interface FilterDropdownProps {
+    label?: string,
+    options?: Array<string>;
+    onChange?(s: string): void;
+}
 
 export default class FilterDropdown extends React.Component<FilterDropdownProps, {}> {
     constructor(props: any) {

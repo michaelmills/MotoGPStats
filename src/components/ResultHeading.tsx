@@ -1,5 +1,4 @@
 import * as React from "react";
-import Ranking from "./rank/Ranking";
 import { connect } from "react-redux";
 
 interface ResultHeadingProps {

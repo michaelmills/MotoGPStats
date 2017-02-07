@@ -5,7 +5,7 @@ import Main from "./main/Main";
 import Footer from "./footer/Footer";
 
 
-export default class App extends React.Component<IAppProps, IAppState> {
+export default class App extends React.Component<{}, {}> {
     public render() {
         return (
             <div>

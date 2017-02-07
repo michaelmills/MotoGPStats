@@ -4,21 +4,15 @@ import { connect } from "react-redux";
 import { updateSelectedYear, updateSelectedLocation } from "../../actions/index";
 
 interface FilterProps {
-    locationOptions? :any,
+    locationOptions :any,
     updateSelectedYear? :any,
     updateSelectedLocation? :any
 }
 
-const yearOptions :Array<string> = ["2016", "2015", "2014"];
-
-class Filter extends React.Component<any, {}> {
+class Filter extends React.Component<FilterProps, {}> {
 
     constructor(props: any) {
         super(props);
-    }
-
-    onYearChange(filterOption: any) {
-        this.props.updateSelectedYear(filterOption);
     }
 
     onLocationChange(name: any) {
@@ -27,11 +21,6 @@ class Filter extends React.Component<any, {}> {
 
     public render() {
         const dropDowns = [
-            {
-                label: "Year",
-                options: yearOptions,
-                onChange: this.onYearChange.bind(this)
-            },
             {
                 label: "Location",
                 options: this.props.locationOptions,

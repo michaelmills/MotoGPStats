@@ -1,10 +1,18 @@
 import * as React from "react";
-import { RankingProps } from "./RankingInterface";
-import {RiderModel} from "../../model/RiderModel";
+import { RiderModel } from "../../model/RiderModel";
 import { getRaceResults } from "../../actions/index";
 import { connect } from "react-redux";
 
-class Ranking extends React.Component<any, any> {
+export interface RankingProps {
+    name?: string,
+    riders: Array<RiderModel>,
+    generateRankings?: () => any,
+    getRaceResults?: (filename: string) => any,
+    raceTracks :any,
+    selectedLocation :any
+}
+
+class Ranking extends React.Component<RankingProps, {}> {
     constructor(props: any) {
         super(props);
     }
@@ -20,8 +28,8 @@ class Ranking extends React.Component<any, any> {
     }
 
     shouldComponentUpdate(nextProps: any) {
-        let nextName = nextProps.riders[0] && nextProps.riders[0].name;
-        let currentName = this.props.riders[0] && this.props.riders[0].name;
+        let nextName = nextProps.riders[0] && nextProps.riders[0].Name;
+        let currentName = this.props.riders[0] && this.props.riders[0].Name;
         return (nextProps.selectedLocation !== this.props.selectedLocation) ||
             (nextName !== currentName);
     }
