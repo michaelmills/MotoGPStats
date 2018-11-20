@@ -1,0 +1,18 @@
+<table class="table">
+	<thead>
+		<tr>
+			<th scope="col">Pos.</th>
+			<th scope="col">Name</th>
+			<th scope="col">Time</th>
+			<th scope="col">Team</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr *ngFor="let result of results">
+			<td>{{ result.position }}</td>
+			<td>{{ result.name }}</td>
+			<td>{{ result.time }}</td>
+			<td>{{ result.team }}</td>
+		</tr>
+	</tbody>
+</table>

@@ -1,0 +1,6 @@
+<nav class="card">
+	<div class="card-body">
+		<h4 class="mb-3">{{ label }}</h4>
+		<app-filter-dropdown *ngFor="let filter of filters" [label]="filter.label" [items]="filter.content"></app-filter-dropdown>
+	</div>
+</nav>

@@ -1,0 +1,11 @@
+<div class="dropdown mb-3">
+	<label class="label font-weight-bold d-block">{{ label }}</label>
+	<button type="button" class="btn btn-sm btn-light dropdown-toggle w-auto" data-toggle="dropdown">
+		{{ items[0] }}
+	</button>
+	<div class="dropdown-menu" role="menu">
+		<li *ngFor="let item of items">
+			<a class="dropdown-item">{{ item }}</a>
+		</li>
+	</div>
+</div>

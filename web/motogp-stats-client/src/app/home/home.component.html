@@ -1,0 +1,14 @@
+<section class="container-fluid mt-5">
+	<div class="row">
+		<div class="col-3">
+			<app-filter [label]="'Race Filter'" [filters]="filters"></app-filter>
+		</div>
+		<div class="col-9">
+			<app-main-content>
+				<h3>{{ title }}</h3>
+				<br>
+				<app-race-result></app-race-result>
+			</app-main-content>
+		</div>
+	</div>
+</section>
