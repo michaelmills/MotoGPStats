@@ -8,7 +8,7 @@
 		</tr>
 	</thead>
 	<tbody>
-		<tr *ngFor="let result of results">
+		<tr *ngFor="let result of results | async">
 			<td>{{ result.position }}</td>
 			<td>{{ result.name }}</td>
 			<td>{{ result.time }}</td>

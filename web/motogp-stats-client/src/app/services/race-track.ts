@@ -17,3 +17,15 @@ export interface RaceResultEntry {
 	time: string;
 	driver_carbike: string;
 }
+
+export interface TrackMapping {
+	trackId: string;
+	trackName: string;
+}
+
+export interface Ranking {
+	pos: string;
+	rider: string;
+	team: string;
+	'time/gap': string;
+}

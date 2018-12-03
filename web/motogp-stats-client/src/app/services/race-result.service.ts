@@ -1,9 +1,10 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable, Subject } from 'rxjs';
-import { map, switchMap } from 'rxjs/operators';
+import { tap } from 'rxjs/internal/operators';
+import { map } from 'rxjs/operators';
 import { Rider } from '../models/rider';
-import { RaceResult, RaceTrack, RaceTrackEntry } from './race-track';
+import { RaceResult, Ranking, TrackMapping } from './race-track';
 
 @Injectable({
 	providedIn: 'root'
@@ -13,24 +14,43 @@ export class RaceResultService {
 	raceInfo = new Subject<any>();
 	results = new Subject<Rider[]>();
 
+	private trackMappings: TrackMapping[];
+	private readonly racePath = 'assets/motogp/2016/LOCATION/race.json';
+
 	constructor(private http: HttpClient) {
 	}
 
 	public getLocations(): Observable<string[]> {
-		return this.http.get('assets/races.json').pipe(
-				map((value: RaceTrack) => value.tracks.map(detail => detail.name)));
+		return this.http.get<TrackMapping[]>('assets/motogp/2016/index.json').pipe(
+				tap((value: TrackMapping[]) => this.trackMappings = value),
+				map((value: TrackMapping[]) => value.map(mapping => mapping.trackName)));
 	}
 
 	public filter(location: string): void {
-		this.http.get<RaceTrack>('assets/races.json')
+		const trackId = this.trackMappings.find(value => value.trackName === location).trackId;
+
+		this.http.get<Ranking[]>(this.racePath.replace('LOCATION', trackId))
 				.pipe(
-						map((value: RaceTrack) => value.tracks.find((track: RaceTrackEntry) => track.name === location).filename),
-						switchMap(filename => this.getResults(filename)))
+						map((value: Ranking[]) => value.map(rank => {
+							let rider = new Rider();
+							rider.position = rank.pos;
+							rider.name = rank.rider;
+							rider.time = rank['time/gap'];
+							rider.team = rank.team;
+							return rider;
+						})))
 				.subscribe(value => {
-					this.raceInfo.next({ year: '2016', location: location });
+					this.raceInfo.next({year: '2016', location: location});
 					this.results.next(value);
 				});
-
+		// this.http.get<RaceTrack>(this.racePath.replace('LOCATION', trackId))
+		// 		.pipe(
+		// 				map((value: Ranking) => value.tracks.find((track: RaceTrackEntry) => track.name === location).filename),
+		// 				switchMap(filename => this.getResults(filename)))
+		// 		.subscribe(value => {
+		// 			this.raceInfo.next({year: '2016', location: location});
+		// 			this.results.next(value);
+		// 		});
 	}
 
 	private getResults(filename: string) {

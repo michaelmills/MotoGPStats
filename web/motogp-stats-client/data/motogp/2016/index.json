@@ -1,0 +1,78 @@
+[
+  {
+    "trackId": "QAT",
+    "trackName": "Losail International Circuit"
+  },
+  {
+    "trackId": "ARG",
+    "trackName": "Termas de Río Hondo"
+  },
+  {
+    "trackId": "AME",
+    "trackName": "Circuit of The Americas"
+  },
+  {
+    "trackId": "SPA",
+    "trackName": "Circuito de Jerez - Angel Nieto"
+  },
+  {
+    "trackId": "FRA",
+    "trackName": "Le Mans"
+  },
+  {
+    "trackId": "ITA",
+    "trackName": "Autodromo del Mugello"
+  },
+  {
+    "trackId": "CAT",
+    "trackName": "Circuit de Barcelona - Catalunya"
+  },
+  {
+    "trackId": "NED",
+    "trackName": "TT Circuit Assen"
+  },
+  {
+    "trackId": "GER",
+    "trackName": "Sachsenring"
+  },
+  {
+    "trackId": "CZE",
+    "trackName": "Automotodrom Brno"
+  },
+  {
+    "trackId": "AUT",
+    "trackName": "Red Bull Ring - Spielberg"
+  },
+  {
+    "trackId": "GBR",
+    "trackName": "Silverstone Circuit"
+  },
+  {
+    "trackId": "RSM",
+    "trackName": "Misano World Circuit Marco Simoncelli"
+  },
+  {
+    "trackId": "ARA",
+    "trackName": "MotorLand Aragón"
+  },
+  {
+    "trackId": "THA",
+    "trackName": "Change International Circuit"
+  },
+  {
+    "trackId": "JPN",
+    "trackName": "Twin Ring Motegi"
+  },
+  {
+    "trackId": "AUS",
+    "trackName": "Phillip Island"
+  },
+  {
+    "trackId": "MAL",
+    "trackName": "Sepang International Circuit"
+  },
+  {
+    "trackId": "VAL",
+    "trackName": "Circuit Ricardo Tormo"
+  }
+]

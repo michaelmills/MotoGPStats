@@ -3,3 +3,4 @@ dist
 .idea
 npm-debug.log
 .editorconfig
+server/motogp-stats-server/.mvn

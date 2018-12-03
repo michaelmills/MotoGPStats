@@ -10,13 +10,9 @@ export class FilterComponent implements OnInit {
 	@Input()
 	label: string;
 
-	@Input()
-	filters: any[];
-
-  constructor(private readonly raceResultService: RaceResultService) { }
+  constructor() { }
 
   ngOnInit() {
-  	this.raceResultService.filter("Losail International Circuit");
   }
 
 }

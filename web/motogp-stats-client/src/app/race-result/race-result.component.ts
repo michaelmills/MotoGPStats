@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs/index';
 import { Rider } from '../models/rider';
 import { RaceResultService } from '../services/race-result.service';
 
@@ -8,12 +9,12 @@ import { RaceResultService } from '../services/race-result.service';
   styleUrls: ['./race-result.component.css']
 })
 export class RaceResultComponent implements OnInit {
-	private results: Rider[];
+	results: Observable<Rider[]>;
 
   constructor(private readonly raceResultService: RaceResultService) { }
 
   ngOnInit() {
-  	this.raceResultService.results.subscribe(value => this.results = value);
+  	this.results = this.raceResultService.results;
   }
 
 }

@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs/index';
+import { map } from 'rxjs/operators';
 import { RaceResultService } from '../services/race-result.service';
 
 @Component({
@@ -7,27 +9,30 @@ import { RaceResultService } from '../services/race-result.service';
 	styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-	title: string;
-	private filters: any[] = [];
-	private yearOptions = ["2016", "2015", "2014"];
+	title: Observable<string>;
+	yearFilterLabel = "Year";
+	yearOptions = ["2016", "2015", "2014"];
+	locationFilterLabel = "Location";
+	locations: string[];
 
 	constructor(private readonly raceResultService: RaceResultService) {
 	}
 
 	ngOnInit() {
-		this.raceResultService.getLocations().subscribe(locationOptions =>
-				this.filters.push({
-					label: "Year",
-					content: this.yearOptions
-				}, {
-					label: "Location",
-					content: locationOptions
-				})
-		);
+		this.raceResultService.getLocations().subscribe(value => {
+			this.locations = value;
+			this.filterLocation(this.locations[0]);
+		});
 
-		this.raceResultService.raceInfo.subscribe(info => {
-			this.title = info.year + ' ' + info.location;
-		})
+		this.title = this.raceResultService.raceInfo.pipe(
+				map(info => info.year + ' ' + info.location));
+	}
+
+	filterYear(selected: string) {
+	}
+
+	filterLocation(selected: string) {
+		this.raceResultService.filter(selected);
 	}
 
 }

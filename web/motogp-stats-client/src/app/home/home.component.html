@@ -1,11 +1,14 @@
 <section class="container-fluid mt-5">
 	<div class="row">
 		<div class="col-3">
-			<app-filter [label]="'Race Filter'" [filters]="filters"></app-filter>
+			<app-filter [label]="'Race Filter'">
+				<app-filter-dropdown [label]="yearFilterLabel" [content]="yearOptions"></app-filter-dropdown>
+				<app-filter-dropdown [label]="locationFilterLabel" [content]="locations" (selected)="filterLocation($event)"></app-filter-dropdown>
+			</app-filter>
 		</div>
 		<div class="col-9">
 			<app-main-content>
-				<h3>{{ title }}</h3>
+				<h3>{{ title | async }}</h3>
 				<br>
 				<app-race-result></app-race-result>
 			</app-main-content>
