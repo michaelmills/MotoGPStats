@@ -1,6 +1,6 @@
 package com.motogpstats;
 
-import com.motogpstats.handlers.TestHandler;
+import com.motogpstats.handlers.RaceCrawlerHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.reactive.function.server.RequestPredicate;
@@ -22,7 +22,7 @@ public class Router {
 			accept(APPLICATION_JSON).or(accept(APPLICATION_STREAM_JSON));
 
 	@Bean
-	RouterFunction<ServerResponse> userInfoRoutes(TestHandler handler) {
+	RouterFunction<ServerResponse> userInfoRoutes(RaceCrawlerHandler handler) {
 		return nest(path(DEFAULT_BASE_PATH + "crawl"),
 				route(GET("/").and(ACCEPTS_JSON), handler::get));
 	}

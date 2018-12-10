@@ -5,3 +5,4 @@ npm-debug.log
 .editorconfig
 server/motogp-stats-server/.mvn
 server/motogp-stats-server/target
+*.iml
