@@ -10,9 +10,20 @@
     </appender>
 
     <!-- Send logs to both console and file audit -->
-    <logger name="com.motogpstats" level="debug"
-            additivity="false">
-        <appender-ref ref="STDOUT" />
+    <logger name="com.motogpstats" level="debug" additivity="false">
+        <appender-ref ref="STDOUT"/>
     </logger>
+
+    <logger name="com.springframework" level="debug" additivity="false">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <logger name="org.hibernate.SQL" level="info" additivity="false">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <root level="error">
+        <appender-ref ref="STDOUT"/>
+    </root>
 
 </configuration>

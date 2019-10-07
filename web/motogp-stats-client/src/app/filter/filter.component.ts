@@ -1,5 +1,4 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { RaceResultService } from '../services/race-result.service';
 
 @Component({
   selector: 'app-filter',

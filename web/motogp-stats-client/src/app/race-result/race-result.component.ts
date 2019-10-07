@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnChanges, OnInit, SimpleChanges } from '@angular/core';
 import { Observable } from 'rxjs/index';
 import { Rider } from '../models/rider';
 import { RaceResultService } from '../services/race-result.service';
@@ -9,12 +9,15 @@ import { RaceResultService } from '../services/race-result.service';
   styleUrls: ['./race-result.component.css']
 })
 export class RaceResultComponent implements OnInit {
-	results: Observable<Rider[]>;
+	results: Observable<any[]>;
 
   constructor(private readonly raceResultService: RaceResultService) { }
 
   ngOnInit() {
-  	this.results = this.raceResultService.results;
+  	// this.results = this.raceResultService.results;
   }
 
+  retrieveResults(year: number, circuitKey: number) {
+	  this.results = this.raceResultService.getResults(year, circuitKey);
+  }
 }

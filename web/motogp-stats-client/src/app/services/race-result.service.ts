@@ -14,6 +14,8 @@ export class RaceResultService {
 	raceInfo = new Subject<any>();
 	results = new Subject<Rider[]>();
 
+	raceResults = new Subject<any[]>();
+
 	private trackMappings: TrackMapping[];
 	private readonly racePath = 'assets/motogp/2016/LOCATION/race.json';
 
@@ -53,7 +55,17 @@ export class RaceResultService {
 		// 		});
 	}
 
-	private getResults(filename: string) {
+	public getCircuits(year: string | number): Observable<any[]> {
+		const params = { 'year': year.toString() };
+		return this.http.get<any[]>('motogpstats/race/circuits', { params: params });
+	}
+
+	public getResults(year: string | number, circuitKey: string | number) {
+		const params = { 'year': year.toString(), 'circuitKey': circuitKey.toString() };
+		return this.http.get<string[]>('motogpstats/race/results', { params: params });
+	}
+
+	private getResultsssss(filename: string) {
 		return this.http.get(filename)
 				.pipe(
 						map((value: RaceResult) => value.standing.map(entry => {

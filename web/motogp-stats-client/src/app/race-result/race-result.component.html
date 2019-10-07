@@ -9,10 +9,10 @@
 	</thead>
 	<tbody>
 		<tr *ngFor="let result of results | async">
-			<td>{{ result.position }}</td>
-			<td>{{ result.name }}</td>
-			<td>{{ result.time }}</td>
-			<td>{{ result.team }}</td>
+			<td>{{ result['position'] || 'DNF' }}</td>
+			<td>{{ result['rider']['name'] }}</td>
+			<td>{{ result['time'] }}</td>
+			<td>{{ result['rider']['team'] }}</td>
 		</tr>
 	</tbody>
 </table>

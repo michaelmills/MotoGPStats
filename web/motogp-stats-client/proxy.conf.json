@@ -1,0 +1,6 @@
+{
+  "/**": {
+    "target": "http://localhost:50000",
+    "secure": false
+  }
+}

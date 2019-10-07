@@ -9,3 +9,17 @@ spring:
   jpa:
     properties:
       hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
+
+motogp:
+  motogp-category:
+    start-season: 2002
+  moto2-category:
+    start-season: 2010
+  moto3-category:
+    start-season: 2012
+  api:
+    base: http://www.motogp.com/en/ajax/results/selector/
+    season-url: http://www.motogp.com/en/ajax/results/selector/
+    category-url: http://www.motogp.com/en/ajax/results/selector/{year}/{circuitCode}/
+    session-url: http://www.motogp.com/en/ajax/results/selector/{year}/{circuitCode}/{category}/
+    race-url: http://www.motogp.com/en/ajax/results/parse/{year}/{circuitCode}/{category}/RAC/
