@@ -26,7 +26,7 @@
     "css-loader": "^0.25.0",
     "fetch": "^1.1.0",
     "gulp": "^3.9.1",
-    "node-sass": "^3.11.3",
+    "node-sass": "^4.14.1",
     "sass-loader": "^4.0.2",
     "source-map-loader": "^0.1.5",
     "style-loader": "^0.13.1",
